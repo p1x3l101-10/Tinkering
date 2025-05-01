@@ -1,0 +1,29 @@
+#!/bin/sh
+
+# Files to monitor and sign
+FILE="pack.toml"
+SIGNATURE="unsup.sig"
+KEY="autosign/key.pem"
+
+# Exit early if private key is missing
+if [ ! -f "$KEY" ]; then
+    echo "Error: Missing private key at $KEY" >&2
+    exit 1
+fi
+
+# Check if FILE is staged
+if git diff --cached --name-only | grep -q "^$FILE$"; then
+    echo "Signing $FILE with OpenSSL Ed25519..."
+
+    # Sign and write to .sig file
+    openssl dgst -sha512 -sign "$KEY" -out "$SIGNATURE" "$FILE"
+    if [ $? -ne 0 ]; then
+        echo "Failed to sign $FILE" >&2
+        exit 1
+    fi
+
+    # Stage the .sig file
+    git add "$SIGNATURE"
+fi
+
+exit 0
