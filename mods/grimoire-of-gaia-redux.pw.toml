@@ -3,8 +3,8 @@ filename = "gogredux-1.12.2-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "6edc5bb7f063c4051c64a8079f562422a3cb9e024659fb9cf4a6a08916922c11d6658c6d174d39742351e2fe6047ca8112605e097354d6169481ce8391f0a6ed"
+hash-format = "sha1"
+hash = "00531d6951de6db5c61ba462a6aca220d71a4a9a"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "AntiqueAtlasAutoMarker-1.2.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "5380e0a3b97dc38f06ef2d5e142f4c4e7e6093b799ce3066d199cd1eea29510cb8fa28dfea6243440223569807564277d6bedf619c54413341554ce42b9a1710"
+hash-format = "sha1"
+hash = "d7b4e952f5f5b948d2ababd019cfe31ee100edda"
 mode = "metadata:curseforge"
 
 [update]

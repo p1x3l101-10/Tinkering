@@ -3,8 +3,8 @@ filename = "Techguns Re.zip"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "8202b7c07ccbe4b9e36da689eb103d34e2c1105d26fb090eb3b752d898c65daf3cab1a24ae9c15a47af06416346fb885a3562c50da7baf21c5f38fd20f3684ac"
+hash-format = "sha1"
+hash = "064e88abdbe05bc9eec6a97123ce138e222484f2"
 mode = "metadata:curseforge"
 
 [update]

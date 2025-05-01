@@ -3,8 +3,8 @@ filename = "Forgelin-1.8.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "6b59fc70ce0ecaf7b500e8a0da124b6f09fb61866d551d321204e5ff3fe3b2fe3f8379ce0cb5898b0398931ae5fa3d4aaeae4107ee4c9a9ec001f918d821683d"
+hash-format = "sha1"
+hash = "7a87553fcb808a45d9c7e03f113b355ac7fd10d7"
 mode = "metadata:curseforge"
 
 [update]

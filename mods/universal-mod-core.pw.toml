@@ -3,8 +3,8 @@ filename = "UniversalModCore-1.12.2-forge-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "57fba45ac7d1a2561f17e894426fbb7b0c924f4686ea84a2ab054489f6fb04c26e1dc8568dfb745afa0ab98f67bb946bcb5842b9a35a7ba91ef7bd3c205cbbe1"
+hash-format = "sha1"
+hash = "efe50ef6834036fc69b1ae7536921e930ea8f091"
 mode = "metadata:curseforge"
 
 [update]

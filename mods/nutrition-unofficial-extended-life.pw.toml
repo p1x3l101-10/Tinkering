@@ -3,8 +3,8 @@ filename = "Nutrition-UEL-4.16.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "5238fcf7acde43624888dc1716b74eecf1b8ac593eb367ae106732e132059b74a71091f18db9eef56997e3929b52ff43a84c0664b68376526fb2a6a0a007219a"
+hash-format = "sha1"
+hash = "eb353bb4aea78b1ce030ad5bf4fb15f830b3701d"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "IntegratedTerminals-1.12.2-1.0.14.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "2a83b1bbfce9bda534208a8f9f13137785f0f5897c54b6d118dfd098142bf8d1ac1063963f064dd52a53566867c89f5e82d4a8b2c25214142fafde8657de4522"
+hash-format = "sha1"
+hash = "716c6643907e2ef2d0721e26c388b526319987bf"
 mode = "metadata:curseforge"
 
 [update]

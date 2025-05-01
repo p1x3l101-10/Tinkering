@@ -3,8 +3,8 @@ filename = "xnet-1.12-1.8.4-ynet.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "3ced3ed817266dabf4397947edd6127ffa7cbf1f72bc6fab64894c4dcf6c821f73f8a19b4caea027a8d7b8581a4eb3038399b50f14f8535684f806e8087051db"
+hash-format = "sha1"
+hash = "d5886bc1e309a5d31fd251fa37c4c622e50dd715"
 mode = "metadata:curseforge"
 
 [update]

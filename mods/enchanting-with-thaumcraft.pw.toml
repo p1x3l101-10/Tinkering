@@ -3,8 +3,8 @@ filename = "enchantingwiththaumcraft-1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "b1736b4d2b2c7b00cda18b9e81fa6dd5d585cd0b8943636e9383ce6ed34b4e9b5ab485c053e296a786e8ba95b5799e4a5ba66260607c1582ea0b6faedaab26bf"
+hash-format = "sha1"
+hash = "ba6d422d9da35a20640ce96ae05660d7a6a21e9f"
 mode = "metadata:curseforge"
 
 [update]

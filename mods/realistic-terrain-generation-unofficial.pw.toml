@@ -3,8 +3,8 @@ filename = "RTGU-1.12.2-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "1d82b3755bd11a4f0c34ddd91a8a24998689be21ba6e41d063f8e0dcafcdd803b320b492dda367a9b000232c34f88f36a879d51193afb22a3f298e0533939992"
+hash-format = "sha1"
+hash = "c92f573c2f7c6f391658060d77031a3d400563c3"
 mode = "metadata:curseforge"
 
 [update]

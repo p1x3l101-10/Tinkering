@@ -3,8 +3,8 @@ filename = "IntegratedTunnels-1.12.2-1.6.14.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "89bdb9e9e92ec1c5fc6bfe5715df2709c4227285b4776fd4b4021ead7aeee2301d72f7a264373f0fd54bdf323b26c7c4122c64da46a8529c3bceac6150c66c44"
+hash-format = "sha1"
+hash = "893e43433e3eeef6b6ebfedb675c213617baabb1"
 mode = "metadata:curseforge"
 
 [update]

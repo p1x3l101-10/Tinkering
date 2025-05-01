@@ -3,8 +3,8 @@ filename = "OCDriversPlus-1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "768a3ae22248e20abd823d1ac00be2dd79522aec10fc69e0b2e6512205c5ff04b4c2718c41f0f748c8258ffce119841b30d642422b0f906839782dab6ccec71d"
+hash-format = "sha1"
+hash = "7118e60ab5c89bcb0e54bd1a249bf21330d07fc6"
 mode = "metadata:curseforge"
 
 [update]

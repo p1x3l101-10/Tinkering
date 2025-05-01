@@ -3,8 +3,8 @@ filename = "ManaVisualizer-r1.0-1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "d958ee3e86da60627301955fb31ec30827c16c7a72fdfcb875943c99cb59ec5e13dfd6138064e63dac604971f714085b0d8091b16cfd58bf00001e411e5e02b0"
+hash-format = "sha1"
+hash = "9a5aca32aa6b52a2e8a1fd450d8ca766fd65bf44"
 mode = "metadata:curseforge"
 
 [update]

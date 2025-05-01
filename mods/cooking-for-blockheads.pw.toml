@@ -3,8 +3,8 @@ filename = "CookingForBlockheads_1.12.2-6.5.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "cbeabafb6731393dcc921d68d172540a3a2546b3934f35555c9cc502e1e20fc846a9926b4a54e5ea792edb64aef4fb5b5de8a817b59ccc72967ed38985415dae"
+hash-format = "sha1"
+hash = "8e7b73b39c0bdae84a4be445027747c9bae935c4"
 mode = "metadata:curseforge"
 
 [update]

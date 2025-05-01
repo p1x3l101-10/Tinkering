@@ -3,8 +3,8 @@ filename = "CraftTweaker2-1.12-4.1.20.699.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "11f40fbae0ecd10d2cc88736af01ef06e9958dbf65d754ef90146f47613fb074da63f87adfad3c47e91298455b36f9c98019d7d7878f29107f598d62a8c9f11e"
+hash-format = "sha1"
+hash = "c3795166f8827222aa0d6e1b0c7aabc24ad1b614"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "335fe9602e25247904a1ced9ca8bec8e2dbf3537d2fc41926a8ba3b0599db1eff9d260d1abd68943b2ceccdd0662afeb8ac8ff81d32a938757539fd965e0ed6e"
+hash-format = "sha1"
+hash = "747928e38d394c03bd7996568ae3baea4dd566cf"
 mode = "metadata:curseforge"
 
 [update]

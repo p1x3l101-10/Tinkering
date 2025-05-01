@@ -3,8 +3,8 @@ filename = "ae2-uel-v0.56.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "973e7cc25da24eb3b9ac85c8712dc48a33d904ae3ecda6fd2cee051baba4e48b8458a0dcb58f846d360190c4f7277388b3a13059446a79544bd7186caade603e"
+hash-format = "sha1"
+hash = "972169ccbb3c214108f7775fc9ffe9edea66a118"
 mode = "metadata:curseforge"
 
 [update]

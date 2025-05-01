@@ -3,8 +3,8 @@ filename = "savemystronghold-1.12.2-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "f36117d3b1ea8015fc44e6fe9f7b26609a051ec393a60dc08ebec52e25697748b28c7e6c5f648b65f7f414c5bc1d139c2ed35580d1b244587315a95f0f1c3544"
+hash-format = "sha1"
+hash = "22fe11452d8b4e2dfebb2a2d438b8b34e8609857"
 mode = "metadata:curseforge"
 
 [update]

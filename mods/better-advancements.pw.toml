@@ -3,8 +3,8 @@ filename = "BetterAdvancements-1.12.2-0.1.0.77.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "4eec713ab56eb4c66edd28e828ed47099dbe4987b2710dfc38df8a00d3c617901fcc07c0693002357ac0abf571246ee0e6f59af6687f32686b0228f6930279ad"
+hash-format = "sha1"
+hash = "13948f45e69059c3714266a1549bf643fee6ebc3"
 mode = "metadata:curseforge"
 
 [update]

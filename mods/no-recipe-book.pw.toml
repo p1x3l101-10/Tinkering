@@ -3,8 +3,8 @@ filename = "noRecipeBook_v1.2.2formc1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "41cd730458ee363077ee1d711656e573fe6746711b944935e61e48a487985df51ae8cc73355f7e0ca13afc90a10e864591499bbd5e85d1363e6706b3b3d52a67"
+hash-format = "sha1"
+hash = "699a1235d426775c87123ea34c5bad3bb51fc03e"
 mode = "metadata:curseforge"
 
 [update]

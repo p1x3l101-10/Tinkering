@@ -3,8 +3,8 @@ filename = "Snad-1.12.1-1.7.09.16a.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "9fc46231f6e6fd35344ca6e61de43fb6e937d60157afdece4145087f5e5ad622a94a05f0aecdf4a920ca1b4d559ceec5c1a8bc406724f12afda287b9495af4ba"
+hash-format = "sha1"
+hash = "c978dbfca262e0b2f5cc0132dd76a5e2d2901304"
 mode = "metadata:curseforge"
 
 [update]

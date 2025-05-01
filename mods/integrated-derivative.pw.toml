@@ -3,8 +3,8 @@ filename = "integratedderivative-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "1b9a171a4c5dcdd79ba215df8809abe7fdefb1fee8ba9d8a5872892fd981b62f6ce3de3234aa2835a4f411238881ada58b52df3b8533cb51213d412e2bc84ed1"
+hash-format = "sha1"
+hash = "56413576f77d08ac395b05662008539a0288cbf4"
 mode = "metadata:curseforge"
 
 [update]

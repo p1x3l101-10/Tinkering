@@ -3,8 +3,8 @@ filename = "PamsRedbudTree1.12.2b.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "8b412f2deb0e37baf41c9c95a596c60150efd6a8bc903defeb047f545fc621b3dcfe46e7944c999135e32a55f16f3ef042ffb2c3193524cdc1a8fac3b62dd1bc"
+hash-format = "sha1"
+hash = "8ee8d79daee0a90e374f0d40067f77e364522eca"
 mode = "metadata:curseforge"
 
 [update]

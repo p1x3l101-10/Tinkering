@@ -3,8 +3,8 @@ filename = "ocxnetdriver-1.0.3-b17.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "8a05aedc347397a0dfb844ab6c2d094a87e656be679cb5b0be2fae7eb660685239541a0bba68c06c3bf92d762c1b9833d9ad14e4632a44c36b23af1b2aa0853c"
+hash-format = "sha1"
+hash = "c0168aa96831aa717f6c9339c991cba17ece7373"
 mode = "metadata:curseforge"
 
 [update]
