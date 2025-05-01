@@ -1,8 +1,0 @@
-setIcon(<tconstruct:pick_head, nbt:{Material:"flint"}>)
-setTitle("...AND STONE!")
-setDescription("Create a flint pickaxe head for mining stone")
-setShowToast(true)
-setAnnounceToChat(false)
-addParent("pack:stage0/tool_stations")
-crafted = addCriteria("crafted", "triumph:player_crafted_item")
-crafted.setItem(<tconstruct:pick_head, nbt:{Material:"flint"}>)

@@ -1,7 +1,0 @@
-setIcon(<minecraft:flint>)
-setTitle("Stage 0")
-setDescription("You have 10 minutes to get yourself a flint shovel and dig a hole to stay in overnight. Good luck.")
-setShowToast(false)
-setAnnounceToChat(false)
-addCriteria("location", "minecraft:location")
-setBackground("minecraft:textures/gui/advancements/backgrounds/stone.png")

@@ -1,8 +1,0 @@
-setIcon(<minecraft:gravel>)
-setTitle("Getting gravel")
-setDescription("The only early source of flint is gravel, so you need to get some.")
-setShowToast(true)
-setAnnounceToChat(false)
-addParent("pack:stage0/root")
-criteria = addCriteria("digGravel", "triumph:player_break_block")
-criteria.setBlock(<minecraft:gravel>)

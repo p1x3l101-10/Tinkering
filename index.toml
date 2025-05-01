@@ -65,74 +65,6 @@ file = "config/tinkersurvival.cfg"
 hash = "4eea70f2f0c0434e0626c917306021bab53e20b8d6e17f919cacbb208eaffe58"
 
 [[files]]
-file = "config/triumph/Triumph.txt"
-hash = "546d1a14e2032a3f0d891ecba9d322d50a7a549ac723ae56a9793b331dea9f8d"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/flint.txt"
-hash = "2e5c49424b47a84dd2db8ea382e9cf144fc2da73973b70f7d4cb48ace1aaf761"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/flint_axe.txt"
-hash = "41d8be9fdfb3d39e0277903bb36961e41beac2f55f1bcc666846e8ef368d7bf9"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/flint_pick.txt"
-hash = "189b8b1ed9fa19deddb3adc595d43760cfb84100319aee77fb4d3abe0c2b9c20"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/flint_shovel.txt"
-hash = "81f29c4d74e9fff27f43db8bdf4dd8aef9c4e90c40b36e8815c71293cd35aa35"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/getting_wood.txt"
-hash = "6f46e561844c3e2c7942a9dee2b8e9909863fa43058989fdb64e2355fc9deee8"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/gravel.txt"
-hash = "c0237421fcb0c0ca83e917330887ddaf68fa451141026d2b333b7fcc81cedb59"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/knapping_shards.txt"
-hash = "747f3a9b384c87dea7e90c9c96f500373ecaf5d9d964c548eb74155b7a44fa40"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/pebble.txt"
-hash = "bf465d141265f1c790ea9dcf8081f64764d4eb1e9fedf1689c13eb4bc3400839"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/planks.txt"
-hash = "49f4753007f3c16234b4c8513b357db1b5f5c3f25130063514c2e6674b924e74"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/prim_axe.txt"
-hash = "4630abe3003604ed8dd48c4db930b4f454ea32b22fc5c114c98277b5426d5a35"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/prim_knife.txt"
-hash = "bd8f13e8ed12a9b4f4e8693ea7f75853430fe029140050c551f9d7be04eb289b"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/prim_saw.txt"
-hash = "e710b8e08a82cc293d5d763c2af559bd8233e18571f7b8f3843d2525446d0da3"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/prim_string.txt"
-hash = "fa046c63c60dbde38fc84faa8dcfe78b28aa4aabcadc8120d69a458af0529012"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/root.txt"
-hash = "961e040c468cb2816bb287b79e0806d6df128eb51e94f3754a4642d588a879ea"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/stick.txt"
-hash = "f5f22551d6cba1abe147d30f1e3a63869f5d6da94b7d3a40c741103579c634b6"
-
-[[files]]
-file = "config/triumph/script/pack/stage0/tool_stations.txt"
-hash = "143eea0a9c8698daadfd38df6ec07354f15f9438863570c385c57af027aabe7d"
-
-[[files]]
 file = "config/unidict/UniDict.cfg"
 hash = "6ee205d5ece69e3a7dc3ba321d339bb927cb7bc1803d34057b4882d134de3127"
 
@@ -534,11 +466,6 @@ metafile = true
 [[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "028330e6332f5a10426a59fbfaa83c698f41ed0018b84763a796f0dc4efec59e"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-legacy-forge.pw.toml"
-hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
 metafile = true
 
 [[files]]
@@ -1079,11 +1006,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets-and-baubles.pw.toml"
 hash = "157ba69af290fa02445808a4cd890851bf387b9908cc70c0a417bf4b03db2242"
-metafile = true
-
-[[files]]
-file = "mods/triumph.pw.toml"
-hash = "8137672b2e9682772d30abe84f818f752ef262a40e6214c42474f23ed8f7b28b"
 metafile = true
 
 [[files]]

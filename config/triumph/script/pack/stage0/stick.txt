@@ -1,8 +1,0 @@
-setIcon(<minecraft:stick>)
-setTitle("A sticky situation")
-setDescription("You dont need to cut down a tree for sticks, just break the leaves and eventually you will get a stick.")
-setShowToast(true)
-setAnnounceToChat(false)
-addParent("pack:stage0/root")
-criteria = addCriteria("getStick", "minecraft:inventory_changed")
-criteria.addItem(<minecraft:stick>)
