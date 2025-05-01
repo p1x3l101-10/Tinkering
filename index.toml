@@ -414,11 +414,6 @@ hash = "68acccb096d383829c1eb408b95e3698d55cb9c06d702cc1d61ca041758ce6b4"
 metafile = true
 
 [[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "490ad6dc8f3ec02cf700b83b6a459c3a63430a66f0f621df51d870ae7c9c9c1e"
-metafile = true
-
-[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "1dcd3a1624de4070c7cd48e72035b97d473864cb22dccd526fbc148d51c080e8"
 metafile = true
