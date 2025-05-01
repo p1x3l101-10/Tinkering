@@ -3,8 +3,8 @@ filename = "AR-16x-v2.1.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ef6affd5e5d17011b35c4e666d325731476a2123"
+hash-format = "sha512"
+hash = "ed8b1bb3a63e6fe70fb8b51e343e677c3ecafe849c867f455c7505ec84fe73c0a2c90f36d7c05b595735f80ee9ca95e93c7057c07992c46ea460f4bc0b4aa879"
 mode = "metadata:curseforge"
 
 [update]

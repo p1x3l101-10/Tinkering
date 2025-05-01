@@ -3,8 +3,8 @@ filename = "tc6aspects4jei-0.0.2a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0b72ee618362916608bfb756ec863380341623b1"
+hash-format = "sha512"
+hash = "305e9eaec97b7bafa26d445e9d386179085e5e55a41310fb4e0be9c3a1fad419e98dd3fc406a5b9a1ac630a0e9213a2b21ccbc8ff4450729fa3878e8344b79e8"
 mode = "metadata:curseforge"
 
 [update]

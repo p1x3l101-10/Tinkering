@@ -3,8 +3,8 @@ filename = "BetweenlandsStorage.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4f003e0533be4a7efa72b8219ebe4586070ad1c3"
+hash-format = "sha512"
+hash = "ff7bff3b2ad26256452bb2de9920db26f2a9f1ff2035c05340ae39113fd424309f96f38f439232c7a92b5829ea5b75d655d7d55cc6f811972896108e065fe850"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ToughAsNails-1.12.2-3.1.0.141-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "594c723d9708616b0f69bec1fb2d884d9ade7444"
+hash-format = "sha512"
+hash = "7f2a6fcae278aa95f1012af8c60f66a3d7dd37940cb4fc89fcb58fce42a45306a9d5765724404a5820557a6215643acac2a7a54f3387e6b7aecceb735e54fc57"
 mode = "metadata:curseforge"
 
 [update]

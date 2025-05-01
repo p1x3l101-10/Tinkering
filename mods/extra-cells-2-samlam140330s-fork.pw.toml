@@ -3,8 +3,8 @@ filename = "ExtraCells-1.12.2-2.6.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8fded28c2166f208f009e486749a2e455c755222"
+hash-format = "sha512"
+hash = "796bceb0bb1e9e6445257616635a04afba9ac4cba7815ccf5bc0dc144be8a7657067ffd30a8fda49a21283c87918c77fd052caa05eb70f42ace5d0c5a8347880"
 mode = "metadata:curseforge"
 
 [update]

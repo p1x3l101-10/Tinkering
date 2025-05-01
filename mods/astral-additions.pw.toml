@@ -3,8 +3,8 @@ filename = "astraladditions-1.12.2-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b19c058184973f0186c3bdf17aa03689d01ebef7"
+hash-format = "sha512"
+hash = "d808b70d02d26dba4f30f1e880ff8d74e3bc8aff014ef6fe96799d7ac953b445e8dcfc357cbf6d5f79c53249e18659d6b018e5b60f257972509b2d1c75dbf4b6"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "animania-1.12.2-farm-1.0.2.28.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ddc99341ac99825cee1922fa62be47bc6811a647"
+hash-format = "sha512"
+hash = "1dbb006aa93f0e4f032efcb34e9f22b2b0ff308157972c7f72e2bb1d1f7b23da6d4cbc1be37e2935dec17c90c0dc2d328db25411ff1a874f13125de06f88b74c"
 mode = "metadata:curseforge"
 
 [update]

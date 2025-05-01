@@ -3,8 +3,8 @@ filename = "asaafp-1.0.0(1).jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5b89bd846c7040a650e98676c215a3648f1cf071"
+hash-format = "sha512"
+hash = "8f4a9fe0ce0edc8cec773c96245ea952e88409d0486f46794a6268ac93c4533377a6f78dda5b481ac6055c3917271a032d22884349874808dc057251617d9c86"
 mode = "metadata:curseforge"
 
 [update]

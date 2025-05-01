@@ -3,8 +3,8 @@ filename = "DynamicTreesTinkersConstruct-1.12.2-1.2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "37a7163713284c9c3af5d77ceb6119ac6e742d5e"
+hash-format = "sha512"
+hash = "68282c15d52b87a4016c7e0e7bcf492c7eadc90929e04f77d0fadd61b1c3165931662465843a57470737b35ac89fbf1e8634533adce488a38aa8c632b07756c0"
 mode = "metadata:curseforge"
 
 [update]

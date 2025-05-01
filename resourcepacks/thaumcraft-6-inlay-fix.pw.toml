@@ -3,8 +3,8 @@ filename = "Inlay Fix 1.0.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "15698685a5c5fb46761d6dd7d0b95e005116900f"
+hash-format = "sha512"
+hash = "a204fe8a6a32890a9e19bc4cecf0c70c015a91a72d81cd016b73a7bdb88b63d62f73955fc9d96488fe3bccb2a2b2d4c4999d0196b7fafbd08f1a1b8d68825fb4"
 mode = "metadata:curseforge"
 
 [update]

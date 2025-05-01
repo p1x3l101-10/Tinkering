@@ -3,8 +3,8 @@ filename = "integratednbt-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7b2dfdfa0e26bfa5b00769e1110eb0512d5c3f52"
+hash-format = "sha512"
+hash = "8016307d3cd90574e5323ddc864273f6c918b4a1f24cf0aabb378b786c50bff7684239d13d1d886fe7303149bc9a7e52ba68075dbc167a47173fb80bad52166c"
 mode = "metadata:curseforge"
 
 [update]

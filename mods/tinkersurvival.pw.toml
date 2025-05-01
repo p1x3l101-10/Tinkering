@@ -3,8 +3,8 @@ filename = "TinkerSurvival-1.12.2-1.2.3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9d6b72245dcf8ce65774e1e096afc8a103c12cc7"
+hash-format = "sha512"
+hash = "8996f7f045d4374e0c1b8a9ca27701267c80e186080194726e32cd3d66853050bc656c3537e471d471a7cbf0b8cdea0b18e803cecfda9ac00159861ff7fc01db"
 mode = "metadata:curseforge"
 
 [update]

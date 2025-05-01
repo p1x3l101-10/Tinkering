@@ -3,8 +3,8 @@ filename = "TrackAPI-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e63bee0992b0a3403d8a95eb19676ce716691c50"
+hash-format = "sha512"
+hash = "432c8917e5c3236ef6cce2c598a64bc2f350139902e55629bc694319279a41be6c5cb547c3a2154c76df48b1f7d3c6fc9950d35fdc5d304db1a5ca9e664b09c4"
 mode = "metadata:curseforge"
 
 [update]

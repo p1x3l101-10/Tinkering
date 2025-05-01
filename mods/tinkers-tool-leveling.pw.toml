@@ -3,8 +3,8 @@ filename = "TinkerToolLeveling-1.12.2-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "69705dd5de7c9cd54f6fdb8198b959f93b7d1400"
+hash-format = "sha512"
+hash = "87198287721bd80ee0c35984eaabf1d0af65a2fa2499871bd8b171cbac196749c25bdf4a1a988918ae1fb11ddff9fdd3e883c0803af57f60b1f158935e1f2ada"
 mode = "metadata:curseforge"
 
 [update]

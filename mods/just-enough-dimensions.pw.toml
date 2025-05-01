@@ -3,8 +3,8 @@ filename = "justenoughdimensions-1.12.2-1.6.0-dev.20211009.214847.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0536349d6672c30d0e86027e6eb803e5a07492fd"
+hash-format = "sha512"
+hash = "4572cacd310a5b9e3446a787e8996ab660ef0658ae456a757d75425aa60b7ae8b41b90664c6d6d883a27c95398e2cbb535bef65365103d1f1cc7f3e4d1803d46"
 mode = "metadata:curseforge"
 
 [update]

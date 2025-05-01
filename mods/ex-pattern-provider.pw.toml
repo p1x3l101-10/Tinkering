@@ -3,8 +3,8 @@ filename = "ExtendedAE-1.12-0.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f837244c03a3279c98e4ed71ab1affe9b1fed59f"
+hash-format = "sha512"
+hash = "23423f6cd54f3ceccf2a4923496b70d120f59d49a1c7d92c4b4d998602d8fe7af2c6be812feceb3e5addf5989c0647b5ab53ce160e165184a41be042beaf82fd"
 mode = "metadata:curseforge"
 
 [update]

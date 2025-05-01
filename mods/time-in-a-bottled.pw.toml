@@ -3,8 +3,8 @@ filename = "timeinabottled-2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "822d43a88bb23b4d5ede3b7d985440923ce64bc5"
+hash-format = "sha512"
+hash = "0759398185b6ad2f2076dc3dcccfc72b287961d1d3f570ea127eb51cd4863e246df6b10791a3ceb9491fb6896c644bccd716935b493996476adc2dc56b7cb382"
 mode = "metadata:curseforge"
 
 [update]

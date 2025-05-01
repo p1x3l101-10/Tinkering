@@ -3,8 +3,8 @@ filename = "moartinkers-0.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bca8e21502c69fc7b16bf91b247afced698c67f3"
+hash-format = "sha512"
+hash = "14e0d3cadf1c30947a58715c5c000beef9d310eaec584c67dd6329e6060ecf7e6414a9b544eaf1b63da90fc388d1efe3bbb04799e62408add525d3ed173666e4"
 mode = "metadata:curseforge"
 
 [update]
