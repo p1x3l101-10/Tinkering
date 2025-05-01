@@ -4649,6 +4649,10 @@ file = "config/cyclopscore.cfg"
 hash = "3d8212d15557dfe7e2e1b2b6bacb0af1d9c95de83a684a04b1a62f099fa00997"
 
 [[files]]
+file = "config/darknesslib.cfg"
+hash = "1f3f09b24014dc255c707a3f68e0a2abb25c851510338e10a989102dd9d232c5"
+
+[[files]]
 file = "config/desertcraft.cfg"
 hash = "d0dd897fe9dd166af88056c3b9239473a1b51a4dfa18872989aa0fe0a9fc48c3"
 
@@ -4659,6 +4663,38 @@ hash = "c6a2df4af2b02fb7e4514a56b9c3bfaece423325f109177dee8e697ba01dd314"
 [[files]]
 file = "config/distinctdamagedescriptions.cfg"
 hash = "2137263df5ac31736beb9f5efb62b6ce0f5170b43eaf467bdbfb602862f850af"
+
+[[files]]
+file = "config/dynamiclights.cfg"
+hash = "8b12d027b7d3535718b7f582c0ce906e59a6079dc07733b9b0b16e450a52938e"
+
+[[files]]
+file = "config/dynamiclights_dropitems.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/dynamiclights_entityclasses.cfg"
+hash = "ed4e06010598fe65826c426b05c5fad8521e77778d778f3b8fe15b21ca26840a"
+
+[[files]]
+file = "config/dynamiclights_floodlights.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/dynamiclights_mobequipment.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/dynamiclights_onfire.cfg"
+hash = "644e2b6e3167c976babb75c5c8a42f1d985b1edede0a1537ce33775be214dafe"
+
+[[files]]
+file = "config/dynamiclights_otherplayers.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/dynamiclights_theplayer.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/dynamictrees.cfg"
@@ -4818,7 +4854,7 @@ hash = "eff4c2594988239af664a5731ed8dbaea89285d478117e4c417d369d98c60c2c"
 
 [[files]]
 file = "config/hardcoredarkness.cfg"
-hash = "3a26b4546784733d718c1b5cc6be5810dceafcf18e8314d7dbb2606a65029eb9"
+hash = "999b8164cec54008e6c3fcde199a4616010fcc9cd63653e783798d2c6c768b4a"
 
 [[files]]
 file = "config/harvestcraft.cfg"
@@ -4827,6 +4863,10 @@ hash = "35cc24a02046e91f0a5cadb420a028a0e87fc94f3162499e3a36b5ef91dd23f7"
 [[files]]
 file = "config/harvestcraft_fruittree.cfg"
 hash = "75127dba13a38bab9ded2aa8d45b974bd79dd3f51d550713b3f21dba43ef1c01"
+
+[[files]]
+file = "config/hungeringdarkness.cfg"
+hash = "45d866804ee66b2c0a82b75c6ffebc2c2ceb324c883df95e0c99376413d9cb13"
 
 [[files]]
 file = "config/hungeroverhaul/HungerOverhaul.cfg"
@@ -4846,7 +4886,7 @@ hash = "aef56174b261f11101a276f5d9164c81807f18d1999362488d7c61ad38920184"
 
 [[files]]
 file = "config/igwmod.cfg"
-hash = "b009114e923af3b280640ec647d2c497b45ebfdce053a8ff60f08f10441cdcff"
+hash = "52cd917ee9452639272289581db8c5cd4d299326b68bf80a04b1d13f5362d784"
 
 [[files]]
 file = "config/immersive_energy.cfg"
