@@ -3,8 +3,8 @@ filename = "animania-1.12.2-catsdogs-1.0.0.28.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "09da5c5fce74fb95108d9c5535810c72347e8c5180f2871f85cffce398ba30acbddf5c9fecdd71e8df145f4e562488f904532ddbba839a2206e533b78a8c4f8b"
+hash-format = "sha256"
+hash = "99662caa48255883d7c669bb3f86315d8f2abe9ef7af12fe164545bb38b61f62"
 mode = "metadata:curseforge"
 
 [update]

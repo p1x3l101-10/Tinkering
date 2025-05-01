@@ -3,8 +3,8 @@ filename = "BNBGamingLib-1.12.2-2.17.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "74d0dc371ab6f01f4762945e3a31012856744d0c06939a0a0017557060bdbe9c53d66cb98f619ce98900098b02b54a9df97c41bedd2ce64e1e228857bd3bb168"
+hash-format = "sha256"
+hash = "868c7810de85e43913dc42d8b1443d5316a71ecc19e5983e5aa6cda69ed4db5d"
 mode = "metadata:curseforge"
 
 [update]

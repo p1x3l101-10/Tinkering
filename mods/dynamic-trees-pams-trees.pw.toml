@@ -3,8 +3,8 @@ filename = "DynamicTreesPamTrees-1.12.2-1.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "f0837e70b014133dc83681f39e6c0a61ca8d7c513207fb45a1c09441707335b50e03d4535320f8a7702f8e676c526b4e575f10cc24d92214a353163ce5ee7af4"
+hash-format = "sha256"
+hash = "bc39bc06b7e9dea2f86dec2929df851b116f715364c45c4eb10fa124b4ddbf68"
 mode = "metadata:curseforge"
 
 [update]

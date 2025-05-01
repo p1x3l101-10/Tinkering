@@ -3,8 +3,8 @@ filename = "cyberware-1.12.2-0.2.11.29-hf1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "226fb1a5579e932f44acda7a845f71c98036b459d4b5921d31ca0e9ed30dbf7675058ca9a79e18a9dcd6dfff458358a4debf9cd9c1a6eea519e54e6a82406d89"
+hash-format = "sha256"
+hash = "070de66338526b354d49256c89078a0d2597dd71d6b3876d52d4a1c84f6d03fb"
 mode = "metadata:curseforge"
 
 [update]

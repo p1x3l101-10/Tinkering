@@ -3,8 +3,8 @@ filename = "electrostatic-1.12.2-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "39fb800c28530068a0163ec669423183d6a954b14ac8de83e9065ce56c9dd247ed01987b351f43d58aaa89bf5b0332a05e9df3b4271ad74fb621d579493e8ca1"
+hash-format = "sha256"
+hash = "3c79bdb2a3dad87166d9a08ce2b874855482477ec3b3bd8f16c4730061a0eed5"
 mode = "metadata:curseforge"
 
 [update]

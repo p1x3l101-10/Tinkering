@@ -3,8 +3,8 @@ filename = "OpenComputers-MC1.12.2-1.8.8+8da357f.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "771f4ea22d48291bba0fa19339a60bcb192e7d07f0001bc680db20c46cf1ab2412ed74bfcbe30ead6cb875569237c28a02eedf22eefbad9fd429f85889da5728"
+hash-format = "sha256"
+hash = "bb9b965fd8ef2141784c9948864db6ec5d439b891caa2562f1803a075f326e33"
 mode = "metadata:curseforge"
 
 [update]

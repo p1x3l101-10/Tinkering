@@ -3,8 +3,8 @@ filename = "touhoulittlemaid-1.12.2-1.2.5-release.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "298e131310d86a883915eeb0875c310ff001382c0ec841ac8ae60ab1354e4bed2ae2b387bb6aefb9871445b1bbb7c690ce644b67d3f14606bb7f0924dc6d9379"
+hash-format = "sha256"
+hash = "198b0e3420d61b4502fb28f826dce6d3e1db44f85e5e4ab91a46498d36dce811"
 mode = "metadata:curseforge"
 
 [update]

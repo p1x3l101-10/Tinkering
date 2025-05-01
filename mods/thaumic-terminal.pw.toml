@@ -3,8 +3,8 @@ filename = "ThaumicTerminal-1.0.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "f8f47fd27b934ea4d26010a8643743ad864542a1bd6c852c35233f98370975abfad7abdb585ab80de7e3758563eadf385ac1a1ec713007d681e0871700f684c0"
+hash-format = "sha256"
+hash = "54a5f415dd57e0f5a351ff1d0f35fc117f6e59929eb89ea87ba72fdd395dd09a"
 mode = "metadata:curseforge"
 
 [update]

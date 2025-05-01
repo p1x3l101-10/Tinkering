@@ -3,8 +3,8 @@ filename = "p455w0rdslib-1.12.2-2.3.161.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "7d6827b20c85b677b1d917a448cbdba98c66bb6424df482c4fdbec89cebb2b01f3a8c1478d521e1cddd4d644d131f9a4220fb4f6cc15ab588ca81a1e0b2ee3ec"
+hash-format = "sha256"
+hash = "e5844c044d9f2ce2f23eef84d95eea8cc1f2c5581874bd01410e7d103b90a424"
 mode = "metadata:curseforge"
 
 [update]

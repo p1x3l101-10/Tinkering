@@ -3,8 +3,8 @@ filename = "AdChimneys-1.12.2-3.5.16.0-build.0654.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "4bd5438cf911ee9e036962324d7ab4d09025f0a572146363aa4bc62a86760eb6d9ee1675ff21966e7a218c58625a3b23bed38befd6f2cab569585e2e48fd2a83"
+hash-format = "sha256"
+hash = "a77aedaca518d74ade39b190208d2bd9ce4df403a272c943af84a027f8f19cbd"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "WanionLib-1.12.2-2.91.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "887255944be7b87939c7e77efbe445caf9a36ddf74c5cde0bb8837956d442e7e315b79c2d7537c4c247b4390e42ec19405f6e81cfabbeadcb507077f47a91ef5"
+hash-format = "sha256"
+hash = "6dbb4140af8171d07752abfe225d6ad0a6981b4dc143b53d78fed4ea0ea3f00c"
 mode = "metadata:curseforge"
 
 [update]

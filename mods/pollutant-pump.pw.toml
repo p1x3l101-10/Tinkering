@@ -3,8 +3,8 @@ filename = "pollutantpump-1.12.2-1.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "357cb3ce9f54e13cb6021b3636b9f445eacaaea7bc28c021978b5f748c8b0de3a4495542c0bf7134d07524ddf15536d546167ebc19ce2a93762693973fc4563b"
+hash-format = "sha256"
+hash = "af9e1c2e26df870ebf0660b3853930dcceab9e8c4b165b7c2e0d03273c23899b"
 mode = "metadata:curseforge"
 
 [update]

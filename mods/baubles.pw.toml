@@ -3,8 +3,8 @@ filename = "Baubles-1.12-1.5.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "cbabe9cdfa7e818b279713b7bcef4cb4b185d0e837ee66e445f52fa0200cfe116977c6cec794d18b87657f282f8089bbb6d350f66b7a33c06f0a2d3d4d4e54d1"
+hash-format = "sha256"
+hash = "b32010b2f2778aa1188585e7ead91ad46d4cb2c715f9c778a61848ba7fe51f8d"
 mode = "metadata:curseforge"
 
 [update]

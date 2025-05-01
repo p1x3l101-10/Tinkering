@@ -3,8 +3,8 @@ filename = "HardcoreDarkness-MC1.12.2-2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "02570c4e245311f997d4a2c515013299ad44a7e65efff8942f077cefdb7cb91576817415d9a2a269a5d32c45326042a052a9bf4fb52dd7d756d5d1e5d6e6c7b0"
+hash-format = "sha256"
+hash = "fb13913e896f9d3fafedef90ac035f4ade9d92d8f33d2ccfc32c5487d559fdf8"
 mode = "metadata:curseforge"
 
 [update]

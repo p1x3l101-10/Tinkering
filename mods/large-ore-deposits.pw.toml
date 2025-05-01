@@ -3,8 +3,8 @@ filename = "AdLods-1.12.2-1.0.8.0-build.0504.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "9dab9a87b8471ce373dae572b482f328701e9e2d6f75b008c2904fe06bb736d326f52875c5ce47cccfeb99311d9e014c1596db528b00f6b0ef7c3c5b49d9668a"
+hash-format = "sha256"
+hash = "6b4357a8bf66db8f9de7ce5a467022b518a35e7f50e075ce25289e73d829f683"
 mode = "metadata:curseforge"
 
 [update]

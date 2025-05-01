@@ -3,8 +3,8 @@ filename = "DynamicTreesIntegratedDynamics-1.12.2-1.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "a3c7cbc388d967f0e2f9336120edb700b8b58bcd7c684b347924590557ba6b9f520b8704cad8294bfaebeed3d6f6b2d68a17a118b581f92646a6714e894be7d8"
+hash-format = "sha256"
+hash = "cd1da13b385edb90df009a60964614c85ee55f79e2a3ab3e80eebef996386327"
 mode = "metadata:curseforge"
 
 [update]

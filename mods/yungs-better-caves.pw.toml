@@ -3,8 +3,8 @@ filename = "bettercaves-1.12.2-2.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "70546357dfd3823e1b9299ec5ba318dea310733f01deca12a72df3e0fbaddf9ff3900dda9b0c197330b07e41971e1c8b018c48ea9b8cb0860bb7aaff80965131"
+hash-format = "sha256"
+hash = "b81b66c2b90431d0cd764f95a2d7ff4561052fa040e8e694b7e2b8e8fa974a00"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ctintegration-1.8.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "853b93afc1049bb3a2262782f898592869308a0f2dd8ceaaac468719ff2e201fb9cca842bffe9cad9e15ea6174ced322dba2cf6c60e81e9e8b2c873ca4cc070f"
+hash-format = "sha256"
+hash = "dce7ac00b4f4d94e46799309328c3d72ed16d894aa927f568fa99d59bb31d5b0"
 mode = "metadata:curseforge"
 
 [update]

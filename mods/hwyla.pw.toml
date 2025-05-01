@@ -3,8 +3,8 @@ filename = "Hwyla-1.8.26-B41_1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "a67144200a961d9786408244cd8639dbe3317346e95450a8eb8a904bf2bf41c2dcea402fd98b5a43e6791f1af017f34486e739ba0974545eb4c102c5835138e1"
+hash-format = "sha256"
+hash = "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "DynamicTreesPHC-1.12.2-2.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "f8c60885d92f771c993e6f4a664524c92254fbd8f8d7d10528a7ae3e42efdc13b029b4247546a092b534210acd1a9dfacaecd4544cf09fdf1eaf542caa37561a"
+hash-format = "sha256"
+hash = "a7d2064e566d9e2444f64c890444c584665bf2717f72922b41b76ad7b2a51a53"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "InfiniteWaterBottles 1.1 1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "62f47994c3d7546bfbe8071e915f9949ea117af612e49e478e7f13253ca28041972ddc2066e72a5793302ab5fddc51b48e9aa6880fc260f6e5c1e503011144ca"
+hash-format = "sha256"
+hash = "d26d3fd96b7529a77573418b2222a806752fdc2f6c366e7ac12e766ca6001efd"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "DynamicTreesTheBetweenlands-1.12.2-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "d34673b4d1ddf5717b90db4c3b806216228a86cc5ffea7b9ebcdbf163da2e761756d0b0f22fec47fc466f4aa4f8b2b002c941a07f8d3613a3f2586b003d4d57e"
+hash-format = "sha256"
+hash = "fda35242c2d66c767f3dbfb1f486978a8a26190e877c04ef728877e2aea5c1f1"
 mode = "metadata:curseforge"
 
 [update]

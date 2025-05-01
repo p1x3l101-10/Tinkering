@@ -3,8 +3,8 @@ filename = "ae2stuff-1.12.2-0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "7ba1ff1164a10aebec402fdeb8c3e2f67a0a02c84ccedb0bc4cc729cf8eba057da5c73dcabd00c6ed17eab4bd89479d087cb929efddeed821066de5b3cdbf11a"
+hash-format = "sha256"
+hash = "3362f478ab59d60640b7388f422f83f284a8c8a54a4b7a4940db33746bd55e98"
 mode = "metadata:curseforge"
 
 [update]

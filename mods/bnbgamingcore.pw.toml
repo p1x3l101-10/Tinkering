@@ -3,8 +3,8 @@ filename = "BNBGamingCore-1.12.2-0.12.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "32f4cffde18b48aab9ffbb6febe025ab77ef5ba540d478866356491eb105de32e36efb9728371f0ccb18cc8faa67021afb562c3ea0f1e24940b7bd5e8d2bd3ff"
+hash-format = "sha256"
+hash = "ca3ca764e2821c4db3a1e2fd0ccfffe32837d2bdb11a8f945e493cd267a1d137"
 mode = "metadata:curseforge"
 
 [update]

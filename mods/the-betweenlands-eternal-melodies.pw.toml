@@ -3,8 +3,8 @@ filename = "TheBetweenlandsMusic-1.0.0-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "b303a2ce487f53c49db8602fb39ff7eda4a3016eea15d4a191768c2e9084c0b708e003e0006d048b12d5ef2973d5c32e5547bce3e710e8ca6460b87e5efba691"
+hash-format = "sha256"
+hash = "91153c6ceb16110c091563949cf2228d35a0a12ee5d5842c9a1067ca8f58fa22"
 mode = "metadata:curseforge"
 
 [update]

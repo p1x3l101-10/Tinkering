@@ -3,8 +3,8 @@ filename = "GrimoireOfGaia3-1.12.2-1.7.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "86f9111b2f516bbdbef9e87c6bf6d17418eb8873f9fa9a76517711ab1e6b8ba7772c334d31e42e66ce5a74650b82b2ead0c14b9383cd662864623fd8f71ecf89"
+hash-format = "sha256"
+hash = "5bd4954c9b20ac9938bfd32a30682be74ebb1969bfc789c001661a4b701b2988"
 mode = "metadata:curseforge"
 
 [update]

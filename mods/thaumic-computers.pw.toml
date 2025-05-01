@@ -3,8 +3,8 @@ filename = "ThaumicComputers-MC1.12.2-0.5.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "7ac8635b2f09e5e606111fb973c03e02453c2e1215ce45fca32533f7ac03c112950994c069d860c1732f5c88418328f64d89901290c2a2dce3f16d3b7e5bed65"
+hash-format = "sha256"
+hash = "9733a4019856829856ca080a81adae82cec05c5810b68ed5dc3e3e9d347fd22c"
 mode = "metadata:curseforge"
 
 [update]

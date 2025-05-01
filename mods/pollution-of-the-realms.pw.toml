@@ -3,8 +3,8 @@ filename = "AdPother-1.12.2-1.2.25.0-build.0673.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "a16936d5455d4529e1d0d7aa2a7de82d58d725eff920dbcedcede69fa92fb0f7cc0c2baaa778e936505912be5e4e2323f67a9f06fb395eb5793ddaaa20003fef"
+hash-format = "sha256"
+hash = "7f9698b2416612e1b8a5ff51d08efe0c59b26eb17aeeb7aa7e715b143b3faca4"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "realfilingcabinet-1.12-0.2.0.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "bf9e947d38f218c1820d2dd603db5b4a0589d6892a7051c945d56630dff3fc70337d65923904bfe22228ffcd8b744ca982da9d9d46fbb000efb770ffb2c4dc68"
+hash-format = "sha256"
+hash = "4bc6cb71b6723ba9face2735d060a35b685c394b87ca213ecb7b01c681300dcc"
 mode = "metadata:curseforge"
 
 [update]

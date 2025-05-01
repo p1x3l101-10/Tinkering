@@ -3,8 +3,8 @@ filename = "justenoughmagiculture-1.12.2-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "31cada0d23434728f25a7f02fd68b8f19cd353d97d4831398a11594ebb9e990a98d5aef64d7acad2c4ad35bd08b68a4b428af26aa1fc10781dd89afe2c35076e"
+hash-format = "sha256"
+hash = "4bfbaddc5d8bfefae2e013ee7d986708c02dd26abb982548f9c380884f034395"
 mode = "metadata:curseforge"
 
 [update]

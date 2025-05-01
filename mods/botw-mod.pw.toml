@@ -3,8 +3,8 @@ filename = "botwmod v0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "e4445b088027f6c04f472c6f404db2d97302348ca6f269ea8ee366556b09908fa9be4d4bad875f542ca7ebbba0090736c4545e0348079a669f569755e8a7e726"
+hash-format = "sha256"
+hash = "70378f2155d7e8e0cbc2a360320d3cc7f9a75282744f1344ee47eeb52caea469"
 mode = "metadata:curseforge"
 
 [update]
