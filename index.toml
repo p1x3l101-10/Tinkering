@@ -339,6 +339,11 @@ hash = "d6798204593ea893ec512b891c1dcb8bad57f665f6b1e77809978b67968111da"
 metafile = true
 
 [[files]]
+file = "mods/creeperhost-minetogether.pw.toml"
+hash = "44d87d63bbc6d4961419dcba4ee55ad3ce1055908729af5a83bfcef6ff5c259a"
+metafile = true
+
+[[files]]
 file = "mods/ctm.pw.toml"
 hash = "09469beb21d451b7d0f0a6990f5c6fe3df8bd1cc1990d25d015c3793253e9b74"
 metafile = true
