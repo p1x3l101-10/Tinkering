@@ -8,3 +8,5 @@ TODO.md
 .DS_Store
 .github/**
 autosign/**
+packwiz.toml
+unsup.sig
