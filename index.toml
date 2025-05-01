@@ -1,60 +1,5212 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AE2Stuff/overrides/recipes.cfg"
+hash = "a3b47b7340c636682c3cf5b09bbeeb9b3b867639009ba4417495027173fbcec6"
+
+[[files]]
+file = "config/AE2Stuff/overrides/tuning.cfg"
+hash = "0f99c7e5e02e97a8f523f253b885e1a45def11245a3d5ae8fd777bbd6ba9705a"
+
+[[files]]
+file = "config/AE2WirelessTerminals.cfg"
+hash = "95eef24be52361263ce2ccc7aff47a27f5c08ef6c9638f868350caa4f892bd3a"
+
+[[files]]
+file = "config/Additional Structures - General.cfg"
+hash = "704a9f254e2e683a095a24624a71b441cc2d45a63cd4295644ce66eeba79d9bb"
+
+[[files]]
+file = "config/Additional Structures - Structures.cfg"
+hash = "02d9b9150f54b5281a81783c06d802fdc1cc25fd29843bbc39ba3ff52f928e58"
+
+[[files]]
+file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
+hash = "9ab2418297db18d4b6321a763cc9bd666916f8400b0149e8939861bf28059da2"
+
+[[files]]
+file = "config/AppliedEnergistics2/CustomRecipes.cfg"
+hash = "005c4bfb2b16ce36353540ee5ca5d33ece4fe456cd113f12901e8f3d9213770e"
+
+[[files]]
+file = "config/AppliedEnergistics2/Facades.cfg"
+hash = "c50bb6b5960ea48a025759c11082781f412d24e9a5be0db7d4d34948c7a7f0d4"
+
+[[files]]
+file = "config/AppliedEnergistics2/VersionChecker.cfg"
+hash = "8801a0a1496d71a0a40bac8c55e822ed48e0bc703560583c331ca6e60a479fc1"
+
+[[files]]
+file = "config/AppliedEnergistics2/extracells.cfg"
+hash = "8aacef28002e91b2f504b47912d19b9596a1570d3695386ab2226185297eecad"
+
+[[files]]
+file = "config/AppliedEnergistics2/items.csv"
+hash = "994eaaebd7d092b45d85ab87016d9b3547d18a95b85d59b50504104391cb6415"
+
+[[files]]
+file = "config/BNBGamingCore.cfg"
+hash = "59d08e887f8e232f299f66bdfa0bebe011ffc57025347ec8e37642195aef91b4"
+
+[[files]]
 file = "config/Elenai Dodge 2.cfg"
 hash = "cd2c0c636deb4d4ebed9da43b2590f3a08b39ae13b7656f2c3eb1a8c23c59c7b"
+
+[[files]]
+file = "config/GoGRedux.cfg"
+hash = "552d846d8ce5e17b3c95e3f020016effd9f7087766e169fd8624bb259b5727f0"
+
+[[files]]
+file = "config/JustEnoughCalculation/main.cfg"
+hash = "9512e12d279050139653aeb6a429eb13745086691b156af47f73bd1d4bbbe98d"
+
+[[files]]
+file = "config/JustEnoughCalculation/record.json"
+hash = "f40ea8135c7a0f598d9548eba85c517d05d3244a94b806261f0521dada8d4a15"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/beaches.cfg"
+hash = "ff91fbe1081eaba89c8d32f922d3981bf772602e28732e259ae0db076eca8359"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/birch_forest.cfg"
+hash = "2453534dcbba48cda7c3f898548212fe6062ea2dc9966d88746052c083f888e0"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/birch_forest_hills.cfg"
+hash = "01997e2f6cd1ebc1111834042138828a9e3be94d943a53f69e7db6e238cd80f4"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/cold_beach.cfg"
+hash = "68931b12b296214fff7676971fb97ad628cd765aaaf1ca484c5aee7e116f73b0"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/deep_ocean.cfg"
+hash = "3fe63a90526fbdd61c1e21c9f33e2bf9ac9eb823cf926bf018c1c13255247e4d"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/desert.cfg"
+hash = "4a4650863258c894adab0dff03c7ef75d74c93caf0687f2804741ef27e4c1498"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/desert_hills.cfg"
+hash = "95299960cb6ec7bd6e6d5e1d3a326e9da03edcdde766a7f4be4345b1f677a859"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/extreme_hills.cfg"
+hash = "3258452d733b1f324b4934ce1b0fc9f28cc8b2aa5892ada62d3823716e773a1a"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/extreme_hills_with_trees.cfg"
+hash = "13f2f6940de6bf93c628d76db2eda91ac6deeea012b6d2e068e47df9d4f955c6"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/forest.cfg"
+hash = "c3efa32a364fa2e9282ecd7bfb81241fbb48398271ee7da8505379019954a5df"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/forest_hills.cfg"
+hash = "c5c23d9003608fd2bc8e007297e2f8b964f9922b1a89e54e0a3d1eb553c9b041"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/frozen_ocean.cfg"
+hash = "3d1e09d233d86d58e7330848100eec801c9f03be2cd25f3aebeaa92b23eb8e76"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/frozen_river.cfg"
+hash = "21f5222ed4fd3657d58b70a04876f224d0299ae796f62c9adeaa7ce7fbb4b1c5"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/ice_flats.cfg"
+hash = "62628402f00147ce1b28dff47387ff851a984185a8d87ac3776ab0b0396a82a4"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/ice_mountains.cfg"
+hash = "aaee4de49039f46c18da99f4edf5f4839cb6751ae3861df1ebcc5afa546d1e8a"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/jungle.cfg"
+hash = "710db64e4bea404cf78146cc9be00b3d287137d0a2f79e0a5da989bfc3ef4473"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/jungle_edge.cfg"
+hash = "98f8459b1b72bcbfabcf530fcae2523af93fa6ad9a580f616970d5528cfb852b"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/jungle_hills.cfg"
+hash = "c0862206f1a129dfb9e675540e57122c4a2668af12188286145411c62b0c2a4e"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mesa.cfg"
+hash = "e671a56ebda457ba61d2413c5f116b58f096db2ff02ee3b91eb805c87cf3e8d3"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mesa_clear_rock.cfg"
+hash = "4dccc6670e663edd5821b429c687f56f4ccf098d595737ad611d0d2475bdb429"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mesa_rock.cfg"
+hash = "bd95612ae8b902a482466e1a63527b83c7dd862af68efd98c41779b977295242"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mushroom_island.cfg"
+hash = "3d74b00990bbf7b22dc282349d76e2ebeb02627caca094a06564c30ee8cbec43"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mushroom_island_shore.cfg"
+hash = "3d74b00990bbf7b22dc282349d76e2ebeb02627caca094a06564c30ee8cbec43"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_birch_forest.cfg"
+hash = "01997e2f6cd1ebc1111834042138828a9e3be94d943a53f69e7db6e238cd80f4"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_birch_forest_hills.cfg"
+hash = "93a0c4d4c6689792acf819918833a7964e121c12bc0becf7bd1ea4c45fa9ebca"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_desert.cfg"
+hash = "9864b219c481e082683b482e08c2023793363f0c21f14a6a5a8aa8b793f4c87f"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_extreme_hills.cfg"
+hash = "83c24abfcd1f21545612e08b6d64ea568aafb02871c9a1c8284d6b0e40212b95"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_extreme_hills_with_trees.cfg"
+hash = "bf5a2784895eb1b91cb32bf5e36f730b047b7e16351a226aed44fcabea923f64"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_forest.cfg"
+hash = "2453534dcbba48cda7c3f898548212fe6062ea2dc9966d88746052c083f888e0"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_ice_flats.cfg"
+hash = "54d31da087609e53ed1d63d2d4012a50944583d3f599107ae05766986605c78c"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_jungle.cfg"
+hash = "2077fd800407efc6aca08f3a47be73de6ea632ad3fd363d7bf5ac0629afb0549"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_jungle_edge.cfg"
+hash = "48249b859d98ccd966d4c17fa71e3454cceb31f6df846a48a855a5f9040201b8"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_mesa.cfg"
+hash = "67d230d720439209dc68dc5710c91cd957e7e0deecfb5d69e4f6d22b52c5c305"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_mesa_clear_rock.cfg"
+hash = "4dccc6670e663edd5821b429c687f56f4ccf098d595737ad611d0d2475bdb429"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_mesa_rock.cfg"
+hash = "bd95612ae8b902a482466e1a63527b83c7dd862af68efd98c41779b977295242"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_plains.cfg"
+hash = "2b0fc33bb360bbe7afecc5989ce0c80924686afc77ef18bc82b48c4e22ab5db4"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_redwood_taiga.cfg"
+hash = "93a0c4d4c6689792acf819918833a7964e121c12bc0becf7bd1ea4c45fa9ebca"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_redwood_taiga_hills.cfg"
+hash = "93a0c4d4c6689792acf819918833a7964e121c12bc0becf7bd1ea4c45fa9ebca"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_roofed_forest.cfg"
+hash = "01997e2f6cd1ebc1111834042138828a9e3be94d943a53f69e7db6e238cd80f4"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_savanna.cfg"
+hash = "9b7dbfc8ff694dbda9fa1e5d8191f31ba445a71e396cddd561528992da7e35df"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_savanna_rock.cfg"
+hash = "b7376c9408d11bc85331303744748dbdeef8eb8deff9b7ce9ad775184fed99eb"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_swampland.cfg"
+hash = "98f8459b1b72bcbfabcf530fcae2523af93fa6ad9a580f616970d5528cfb852b"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_taiga.cfg"
+hash = "01997e2f6cd1ebc1111834042138828a9e3be94d943a53f69e7db6e238cd80f4"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/mutated_taiga_cold.cfg"
+hash = "48249b859d98ccd966d4c17fa71e3454cceb31f6df846a48a855a5f9040201b8"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/ocean.cfg"
+hash = "3fe63a90526fbdd61c1e21c9f33e2bf9ac9eb823cf926bf018c1c13255247e4d"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/plains.cfg"
+hash = "35d232802384dd6bacc7636489af7df75904247dd5ae9740e9ab3a63a9426424"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/redwood_taiga.cfg"
+hash = "98f8459b1b72bcbfabcf530fcae2523af93fa6ad9a580f616970d5528cfb852b"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/redwood_taiga_hills.cfg"
+hash = "93a0c4d4c6689792acf819918833a7964e121c12bc0becf7bd1ea4c45fa9ebca"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/river.cfg"
+hash = "21f5222ed4fd3657d58b70a04876f224d0299ae796f62c9adeaa7ce7fbb4b1c5"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/roofed_forest.cfg"
+hash = "246de680defbaf543b6cb3a1ac6b7761087c5ad07e66187758989fd9050ae200"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/savanna.cfg"
+hash = "4a9ef5ba5d795a52a8b738839416c8f14d3e70aeaf4a1237c670d3a2db0ffcb8"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/savanna_rock.cfg"
+hash = "b7376c9408d11bc85331303744748dbdeef8eb8deff9b7ce9ad775184fed99eb"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/smaller_extreme_hills.cfg"
+hash = "3258452d733b1f324b4934ce1b0fc9f28cc8b2aa5892ada62d3823716e773a1a"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/stone_beach.cfg"
+hash = "ddd0c0f3c616c813389afcb3fe8bcd19345293a572242b444389b363cb982cf9"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/swampland.cfg"
+hash = "98f8459b1b72bcbfabcf530fcae2523af93fa6ad9a580f616970d5528cfb852b"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/taiga.cfg"
+hash = "152a687b85751e09cea7c792bbc804ab4e8dc5396ef52295c711946c6bb64179"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/taiga_cold.cfg"
+hash = "98f8459b1b72bcbfabcf530fcae2523af93fa6ad9a580f616970d5528cfb852b"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/taiga_cold_hills.cfg"
+hash = "93a0c4d4c6689792acf819918833a7964e121c12bc0becf7bd1ea4c45fa9ebca"
+
+[[files]]
+file = "config/RTG/biomes/minecraft/taiga_hills.cfg"
+hash = "01997e2f6cd1ebc1111834042138828a9e3be94d943a53f69e7db6e238cd80f4"
+
+[[files]]
+file = "config/RTG/biomes/thaumcraft/eerie.cfg"
+hash = "2b0fc33bb360bbe7afecc5989ce0c80924686afc77ef18bc82b48c4e22ab5db4"
+
+[[files]]
+file = "config/RTG/biomes/thaumcraft/magical_forest.cfg"
+hash = "2b0fc33bb360bbe7afecc5989ce0c80924686afc77ef18bc82b48c4e22ab5db4"
+
+[[files]]
+file = "config/RTG/rtg.cfg"
+hash = "f0dd84e27bc4861d6b369e3fd895def4d52d083b6f04ed9252ee31405cb9d8c1"
+
+[[files]]
+file = "config/RoughlyEnoughIDs.cfg"
+hash = "066c7aa4315b4e96e0dc7ca21b0a629603e7ff7d77d279437f523624443cd063"
+
+[[files]]
+file = "config/TComplementModules.cfg"
+hash = "287f1d3897d028d3d501017b791eceefdbda7f6f433e868412225f4318d89172"
+
+[[files]]
+file = "config/TinkerModules.cfg"
+hash = "b8560ee6ba7c99297a489fd1f39217e47431238db471a5140af31a1d7718d2cc"
+
+[[files]]
+file = "config/TinkerToolLeveling.cfg"
+hash = "80376aa0a4846fc4252b474be9375b98eb58c40e34aef9e3729d31df0770b62b"
 
 [[files]]
 file = "config/TinkersExtras.cfg"
 hash = "0c0edb2aa93e121a94a66216219e6aed521ad578028cb4b585bb88ec250de657"
 
 [[files]]
+file = "config/ToughExpansion.cfg"
+hash = "f58a0fec4197f82f372ce65032c3d5af821b5e19a59d62388ab1dd3294b7312d"
+
+[[files]]
 file = "config/TouhouLittleMaid.cfg"
 hash = "fff46ae202e3bd9fcbf53ae03ed280cf5e0a06aade9ba9767a9d46e685d009ad"
+
+[[files]]
+file = "config/adchimneys/Containers/bedrock.cfg"
+hash = "7d29bd8da7ad8489f3fc3659b22900a69061e172573597311c1fcd24fa050549"
+
+[[files]]
+file = "config/adchimneys/Containers/blastbrick.cfg"
+hash = "3063d4c1e373dc52b29bfcf04dc7172680dd438aea98122a4dc80aed2383bd08"
+
+[[files]]
+file = "config/adchimneys/Containers/bone_block_side.cfg"
+hash = "2461ebdd7b4389fcf2955e124b2ac805c1629026816b88aae39a3f184003b691"
+
+[[files]]
+file = "config/adchimneys/Containers/brick.cfg"
+hash = "ae76e1d7b11ba5d50c4d11629e8549f289690bdedc9c859c4d8ee8956e13e9c8"
+
+[[files]]
+file = "config/adchimneys/Containers/brownstone_brick.cfg"
+hash = "fef9c1d71be4a814bca52996b70fdfa56d096329e029985608a8ec65bf92176d"
+
+[[files]]
+file = "config/adchimneys/Containers/brownstone_brick_small.cfg"
+hash = "2ac2c2645cd627d669594d8bbfe7a3919384a4d48db7896e042bcdf62f1f05dd"
+
+[[files]]
+file = "config/adchimneys/Containers/charred_nether_brick.cfg"
+hash = "87c1ba4bae1cd989e1e9964b7285799f03923b6d6100aa3555705d8364375b24"
+
+[[files]]
+file = "config/adchimneys/Containers/clay.cfg"
+hash = "b2c4955a2ddd99ddcc29369c7d52cd2f8f6b4971483b6ffd94993c5d6fc3a3e1"
+
+[[files]]
+file = "config/adchimneys/Containers/coal_block.cfg"
+hash = "3fb4c8115c439e323012c658b114705996627f4768df0f3091c0389faa9d6f7e"
+
+[[files]]
+file = "config/adchimneys/Containers/coarse_dirt.cfg"
+hash = "7b36927c2dc5d0360c74bd583dbd42c969ce3c696695c03208144d6f8d1aece9"
+
+[[files]]
+file = "config/adchimneys/Containers/cobblestone.cfg"
+hash = "200bb9c2e6bd7a74fcbe40abcdf1b8673ec71308b1e8333a3879b4b8168c563e"
+
+[[files]]
+file = "config/adchimneys/Containers/cobblestone_andesite.cfg"
+hash = "e900ef9fd7109cb94de3558fe2d66c48a01394a60ae2ba5d47135d5584fcee37"
+
+[[files]]
+file = "config/adchimneys/Containers/cobblestone_basalt.cfg"
+hash = "671e690615ae3074b771b21fcf06d1eb13b8fa1dbb9cf74b4757f7480a9018c4"
+
+[[files]]
+file = "config/adchimneys/Containers/cobblestone_diorite.cfg"
+hash = "e8687f31413c8f690485bd9bebf9759cd4b46716b96254d8a4f92e5eca374fd3"
+
+[[files]]
+file = "config/adchimneys/Containers/cobblestone_fire.cfg"
+hash = "03ff49380dcc78d35238d93850a5270b10b1b9991ddbfe1b0ab4c6c9619871c6"
+
+[[files]]
+file = "config/adchimneys/Containers/cobblestone_granite.cfg"
+hash = "b64bbfcd7a68dbda290ba1d7a20c1b100dcad58078751700ece0193d70b560c0"
+
+[[files]]
+file = "config/adchimneys/Containers/cobblestone_icy.cfg"
+hash = "4d8bb20f2f4df76140b8bcdd8238ef9d10a56013d951c4db44460be8611a5425"
+
+[[files]]
+file = "config/adchimneys/Containers/cobblestone_limestone.cfg"
+hash = "a37e158f4b6b6f58942635da218dc9da4640370b8c2117185832991c705b1a92"
+
+[[files]]
+file = "config/adchimneys/Containers/cobblestone_marble.cfg"
+hash = "d8309335a3d39c0435508280663c4a21fb204818dbebf8d57d6b25311e98567e"
+
+[[files]]
+file = "config/adchimneys/Containers/cobblestone_mossy.cfg"
+hash = "2fda7dbb9d007ae48969bcd3f77a79e59281b0e4c2a64f4937da0903cf096478"
+
+[[files]]
+file = "config/adchimneys/Containers/cokebrick.cfg"
+hash = "339b33c5349468e3355b46604bffb5aab2de242e4dbf8ac7954bafd0ebb25518"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_black.cfg"
+hash = "a853985af452146c1ed8e829bd19cb894cf74fa04a9d47cf2d7fa919333a0cb5"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_blue.cfg"
+hash = "0c9aa62d30be7c0bd0be449176bc204221b3abb652c7e4f0f5449d4b093012fd"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_brown.cfg"
+hash = "7f59d40a19b9779bb23c30cb2e14b6acb011a01e548e1bb5da567274c766e987"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_cyan.cfg"
+hash = "ccb7dfc2312f16e90ba22951a438288a68e8b02f97a80f5a8715bc04f77f3b33"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_gray.cfg"
+hash = "08dfbaa7bb7a32d71c1c5e8efd40a1d7307b8e6be3a7668242cfcf776a54ca12"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_green.cfg"
+hash = "b8610fbdd5d52384b35120832619f52e2c12afc714493e0dda1c47c4c2eace80"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_light_blue.cfg"
+hash = "369d13b94876f257a1e91eb45d9651d625ce0a152f451b70461f21c096853abb"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_lime.cfg"
+hash = "a7c3b30ee9d0e620e66739e775cabb18a27e99e40bc96e1e0012bc38f1ae62fa"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_magenta.cfg"
+hash = "8e873698f2ae8e3132a31c3e31aec029ec5bc5fa8f19355ea5c230c5f6a5595b"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_orange.cfg"
+hash = "c0e07b57bf25ea710a3e13be22b9dcc2b11fff61cf2f0f4d90ac7a2ef485c923"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_pink.cfg"
+hash = "84b62fc249901f1f3dff058abafba45205505e4ec735453604e643c87a9daf13"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_purple.cfg"
+hash = "e074e279555fe1086a7b8de86841f9da64caf696a70c2277abefd34406e5461c"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_red.cfg"
+hash = "386261dff54358b4a3fe91e58390295085b872dc9b3f477ed6661608faf004a9"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_silver.cfg"
+hash = "2ead75a07831cf02c5ab48e6bbfc81b4b53c5477fffb0e0fb35b0ca72e51b4b1"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_white.cfg"
+hash = "b4b55a72cf41896de46142b0763889765c9f46205b2afc71b71346d7779a34eb"
+
+[[files]]
+file = "config/adchimneys/Containers/concrete_yellow.cfg"
+hash = "26832d8fefa47876dfe6ff43890ead4f0bc089798f4e8c45c13a3b0a2c382156"
+
+[[files]]
+file = "config/adchimneys/Containers/dark_brick.cfg"
+hash = "d984f9583999937080d89704dcb9675a77e756711a2020a4319fbf4110c78dd1"
+
+[[files]]
+file = "config/adchimneys/Containers/diamond_block.cfg"
+hash = "fee816a6ec0814b3cac3adff30a211e62219a2a4e65663713175f2fe3dd2e280"
+
+[[files]]
+file = "config/adchimneys/Containers/dirt.cfg"
+hash = "10abcb6195ee70d8f6afb0f81ec4feceeaf8d24465209d521d1fe7b00f3ef7da"
+
+[[files]]
+file = "config/adchimneys/Containers/dragon_brick.cfg"
+hash = "5f0b5c81296777a810e438341f6a3014bf1339118009ef94aa46aad6c0deb172"
+
+[[files]]
+file = "config/adchimneys/Containers/dried_clay_brick.cfg"
+hash = "acd7a5207d423bb8011ad30a243b90505687dd7ffcdf550de9d2c183a8f04100"
+
+[[files]]
+file = "config/adchimneys/Containers/elder_prismarine_brick.cfg"
+hash = "5d6f0a16bc96fef06171c343f24302816fc06f59140d7ba57a748e3c5d8d4302"
+
+[[files]]
+file = "config/adchimneys/Containers/emerald_block.cfg"
+hash = "b0f65c8d3e4a0265821c770b61286305c687c82ff042b6630710ababa95a232f"
+
+[[files]]
+file = "config/adchimneys/Containers/end_bricks.cfg"
+hash = "12113cb6936c8430861d3e3b032ad96d1957f00a27cd1d7abc9a7858b72a0f8d"
+
+[[files]]
+file = "config/adchimneys/Containers/end_stone.cfg"
+hash = "e80c18bc232f1fea3113ec74e3dc1bd9daa2ea1f3e4757163532f8946d609a71"
+
+[[files]]
+file = "config/adchimneys/Containers/glass.cfg"
+hash = "ef0c9cf23d05aa6cc5831b0b8b64f169ba04aa241d2fa384dcdf4488704300c0"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_black.cfg"
+hash = "e38ca57a5d1ff0f73331b6c9dbeab057657bfb5d809aa83f2f9e410a3d127129"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_blue.cfg"
+hash = "4f4cbd758d1341562af92b45f43628a9b6dd5d5a865b67742fc847d48051d2eb"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_brown.cfg"
+hash = "4a892fb5a6d303409ecafc3ac8b3ed3fc6357bdc271870132bd5e68f01b98186"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_cyan.cfg"
+hash = "e25ff9e121a962dda747ff94ad4e424ba7f9d7a424614d81d639fa31b22b65c4"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_gray.cfg"
+hash = "b882c3f0a7d9427dd261ed810871145a9402f46884a6801f104bf6e2a22495a7"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_green.cfg"
+hash = "833e397205a7e78555356bbff510c08760d09c71695e25af4e78fb89caea1349"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_light_blue.cfg"
+hash = "2f0ec9a8980c62cae02f02cc6b3b6a40d4ce72a8b0d21e7b3c4d688731b5abb5"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_lime.cfg"
+hash = "edc24d93d1b50d7b8930fd6d1dd7d90a8c4b451cfb3ec71a5134475b7ae6c1a3"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_magenta.cfg"
+hash = "9a0024801e5350ec0efc363da9a90afe4eee3a1b274c5c76c40be2913618bdf8"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_orange.cfg"
+hash = "b333fd37a7ff6e71d04acd8a38982581e2666e6772785166727ec33ff53cc19d"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_pink.cfg"
+hash = "6fbad7e1084ceff662beb2d773d88cbc4869249214ef31613b59c630a2ce7562"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_purple.cfg"
+hash = "1fc3986cf80a97ec3d4a6153b6974ffcde2fc83428ac27af6c50183aa256d03d"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_red.cfg"
+hash = "efc2acac10d21088ba3a3a14d2ce689b57855293ab58c346b68afcb59196886e"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_silver.cfg"
+hash = "177e361fe7ec506f2d7ba0886cfaa6af078041aa361593d727f19cda082f4221"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_white.cfg"
+hash = "142c6cba04058712d0054195e31f895a7ef6ae3f3b605f684deddc0f122aacc3"
+
+[[files]]
+file = "config/adchimneys/Containers/glass_yellow.cfg"
+hash = "36aa3cd997cc1f93c9b7089f65965ac2e64b4a732c535fe0a03198513c92c43d"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_black.cfg"
+hash = "806e208ebef9d8ad060150c1ca86deee833108005c361ed5f0d0b8770233c48a"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_blue.cfg"
+hash = "6b118a71ecb67a43e51e78a04eaff907a05b35106b9f049d5ac2af53256162be"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_brown.cfg"
+hash = "430e13d82ddc2cb9012697dc0bd5aea976dcdfa38c28a92b9e2d08bc329f4237"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_cyan.cfg"
+hash = "b3ac6463535f94bed2746f6711e291df10a7fc08fbbe523957f799e368aabd92"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_gray.cfg"
+hash = "4d13bf3df7e2016f3190c59002fe7d13c1e0d8ddb25aafc418c6b574a6a9835c"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_green.cfg"
+hash = "d7452e391323220eb91353155c21cdeda93c537b3e42eb0b0a6c636bd334c45c"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_light_blue.cfg"
+hash = "e636a16d38c379d437630f74ae163e439f1ad917f604d408c4d0c28e6403d4ad"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_lime.cfg"
+hash = "981e14f00eec56310608dbdd6fab0f27f4e08c05861060b96410ce5989dc1ace"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_magenta.cfg"
+hash = "e5bc36c77f86f6211ee5826252ddb842b0ada12f14c5bf82f53d1c21a273db90"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_orange.cfg"
+hash = "884543533f69371d71af977685c486cede627c8c3c6f07e65edfcab036287eb0"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_pink.cfg"
+hash = "9e6e18af351abc01636b11f903354c2d0e40411191cd08dad26e26b0240aae39"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_purple.cfg"
+hash = "c9a3b6c7382340d68b4618138c0d5242fa1cc7e52933dc24d89b0d11ef22bdd4"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_red.cfg"
+hash = "0934e2f1587d666a6a86a6278bdb58fa8c06fcfde63f770a1a456a296adde957"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_silver.cfg"
+hash = "dfff7694cd51338349d6c34d9356f5dc912c150e0c7417c82383cbc4255ad315"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_white.cfg"
+hash = "1caf1983044530a0fbf4a9e7f993cafc5d24a3c5b8fdf9c3e4e6b5227aa688f9"
+
+[[files]]
+file = "config/adchimneys/Containers/glazed_terracotta_yellow.cfg"
+hash = "b2114d3029ffcdc4b4bf717fcd999e121211bb7602b53104c9e8fc10296d39ac"
+
+[[files]]
+file = "config/adchimneys/Containers/glowstone.cfg"
+hash = "60ea8eaa80c8d7ecfb5bd4cbc7ccbcc4f69acad64d5e605ab73abff7e4c371f1"
+
+[[files]]
+file = "config/adchimneys/Containers/gold_block.cfg"
+hash = "60b0488f66628dad89ec0c270eb4401cd5f32ea03769724cde0c30967b82f33b"
+
+[[files]]
+file = "config/adchimneys/Containers/golden_brick.cfg"
+hash = "8ca82090ce364c795446c29058443c41977fec666664926ce12f54ea4776fd22"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay.cfg"
+hash = "03abbf5b4afa3ac9eea85d0d9cfaa865e280b44772f83dba888e719420e4e206"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_black.cfg"
+hash = "6d17d18a9dfbc1d4eb805610d813c95d5ac7fbdb49adf38aa263364924e337eb"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_blue.cfg"
+hash = "d11a1b6a95cc81b6c56b15fe796322290ba0a88a2a450220b1a9ca5ca1b1f0d1"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_brown.cfg"
+hash = "6f52ec32dbcbbc754600f9f1e5c426a8f551a7a779dfed1365a67ffd44caa34c"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_cyan.cfg"
+hash = "c755933e7874361bdc7ad502d070d85e06a4638983e017e44b5e9827080c5972"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_gray.cfg"
+hash = "86af6a07d5995e33750ec882354603b6f0eb7cdcc8693d88310a64bfa97b87ea"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_green.cfg"
+hash = "92f8d80b390cd31794572b570c5197ed017b8120e27a367fe98b0e8527cb1543"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_light_blue.cfg"
+hash = "320077a3be41e5af2d3f8e766243eac9ae1848fb0d856a2d95f12c079eb9a408"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_lime.cfg"
+hash = "b33a5aa411454d641903b03ae49f112d02f821e950fd47dc06a0d57617c29f94"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_magenta.cfg"
+hash = "4dcceb2140cbbcc1b4ca7572848ec8f5f4b46d45cdc5cbb4f6e6f0553079c6e4"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_orange.cfg"
+hash = "7664d0ac66b5d28989de4dd8bd158fa7bca5ef26862eff5f62d9f9238e8d9e6d"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_pink.cfg"
+hash = "c6881fef24c1b5faa65c9f86f09fe5310011eb134078367a962836acdf1175dd"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_purple.cfg"
+hash = "3e5d1599ac1377d40275cc47549989c537671e68f395b11a8b77d78467a82fc6"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_red.cfg"
+hash = "a46a83326d32ea23b04851a41a8928863a17b0ac50e3472807bf4642b05a3ffb"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_silver.cfg"
+hash = "fac1d6e6df8fc45c9fe9c9f401c1e767227fdc4945c72f17964fbf9f2acca9e2"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_white.cfg"
+hash = "8ed8330005e83e6fd5211d4fb6202b5f295604e0dce14cd900006d0ec3fc71be"
+
+[[files]]
+file = "config/adchimneys/Containers/hardened_clay_stained_yellow.cfg"
+hash = "34ade9d4cf8c054275561fd26cd19485d94b1c5ee891ea0c1aa01a7f1e5df088"
+
+[[files]]
+file = "config/adchimneys/Containers/iron_block.cfg"
+hash = "ff6dffa58029ffeb03e3c7d9c3b5ec131b41ff59af6c5c854beabb06c2a2db52"
+
+[[files]]
+file = "config/adchimneys/Containers/iron_plate.cfg"
+hash = "0dd00169ea7e5f3ec9796bda80311a082a109521e126d46b6f8c1a940208083e"
+
+[[files]]
+file = "config/adchimneys/Containers/iron_plate_rusted.cfg"
+hash = "1b8f19776f4dbd956515f04c3b9e1258bacb51dcbf5afeb6b314b5448bc1d9e7"
+
+[[files]]
+file = "config/adchimneys/Containers/lapis_block.cfg"
+hash = "436ebc6ce989da478f73c89593854c937365e74ac79392aead6136389e373bbe"
+
+[[files]]
+file = "config/adchimneys/Containers/lava_brick.cfg"
+hash = "77e0cb0b53cec8efb0fc7e159252f6690c959ff258f4777dc1d66c7479c44aea"
+
+[[files]]
+file = "config/adchimneys/Containers/limestone_brick_large.cfg"
+hash = "e74c9eedea161b41d1ef95dd905312a1b27b7f0fd0809b6da775a41a004ba735"
+
+[[files]]
+file = "config/adchimneys/Containers/limestone_brick_small.cfg"
+hash = "c0ce2efed14763b85d18d1f4f8a84108c11ecf151d918d7f95bb9a3cd965dfef"
+
+[[files]]
+file = "config/adchimneys/Containers/magma.cfg"
+hash = "ad5d00ae9c2da6214c9b15825a46dff52cb53077150d411022356191cb2f5cff"
+
+[[files]]
+file = "config/adchimneys/Containers/magma_brick.cfg"
+hash = "48cf5da132e932937cb5c533fca4db593e299b9d42fcb6075cdbb1ff125ab142"
+
+[[files]]
+file = "config/adchimneys/Containers/marine_brick.cfg"
+hash = "f6c41740061fa57b8a1982c4fee0aceccc358c769678f7eeef540e11f316f330"
+
+[[files]]
+file = "config/adchimneys/Containers/monochrome_brick.cfg"
+hash = "c96666fc2c5aff3d896b1bbe1bafb91607d46dc2e50932ee71ce51460052a652"
+
+[[files]]
+file = "config/adchimneys/Containers/mud_brick.cfg"
+hash = "8d36b5fd7c087fe10f1f29ae262c823353f2eeedebf1a88de3b870e28ccda349"
+
+[[files]]
+file = "config/adchimneys/Containers/mud_brick_block.cfg"
+hash = "af063e99869fc2e2747b449cfbb22ae5629701b1196ea402ed0e86700c31e0eb"
+
+[[files]]
+file = "config/adchimneys/Containers/nether_brick.cfg"
+hash = "13233b5812e73f8352f8c16528d95860e8992953feee217365f16a722c96325f"
+
+[[files]]
+file = "config/adchimneys/Containers/nether_wart_block.cfg"
+hash = "8fb5dc30c9a400e4b9dc68f77cb9e4b64e6c523d517cff3824e45f53b0e05707"
+
+[[files]]
+file = "config/adchimneys/Containers/netherrack.cfg"
+hash = "c9ebd2d6661d1bfd744927a1c845e0f6fb80c7ac79192e851a3eb89b66a77997"
+
+[[files]]
+file = "config/adchimneys/Containers/obsidian.cfg"
+hash = "efeef9701fe26a8ed2ae7269b927e60c11b12e452744cc672401b9509de0e7cb"
+
+[[files]]
+file = "config/adchimneys/Containers/polished_netherrack_brick.cfg"
+hash = "3893c66379a3944dc75c065a71926ee83d52c3ba84fe73d50fc88d6b2ef56898"
+
+[[files]]
+file = "config/adchimneys/Containers/porcelain_brick.cfg"
+hash = "13e353a7795eb80dce2bfbe9086c2df271648b16bf1cea181541860f2daf2c20"
+
+[[files]]
+file = "config/adchimneys/Containers/prismarine_bricks.cfg"
+hash = "30db043eb1a52b2b1adf9197263dcb9030a2542c9a2b27132093c2fbd00f6219"
+
+[[files]]
+file = "config/adchimneys/Containers/prismarine_dark.cfg"
+hash = "4d6703c5dec705f17fe795aaea5308955c6230d3ccb049eb22260cf09cd97478"
+
+[[files]]
+file = "config/adchimneys/Containers/prismarine_rough.cfg"
+hash = "b8ae43003b8e96c22bcad83a8e2c347ef46a9973dfe3b12f321d2613fe08639d"
+
+[[files]]
+file = "config/adchimneys/Containers/purpur_block.cfg"
+hash = "31abb5107677b60d17e5b7dd341a344ae21ed6e50a24ace506779ad8f32274c1"
+
+[[files]]
+file = "config/adchimneys/Containers/quartz_block_chiseled.cfg"
+hash = "f8b50f8065c281e3e093291c81523209cdab182b705396c60ee8c8e64963d011"
+
+[[files]]
+file = "config/adchimneys/Containers/quartz_block_lines.cfg"
+hash = "2e820b5be1520d8ca05d700fb0a070d64fdb986c9b05567d5dc58c51d2276d47"
+
+[[files]]
+file = "config/adchimneys/Containers/quartz_block_side.cfg"
+hash = "826afc7ed96c562ef718c5717a54031c073537e5cb7c26405609e3f7781a79d5"
+
+[[files]]
+file = "config/adchimneys/Containers/rainbow_brick.cfg"
+hash = "a07f4657a1ce401bb2faac9cc4dee41f133f7ca8d5b3eaba84b0dac001a48dcf"
+
+[[files]]
+file = "config/adchimneys/Containers/red_nether_brick.cfg"
+hash = "eface9d2cfd299e6736fd62320940be6865231b9a6209e752ee07904671fff4f"
+
+[[files]]
+file = "config/adchimneys/Containers/red_sandstone_brick.cfg"
+hash = "abd63c6a906323775a62814c23cf5eaf0d7df73603521f18f2d83c79f9384da2"
+
+[[files]]
+file = "config/adchimneys/Containers/red_sandstone_carved.cfg"
+hash = "31b6cf59a6cc2ca9c7e68f526ea204aa852e74a453033126ad23ebcf693db5df"
+
+[[files]]
+file = "config/adchimneys/Containers/red_sandstone_normal.cfg"
+hash = "92ea46544f55d2402c2ea626c9d169926b02bbe2e7eeee7b589f3154fff156c3"
+
+[[files]]
+file = "config/adchimneys/Containers/red_sandstone_smooth.cfg"
+hash = "13db57a293aaac940e9fd7e450d8cc13c6b21da1100caab270bb5ca2ffc7341a"
+
+[[files]]
+file = "config/adchimneys/Containers/sandstone_brick.cfg"
+hash = "a441e3582df6c9e69554ba701208ce3916957ef4935fb7b9e7ac90aa98ed954f"
+
+[[files]]
+file = "config/adchimneys/Containers/sandstone_carved.cfg"
+hash = "44243284333b6f0307ae090d69f86600797bfcbd90474a186ac055c0cff6ead2"
+
+[[files]]
+file = "config/adchimneys/Containers/sandstone_normal.cfg"
+hash = "565500f94c871c0167fdfc0bdc3e6157ddfca68e22f75fef844b4f972e080cd9"
+
+[[files]]
+file = "config/adchimneys/Containers/sandstone_smooth.cfg"
+hash = "08f420d2fe8417cd4e22fbd50e2dfe5593d73c7f8f7c769cb6e655687861c1e7"
+
+[[files]]
+file = "config/adchimneys/Containers/sandy_brick.cfg"
+hash = "c459d46a97474316bcb4b3e66fe02a90fc35a31065982fdb1699065348643acf"
+
+[[files]]
+file = "config/adchimneys/Containers/sea_lantern.cfg"
+hash = "834a181bbbeccbc9eb0ca45adb632be29e079df6e906690f11fb0ad77a10e652"
+
+[[files]]
+file = "config/adchimneys/Containers/seared_brick.cfg"
+hash = "9e8d0202cb3e2d15ea404de863ec7d7b9dfcca54be26710201d8436fed24dd32"
+
+[[files]]
+file = "config/adchimneys/Containers/seared_brick_fancy.cfg"
+hash = "35ac8cdeb719552ed9494ecee5a387dc6ed114e255d88f0209c58e6145db0cb8"
+
+[[files]]
+file = "config/adchimneys/Containers/seared_brick_small.cfg"
+hash = "73970cffdda234fd3c80d5acfd9f10ae213f223a5cdeaf5848dd8aedcb72d915"
+
+[[files]]
+file = "config/adchimneys/Containers/seared_brick_triangle.cfg"
+hash = "e764a017691939d9e4c43c86d6a885ab1f98a4a5656afc90a8e3350390aa9e50"
+
+[[files]]
+file = "config/adchimneys/Containers/snow_brick.cfg"
+hash = "caf079bad63e95e2cead44c0ced4bc7f74e13a9417e3d652ffd743f529139233"
+
+[[files]]
+file = "config/adchimneys/Containers/soul_sand.cfg"
+hash = "ad7f3f3f79ff190cc49a36fbcbfc5db1131546f54cad65ed5348553da00ad643"
+
+[[files]]
+file = "config/adchimneys/Containers/soul_sandstone_brick.cfg"
+hash = "aed63f781de2271c1b57b8d3af29f868978fdebd2a3bc8202d70f941c08bd505"
+
+[[files]]
+file = "config/adchimneys/Containers/stone.cfg"
+hash = "22c0eb7cff716a502c16588c020effb505183d0b14093f0596e54aac086e1868"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_andesite.cfg"
+hash = "d304cffc4292feb71743b88164a0603a5d6e4e614aa93b3064973d607186c865"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_andesite_brick.cfg"
+hash = "0b4f778a1b7d13f1cb7b0193ba0d6c6a699bed7a07264554eae7759e79b1353d"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_andesite_smooth.cfg"
+hash = "22a96e5127f803e869d931bca64ca09bee804e42780c4507ae1fb4babb0e16ea"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_basalt_brick.cfg"
+hash = "95eeb9a5f293fc915d2f33e56a2178f0565fbd2d20dcd514a0c026887b278b77"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_diorite.cfg"
+hash = "db963f1994744b45f8d8ab25746eeef12b4a983165b291fda498b66d17292719"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_diorite_brick.cfg"
+hash = "ccd5ffafab0f1da2ab4c42525ad29fb1b58c256f177a5bdcaa9d886481926aa3"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_diorite_smooth.cfg"
+hash = "4af73143df9c6126c38d4daab68ca6442abcf6692e55d9909545ea56bbb0d03c"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_granite.cfg"
+hash = "5ef51a35af07e3d9e45a497202d6dedc296f3ba832ca00d4ce885269ca556ef8"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_granite_brick.cfg"
+hash = "4894dcef111afaeefd57265643be332ad50558877b0ecc6ed8a30612395fb1a3"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_granite_smooth.cfg"
+hash = "8ba86f64653d972cf69fb67d5a8c9d0837a9eb981cadebe9e62fb88e47c84d2b"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_limestone_brick.cfg"
+hash = "b72ba57674adf6e0bc81aeb56d32e226cbe2256279efd65b95f2cf01980e7d5d"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_marble.cfg"
+hash = "94ed84164a3b7f95949526683c4c4bd4e36dd99acfd774140d6c475f6a26edb1"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_marble_brick.cfg"
+hash = "dadd2416efbe9f6e5710cbc3a12ff3e732250b710d309b32e2f8a315ddea59f4"
+
+[[files]]
+file = "config/adchimneys/Containers/stone_marble_smooth.cfg"
+hash = "f44f3bda7e508f89653f56871e41dffeb1512c009c21d3bfcb9650b1a232608f"
+
+[[files]]
+file = "config/adchimneys/Containers/stonebrick.cfg"
+hash = "621339f6b9a11d2ba26cee00b49876980573400857b7b8b1d97369afdada2f90"
+
+[[files]]
+file = "config/adchimneys/Containers/stonebrick_cracked.cfg"
+hash = "ca563ff556d61b0ef51171a6a689bef2130912a1278753c833185d0e5644db64"
+
+[[files]]
+file = "config/adchimneys/Containers/stonebrick_mossy.cfg"
+hash = "446d26c6eddf050920253f577a777848d92c1d919a03fa6623409bc7088925bd"
+
+[[files]]
+file = "config/adchimneys/Emitters/actuallyadditions$block_coal_generator.cfg"
+hash = "f3ec88ad6f351f05bad217e3fed549b5c7f5ba0f14ed3b9eb254cdc4a6f531ec"
+
+[[files]]
+file = "config/adchimneys/Emitters/actuallyadditions$block_oil_generator.cfg"
+hash = "e592e7b17f3eb5f95d3d763a6581e27e616698b4300dbbfbd32afcbb5fdaa454"
+
+[[files]]
+file = "config/adchimneys/Emitters/actuallyadditions$powered_furnace.cfg"
+hash = "ebb661f286e97b31c5f332c4f6acd639ad712b9d8ba4ecf65169b4cfdee99fce"
+
+[[files]]
+file = "config/adchimneys/Emitters/advancedrocketry$arcfurnace.cfg"
+hash = "62da7763757b5fcdb0909414cbc6a1d6100edef12e04b308154893f61c4f9291"
+
+[[files]]
+file = "config/adchimneys/Emitters/advancedrocketry$crystallizer.cfg"
+hash = "163fcd661a4f8613c4fae6d96f49c0164b7c8e51cebfaaa5d836e4a18c941010"
+
+[[files]]
+file = "config/adchimneys/Emitters/advancedrocketry$cuttingmachine.cfg"
+hash = "b3909798e7e7e15c860df6def4487e47079ef54d622db4421f9aa6eaba441389"
+
+[[files]]
+file = "config/adchimneys/Emitters/advancedrocketry$rocketbuilder.cfg"
+hash = "c83e6c0f8bd9de99fba4e0c34702135de5ba50ad1bb57a7be5f004c0017918b1"
+
+[[files]]
+file = "config/adchimneys/Emitters/advancedrocketry$rollingmachine.cfg"
+hash = "21152af1b6be89be59cf79720e8c2386bf3408df4041b82443636f67e980c6f7"
+
+[[files]]
+file = "config/adchimneys/Emitters/advgenerators$syngas_controller.cfg"
+hash = "395cfdd2a09f569900781772e79b8045239c1b9c19b1dbe0f55055c700a47e51"
+
+[[files]]
+file = "config/adchimneys/Emitters/atum$kiln.cfg"
+hash = "5d56ad0afc3de714a624f6357fd88bed544812257e310f9b20c4ad54f7332c91"
+
+[[files]]
+file = "config/adchimneys/Emitters/atum$limestone_furnace_lit.cfg"
+hash = "d60880fc1ffaafef61af58cb959628839d11b8a1614547d9eb49d272241a83d7"
+
+[[files]]
+file = "config/adchimneys/Emitters/betterboilers$controller.cfg"
+hash = "bd97b58471ab492da6c8642822bdbc9bae0f251093fdbac5d51a81b6d63c3d29"
+
+[[files]]
+file = "config/adchimneys/Emitters/betterwithmods$stoked_flame.cfg"
+hash = "93a326b8de3880548e4aef6abc54916e6c389398f2d2425b931dde52ad01aa0b"
+
+[[files]]
+file = "config/adchimneys/Emitters/buildcraft$engine_combustion.cfg"
+hash = "66301012a5f4edaade27cb762becacbae5769fcd6f98e0ef752cb0209cec29d2"
+
+[[files]]
+file = "config/adchimneys/Emitters/buildcraft$engine_stirling.cfg"
+hash = "3d86c9400b24c97c98aeb5166984e833d56c0e8082f435ec9309a1d62c76e489"
+
+[[files]]
+file = "config/adchimneys/Emitters/cfm$fire_pit_on.cfg"
+hash = "4834dca2f2efa962df29321a61b128d767f2bbcbd1c9fa6fb44d64e0f90447df"
+
+[[files]]
+file = "config/adchimneys/Emitters/cfm$oven.cfg"
+hash = "8892a8494c4d24726057dd112ab82fdfb048d0fd105b62804de5c410f0bb1c31"
+
+[[files]]
+file = "config/adchimneys/Emitters/cookingforblockheads$oven.cfg"
+hash = "3325cfb7b5f753fdad7d1772181bfc038ac217d4e5df3457b1ffa527dc348b45"
+
+[[files]]
+file = "config/adchimneys/Emitters/dawnoftime$limestone_fireplace.cfg"
+hash = "d950b02e0c905af333d0bf400cfd56960e3347ab27e17ca6c12f0945d174b56f"
+
+[[files]]
+file = "config/adchimneys/Emitters/dawnoftime$open_fireplace.cfg"
+hash = "27b3e0c1d7bdfb5e9da77379867f0f9075b5510c722f3ea1985dd999146fef3f"
+
+[[files]]
+file = "config/adchimneys/Emitters/draconicevolution$generator.cfg"
+hash = "0f2517a4e4da1bdd08403d7a57b604dfc2baea6e309305d1caf5d650240df826"
+
+[[files]]
+file = "config/adchimneys/Emitters/dumpsterdiving$regrinder.cfg"
+hash = "4cd6356012c47f3151cd3da9ffb488e350f6a29ad707447ead273b436419121d"
+
+[[files]]
+file = "config/adchimneys/Emitters/dumpsterdiving$reingotor.cfg"
+hash = "275cf0a607d0f97e4b43a5e75491eb44ccb7ebb1e307f7406261b41bac1a4316"
+
+[[files]]
+file = "config/adchimneys/Emitters/dumpsterdiving$reprocessor.cfg"
+hash = "31ae6fe475fcc73dabbc6cd6d5189c173cabf266e3463465fcc682ad88821b6d"
+
+[[files]]
+file = "config/adchimneys/Emitters/embers$ember_bore.cfg"
+hash = "3b0a1bc106a6ad3488b7439fa2d45316191fd1d369111f3bc5e90ac564d8ac46"
+
+[[files]]
+file = "config/adchimneys/Emitters/embers$melter.cfg"
+hash = "c713bd74c2837a75a7bdf85c167f4b62c4af29645c2e4e4de134e037af8d1c8a"
+
+[[files]]
+file = "config/adchimneys/Emitters/enderio$block_combustion_generator.cfg"
+hash = "1cd1a4973bf8664e73383373606718594863924ac1e711970b7dfab53d754f2a"
+
+[[files]]
+file = "config/adchimneys/Emitters/enderio$block_stirling_generator.cfg"
+hash = "6341b2b0386e79e74be1403444b62a5bc49e0d93cc0e378b538ddab9f85f3cd6"
+
+[[files]]
+file = "config/adchimneys/Emitters/engineersdecor$small_electrical_furnace.cfg"
+hash = "48e3fabef18d6a12b45589f0fba1e86133247fcd49b4ec6ae1e0f3013550f14f"
+
+[[files]]
+file = "config/adchimneys/Emitters/engineersdecor$small_lab_furnace.cfg"
+hash = "bca47b67d6b12961c8b86c1088b320afcd86ea6f8b7b2a62588edae78dc896df"
+
+[[files]]
+file = "config/adchimneys/Emitters/engineersdecor$small_mineral_smelter.cfg"
+hash = "88a5c94938d1b8b9f394d276b5846bb13d7c7b98b55d51d32f3899e8bdc33403"
+
+[[files]]
+file = "config/adchimneys/Emitters/foundry$alloyfurnace.cfg"
+hash = "911b711ef3051c4b71cdce94184d06349f3130cec632b07e3621edf7d1548ed0"
+
+[[files]]
+file = "config/adchimneys/Emitters/foundry$burnerheater.cfg"
+hash = "de89f792923c36114439fd961d60f55e846022bf10e2625e1849b625c6e61439"
+
+[[files]]
+file = "config/adchimneys/Emitters/foundry$moldstation.cfg"
+hash = "826996593d801a650fd03449a18d273a8dd28368b4f9b5fb1df8e89d315b7ca0"
+
+[[files]]
+file = "config/adchimneys/Emitters/funores$alloysmelter.cfg"
+hash = "922204076f331d54fb251bc9c61ca5ca863f30f4f3c4dd186fd83a9735705cfe"
+
+[[files]]
+file = "config/adchimneys/Emitters/funores$metalfurnace.cfg"
+hash = "050746c15ad4cec603a29c3f9c7bfb47ec643d9b31bb26a3886ae9e6e627b44e"
+
+[[files]]
+file = "config/adchimneys/Emitters/furnace3d$lit_furnace.cfg"
+hash = "a8cfce3730a5ba023c621ee0fc1400cd66ddca31552ed75bd457fa1a594c98a5"
+
+[[files]]
+file = "config/adchimneys/Emitters/furnaceoverhaul$diamond_furnace.cfg"
+hash = "adf1714ca7a380269e98f46bd4a3c6782f0bbb54960596d000bd411332189ff8"
+
+[[files]]
+file = "config/adchimneys/Emitters/furnaceoverhaul$emerald_furnace.cfg"
+hash = "0797314e6503c960b4725c08560e872e6159bbe0a7c514b9dae5195a4aa8a0aa"
+
+[[files]]
+file = "config/adchimneys/Emitters/furnaceoverhaul$end_furnace.cfg"
+hash = "728c069914289b03ae41f8cca00af5407fea813fd28d9b4b2d57e65a46605279"
+
+[[files]]
+file = "config/adchimneys/Emitters/furnaceoverhaul$gold_furnace.cfg"
+hash = "416d02c187d31ea092ca84e78ff4e79724857c1c4ec414d66c024e800ae72bca"
+
+[[files]]
+file = "config/adchimneys/Emitters/furnaceoverhaul$iron_furnace.cfg"
+hash = "607d59f835c969f9cd33954c777a3be127279c7d0cd7bab39b07fc11faa4a54a"
+
+[[files]]
+file = "config/adchimneys/Emitters/furnaceoverhaul$zenith_furnace.cfg"
+hash = "985ad27ba4b2c1ca7f787f34a63990015fbc94210071448e9f7dfe2385aa9844"
+
+[[files]]
+file = "config/adchimneys/Emitters/furnus$furnus.cfg"
+hash = "8fecda17d351b63babc3e6ab5ca55b79b6b4dffc0fa297b8739c834c5073d33d"
+
+[[files]]
+file = "config/adchimneys/Emitters/furnus$pulvus.cfg"
+hash = "4d15bfee30b3e667b6848d5d7d4e40bafd00293402db5319744ed7ff13066d93"
+
+[[files]]
+file = "config/adchimneys/Emitters/futuremc$blast_furnace.cfg"
+hash = "fd9f5df107a55091966ab4b14a3d0f966ed731fa4175559a7c5aecb9d40061ed"
+
+[[files]]
+file = "config/adchimneys/Emitters/futuremc$smoker.cfg"
+hash = "8c0e7138a9c817a177147ccbb0ffcd1c884021e0e4b32eb6c9c7c68a522b094b"
+
+[[files]]
+file = "config/adchimneys/Emitters/gadgetrycore$alloy_furnace.cfg"
+hash = "86a8a4369e386a0a5ddb2e3142f8366f43cbbd9dfd80817e677e9bc82c0f4769"
+
+[[files]]
+file = "config/adchimneys/Emitters/gadgetrymachines$furnace_gen.cfg"
+hash = "7444459674d29fe189b8e38b8b3f0e567afc00748f1fcc948cd6ae000925052f"
+
+[[files]]
+file = "config/adchimneys/Emitters/galacticraft$coal_generator.cfg"
+hash = "ece7d5e9b01ab6ac4304d38c2193f0e8bcddbc84996649f84872d8ac2840097e"
+
+[[files]]
+file = "config/adchimneys/Emitters/galacticraft$ingot_comressor.cfg"
+hash = "a42890f2395d612e4a61fc307e27ab0c72834bcc2fe1e3f294c5432af8cfb56b"
+
+[[files]]
+file = "config/adchimneys/Emitters/giacomosfoundry$foundry_lit.cfg"
+hash = "dedd33da3927605e2e84f03d37766b33dc719a8f3b42634d35be317869a81a10"
+
+[[files]]
+file = "config/adchimneys/Emitters/gregtech_ce$machines.cfg"
+hash = "6c6fea62ad7aca7e50a659c32ac2573da1376c776468ef3a5d399d824dda63f8"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2$_common_0.cfg"
+hash = "d6107bb14f94667ce6f12598c2ce166b643faae12407b3a06a34c9c2b513258f"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2$_common_1.cfg"
+hash = "128a144cd7c4d9a62674f251f6a63593c87074697d5617a9258b5e4690a98b46"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2$generator.cfg"
+hash = "11cfcb2be7dd0ca89b3fbea16ffafd07aa451754ac3de0e840aeb00bf4b800ac"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2$geothermal_generator.cfg"
+hash = "4838ad0bed035d7fcb1b71dc4a0ea0f38b82bb9d83865aad4377aaa5196c61a2"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2$iron_furnace.cfg"
+hash = "dd915c638f6c1ca393b77e92be1adfebda184f46ac55237a4e3f652848b4a965"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2$semifluid_generator.cfg"
+hash = "3ceabfa7022b5c5a5cf99e441177c0b52987d8b556941fcfdda33dc8652ccaa1"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2$solid_heat_generator.cfg"
+hash = "702242c9290826e3e48499703f088f657d10ce4095fa0790a168268480210f77"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2classic$fuel_boiler.cfg"
+hash = "1ce4073865cc27329c56969ee82b3a4cadeb2036077e7175307727fd9dfee080"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2classic$generator.cfg"
+hash = "e16b7af1fd1d8216184cc787d68c4cee02657c8f22ce1fb901878cd6944ea663"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2classic$iron_furnace.cfg"
+hash = "4d0e066fb71a80853cc777dbb334cf87db13b0360e8eb931bc05126e3d9efd7a"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2classic$liquid_fuel.cfg"
+hash = "bb56bac99c6d7e4b9fde20babd1591a14deadbee7a21f4e4e773739106fbe552"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2classic$slag.cfg"
+hash = "9c0bf2838846bbee53254889bd84e0baeca9b19a31c0eb180687ac38c66371a7"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2classic$stone_macerator.cfg"
+hash = "73bc97fa633b2af62422cb1a06d93303da00679c4968cf950535d8e9c2194601"
+
+[[files]]
+file = "config/adchimneys/Emitters/ic2classic$wood_gasificator.cfg"
+hash = "509ccab4834bbce6a749d1e65f98f4aabe37037b06994b21b0f185854e8f66a4"
+
+[[files]]
+file = "config/adchimneys/Emitters/immcraft$furnace.cfg"
+hash = "7e6e87f4bd2fc3fc6aad02c0f326b01d6d826bdb3ec8597bc9a41d42afbb5e45"
+
+[[files]]
+file = "config/adchimneys/Emitters/immersiveengineering$alloy_kiln.cfg"
+hash = "9d700fc6403fb241dc0ce8e702ee12cab5902673e3f3fbdecde69ba8b37bf942"
+
+[[files]]
+file = "config/adchimneys/Emitters/immersiveengineering$blast_furnace.cfg"
+hash = "29514d107a97e9b8402c5c3ef1ff751884a69fb91a57017e1acd8a20acf98243"
+
+[[files]]
+file = "config/adchimneys/Emitters/immersiveengineering$coke_oven.cfg"
+hash = "c521266be0d5414f8738a8b13b078306865778ae1d62ddde8e519cfdb142d263"
+
+[[files]]
+file = "config/adchimneys/Emitters/immersiveengineering$diesel_generator.cfg"
+hash = "d899c2697c20bd08bec40e39387d92e2d74013f6506ea1b52c3d54065166f95a"
+
+[[files]]
+file = "config/adchimneys/Emitters/immersiveengineering$improved_blast_furnace.cfg"
+hash = "166d507e2683ab9f225b735d47fe76df44c42086fe2535a9ee68cdead47b73af"
+
+[[files]]
+file = "config/adchimneys/Emitters/immersivetech$coke_oven_advanced.cfg"
+hash = "d17402be8feba90b3ff58a95665bcea56f530ca64435da7f355f31391e7866d9"
+
+[[files]]
+file = "config/adchimneys/Emitters/ironfurnaces$diamond_furnace_active.cfg"
+hash = "97e2173a94454d4937141044582aa1dda5d08665808749312b8ad98ef9581dc7"
+
+[[files]]
+file = "config/adchimneys/Emitters/ironfurnaces$glass_furnace_active.cfg"
+hash = "7cecd22ffa79fb5cc0f841e4eb25eb517a545d96c767362de2616bee432dac3b"
+
+[[files]]
+file = "config/adchimneys/Emitters/ironfurnaces$gold_furnace_active.cfg"
+hash = "cb5bbfef3da780d004618257b784ef6dcd00c338855ffded51be4da19a968992"
+
+[[files]]
+file = "config/adchimneys/Emitters/ironfurnaces$iron_furnace_active.cfg"
+hash = "91a116399596acd4a3acb2021ca9adeb41e1f97024c1a8f52147072c28394586"
+
+[[files]]
+file = "config/adchimneys/Emitters/ironfurnaces$obsidian_furnace_active.cfg"
+hash = "08b429662b9486fec74e5cd72612ab6abd2e1040975c93722e956ea44ff927d1"
+
+[[files]]
+file = "config/adchimneys/Emitters/libvulpes$coal_generator.cfg"
+hash = "7f1c0471f6658e73b74b7563944812829671e6a4b439432e951f21763af2967b"
+
+[[files]]
+file = "config/adchimneys/Emitters/lucraftcore$furnace_generator.cfg"
+hash = "3d84a777853bcd1a16bf14348fde6c739be9b99d41a04fba5d0704cdec0483b3"
+
+[[files]]
+file = "config/adchimneys/Emitters/machines$mythril_furnace_lit.cfg"
+hash = "db0843ab635eb10d9886e4c1bf0da6c38ed9d2ec8c9a8a30f2ffa1af483eb0b8"
+
+[[files]]
+file = "config/adchimneys/Emitters/machines$onyx_furnace_lit.cfg"
+hash = "7da5e0689288068049d9fed2fe210f17860163ad83ff0e055ae5e240ff771bc4"
+
+[[files]]
+file = "config/adchimneys/Emitters/magneticraft$big_combustion_chamber.cfg"
+hash = "599da881506a1089b70467d1b8898b54616b91d434248100feb84117322303f5"
+
+[[files]]
+file = "config/adchimneys/Emitters/magneticraft$combustion_chamber.cfg"
+hash = "f798de5affa4f02922e508f2595847c9cd5ebd7309f5ca2d05ab41f6390bf49f"
+
+[[files]]
+file = "config/adchimneys/Emitters/mekanism$fuelwood_heater.cfg"
+hash = "f50fa57c3f19f0125acde98eb3d7ed2534a7c61be0211250b631146aec88327c"
+
+[[files]]
+file = "config/adchimneys/Emitters/metallurgy$alloyer.cfg"
+hash = "662c7e4ac8b6343561305360eea4d1e49b90be96bd62490c66213e5d688d6bb0"
+
+[[files]]
+file = "config/adchimneys/Emitters/metallurgy$crusher.cfg"
+hash = "cfd3059fb5909aac55956228d9477a37b4eb0c65bdca4d832465a789a7c0cf2b"
+
+[[files]]
+file = "config/adchimneys/Emitters/minecraft$lit_furnace.cfg"
+hash = "07075a1f12b7c24c5b992486fbaf388e2db7e9aa7d98fc43164d7b98621b1011"
+
+[[files]]
+file = "config/adchimneys/Emitters/minecraftfuture$blast_furnace.cfg"
+hash = "2eb3337dc47a16f3607fa2c8f753ffc7c69cedd399fc0b33ef29079907e4a9c8"
+
+[[files]]
+file = "config/adchimneys/Emitters/minecraftfuture$smoker.cfg"
+hash = "22ba9e0fd77e3bb335356825f69d5ab72974951de3f78b93176e7d3b66be5017"
+
+[[files]]
+file = "config/adchimneys/Emitters/morefurnaces$diamond_furnace.cfg"
+hash = "448a1be64256b9524bfc9958b882f40ad834e53cb40ca4dc8b804bdfbee83695"
+
+[[files]]
+file = "config/adchimneys/Emitters/morefurnaces$golden_furnace.cfg"
+hash = "237151520e9feef149f53a5b9ba5d1a0b0f80ad567a6be04d6023713e93d17ec"
+
+[[files]]
+file = "config/adchimneys/Emitters/morefurnaces$iron_furnace.cfg"
+hash = "3edbbfa168b11e443bee68968e0c7a6b7fd97d929e42986985d3e59df93be920"
+
+[[files]]
+file = "config/adchimneys/Emitters/morefurnaces$netherrack_furnace.cfg"
+hash = "2316ae7f508dd7870ecce81a84413ee89fe2407e5dd139860bd9043833a18ce2"
+
+[[files]]
+file = "config/adchimneys/Emitters/morefurnaces$obsidian_furnace.cfg"
+hash = "c3c332c9eeb7ccb0f46983945462e3be9940bdd959336631474e3e3c84bb5757"
+
+[[files]]
+file = "config/adchimneys/Emitters/mysticalagriculture$inferium_furnace_active.cfg"
+hash = "abb936cc609a3cab32f20ba78b18658f967b569c21b0206a52302625c6a5a90b"
+
+[[files]]
+file = "config/adchimneys/Emitters/mysticalagriculture$intermedium_furnace_active.cfg"
+hash = "6205d9adc7860a2759d04ffcc992dc36afd7ad3dbf3231910b027473ade742bb"
+
+[[files]]
+file = "config/adchimneys/Emitters/mysticalagriculture$prudentium_furnace_active.cfg"
+hash = "44e3b5f22b42e94bd85d30bfee686db669d302ab4190bdcbb414265945612b15"
+
+[[files]]
+file = "config/adchimneys/Emitters/mysticalagriculture$seed_reprocessor.cfg"
+hash = "33285f0d1f8a260f4576767300764c4c930d6fd21eefc43562d68fa085afb96d"
+
+[[files]]
+file = "config/adchimneys/Emitters/mysticalagriculture$superium_furnace_active.cfg"
+hash = "079a4810a489bb10c3d4b59d52189aabe1dee810d22a2b1ac47db394db239bed"
+
+[[files]]
+file = "config/adchimneys/Emitters/mysticalagriculture$supremium_furnace_active.cfg"
+hash = "4b08c3afcd67763d5beab435ee9d01fde7139fcaacc82369356a7de86c67f491"
+
+[[files]]
+file = "config/adchimneys/Emitters/mysticalagriculture$ultimate_furnace_active.cfg"
+hash = "7d716d7088567b86449f48827b4b6f980bff42ef0fd40efac9593a20f7905dc9"
+
+[[files]]
+file = "config/adchimneys/Emitters/natura$lit_netherrack_furnace.cfg"
+hash = "e489589aee78e3b03e930a72629a695ea84482a7b876ef9431f9f1fc300b0f46"
+
+[[files]]
+file = "config/adchimneys/Emitters/omegacraft$combustion_generator.cfg"
+hash = "eecbc566d2e2852048f3b0eef182f8224bd6f39f9be8221a52e8e30f0f7d9352"
+
+[[files]]
+file = "config/adchimneys/Emitters/omegacraft$hungry_generator.cfg"
+hash = "372468551a44c5bfb566747b5161ace369754e380bf4b75fa238050b3b9b363f"
+
+[[files]]
+file = "config/adchimneys/Emitters/omegacraft$lava_generator.cfg"
+hash = "1cddbc0b0ecc073ed1fc643af2abc28703037172d180c1f44f0aa710111802fe"
+
+[[files]]
+file = "config/adchimneys/Emitters/pneumaticcraft$advanced_air_compressor.cfg"
+hash = "03240591451058a046e1788c61fb0f35e7f01fd62cbc98e9c81588d129a7923f"
+
+[[files]]
+file = "config/adchimneys/Emitters/pneumaticcraft$air_compressor.cfg"
+hash = "792768b7099d34f6c2917a8bf1f9e5c6b2374afaf636b23e5063108145380bbf"
+
+[[files]]
+file = "config/adchimneys/Emitters/primal$hibachi.cfg"
+hash = "6299b390ac47dbe2ea485f9d995d09b07e8e2f324d54d1479e83e8643405c695"
+
+[[files]]
+file = "config/adchimneys/Emitters/primal$kiln_adobe.cfg"
+hash = "f8ad399ae1197beed6372d9b49c19f389166f473d7e1e584a72ee57cc2e21341"
+
+[[files]]
+file = "config/adchimneys/Emitters/primal$smelter.cfg"
+hash = "ee55cb62bc20ab9c54f20a6f9781648642777ccdd964cff84d2960af2cdc0ee0"
+
+[[files]]
+file = "config/adchimneys/Emitters/projecte$dm_furnace_lit.cfg"
+hash = "3e77cfed83f56779f66717b09a650104dbba6d1cab8d7cbde6f94f814dcee5df"
+
+[[files]]
+file = "config/adchimneys/Emitters/projecte$rm_furnace_lit.cfg"
+hash = "dfc978cec759253e1bbada3add9007ce1439d992d0ba71bd869fcb312cee171e"
+
+[[files]]
+file = "config/adchimneys/Emitters/pyrotech$bloomery.cfg"
+hash = "2c0d48b67d2055daa9a9c460a588093224dcf0bf7b7df0376f880768577e2600"
+
+[[files]]
+file = "config/adchimneys/Emitters/pyrotech$brick_crucible.cfg"
+hash = "e959c73d5c280196acebe0616559ab2dca18822261a9307cfb463c72c275ee2c"
+
+[[files]]
+file = "config/adchimneys/Emitters/pyrotech$brick_kiln.cfg"
+hash = "6358914dc407d229aee0f402718d3b317a4cdcf71c072d3fa7dfc0cc1b243410"
+
+[[files]]
+file = "config/adchimneys/Emitters/pyrotech$brick_oven.cfg"
+hash = "8cd6142ac46040b79980a14b4f61fcb1adbcf2e35539ce34d9d65aee03737af9"
+
+[[files]]
+file = "config/adchimneys/Emitters/pyrotech$brick_sawmill.cfg"
+hash = "b5c4acc6c45eabdfca151b2b8579ee0c96b32133cc5d61d1cbda635020a56862"
+
+[[files]]
+file = "config/adchimneys/Emitters/pyrotech$campfire.cfg"
+hash = "7bffee82df00e8ff365072bbf0e532702120e386302b89d2271849771c787067"
+
+[[files]]
+file = "config/adchimneys/Emitters/pyrotech$stone_crucible.cfg"
+hash = "92b4ab136d96673fa71d028c63dfb390be68b6c6146014c782402bc2d896f3e5"
+
+[[files]]
+file = "config/adchimneys/Emitters/pyrotech$stone_kiln.cfg"
+hash = "9caf0915e3d915ec9ebcdd86b4e078efc0b81b74ba9b242e49c1d9acf898a122"
+
+[[files]]
+file = "config/adchimneys/Emitters/pyrotech$stone_oven.cfg"
+hash = "600dfef8fc72e65371bda124252a0d224f3a43a9e4f0e4c6236c019113523ea1"
+
+[[files]]
+file = "config/adchimneys/Emitters/pyrotech$stone_sawmill.cfg"
+hash = "ad61d3c2eea15d3a4c5df6dd1b6473b1e00e5028b038c7649868707abf576951"
+
+[[files]]
+file = "config/adchimneys/Emitters/pyrotech$wither_forge.cfg"
+hash = "1c9fdd582f36a819993da1b266979273b628c1ea981bae0c0c89c7327eaec509"
+
+[[files]]
+file = "config/adchimneys/Emitters/railcraft$blast_furnace.cfg"
+hash = "7e11f932aea36b294cc947e4094852c380b3159b0eb4e066c42ed09e5335e453"
+
+[[files]]
+file = "config/adchimneys/Emitters/railcraft$boiler_firebox_fluid.cfg"
+hash = "c1ec78572d4ef1084fd1c2e2bba6f6553679a04c01a259790467597967ddbdea"
+
+[[files]]
+file = "config/adchimneys/Emitters/railcraft$boiler_firebox_solid.cfg"
+hash = "7668023801a0d887129439ea1cc0fd0d667bd4f4f032778e4f002053c079c947"
+
+[[files]]
+file = "config/adchimneys/Emitters/railcraft$coke_oven.cfg"
+hash = "40910d902ca3e1c55d44dd4e6316c45e74ea1becfb492ec2a0793fe5e4dc979d"
+
+[[files]]
+file = "config/adchimneys/Emitters/railcraft$coke_oven_red.cfg"
+hash = "915890c964eb7e10a2f1a9d08c72dd65a232c9f4573abe70d2ad20fbc27a4b8b"
+
+[[files]]
+file = "config/adchimneys/Emitters/rftools$coalgenerator.cfg"
+hash = "1078848889faecbb839a8b847cffd404b70fa84db0cf5af3dcab304c0caea39b"
+
+[[files]]
+file = "config/adchimneys/Emitters/rockhounding_oretiers$bloomery.cfg"
+hash = "4211f0ab4429928359b05282d5c4fe63d03147b816be7a1e7b23c193379afe4a"
+
+[[files]]
+file = "config/adchimneys/Emitters/tcomplement$high_oven_controller.cfg"
+hash = "bfe1912f40ea49dec99d82b0e310ed75ae132a330d3750b829e12691fb5f5ef9"
+
+[[files]]
+file = "config/adchimneys/Emitters/tcomplement$melter.cfg"
+hash = "d81f49ce03196260b0b0c1958ff9b8f24035ff96dd202345907008ca60cfa37d"
+
+[[files]]
+file = "config/adchimneys/Emitters/tcomplement$porcelain_melter.cfg"
+hash = "6429a95962aa2c7b6a6ac3a7c1ae951430ea1c8b0cbab3e5c315d498157adc70"
+
+[[files]]
+file = "config/adchimneys/Emitters/tconstruct$seared_furnace_controller.cfg"
+hash = "03e5c03c28e568cb893eec6927506fbac4e709117583ce691f7944dd49bbfed3"
+
+[[files]]
+file = "config/adchimneys/Emitters/tconstruct$smeltery_controller.cfg"
+hash = "1b7c6076bd5383176b93a0be8dcaffa09b4a670067f831eab8329bba80e9c794"
+
+[[files]]
+file = "config/adchimneys/Emitters/teastory$lit_tea_stove.cfg"
+hash = "2a7706812aae32e5ad5a939e7e84d1b3cabd008802bc06dcd50e13351b504512"
+
+[[files]]
+file = "config/adchimneys/Emitters/techreborn$industrial_blast_furnace.cfg"
+hash = "d3d687c62db65f3ce5f7a1bd5df66c8deddb5c480534ae0b83b5a30bcdf130f8"
+
+[[files]]
+file = "config/adchimneys/Emitters/techreborn$iron_alloy_furnace.cfg"
+hash = "52ea25fa3c1c3a004b7ac0d6f8e1635aaa298d72bb61241fe07217fa839acf1f"
+
+[[files]]
+file = "config/adchimneys/Emitters/techreborn$iron_furnace.cfg"
+hash = "9ff6fca04427b02bdf2d85bc58a3dd5b63fc27b355050b8123fae5f332edeba3"
+
+[[files]]
+file = "config/adchimneys/Emitters/techreborn$solid_fuel_generator.cfg"
+hash = "56f94b6f76812d8f1c9a7886334b6bfd90258d23338ee3570c2db72fae4035b2"
+
+[[files]]
+file = "config/adchimneys/Emitters/teckle$alloy_furnace.cfg"
+hash = "3a9dd015a93b5ef68c72eeff1966bb19e718f27774e84c3a16a9f8ec8ec23b98"
+
+[[files]]
+file = "config/adchimneys/Emitters/thaumcraft$infernal_furnace.cfg"
+hash = "42cb68bc5847c403133d1ef5dfc705f1b09119c9b6ec52a3912fe05f8cb83f46"
+
+[[files]]
+file = "config/adchimneys/Emitters/thaumcraft$smelter_basic.cfg"
+hash = "9514aaafaea346037fa1f8426bc945ec922ad051c787aa78515e093ad3207d2d"
+
+[[files]]
+file = "config/adchimneys/Emitters/thaumcraft$smelter_thaumium.cfg"
+hash = "cca48195325f8b24f4794af85c591cc7380f5983f9fd36b7c97236644ccc3291"
+
+[[files]]
+file = "config/adchimneys/Emitters/thaumcraft$smelter_void.cfg"
+hash = "db7d8d8a1eea61a094c1b56e5ad0c7bd14a142c994ce5304ac28d25d739553cf"
+
+[[files]]
+file = "config/adchimneys/Emitters/thermalexpansion$induction_smelter.cfg"
+hash = "941101c9de54306aedf4393a6a0c810e45b6a50d76038df85a6abb2d3c782950"
+
+[[files]]
+file = "config/adchimneys/Emitters/thermalexpansion$redstone_furnace.cfg"
+hash = "eb121aae65ac01a4e3bd3b9021a070d4d8eaa253755037a9e2514c508b77315e"
+
+[[files]]
+file = "config/adchimneys/Emitters/toughasnails$campfire.cfg"
+hash = "ac6c59d593d8ba7c8ba0eb29fadb956469eafaa49b651e042b958f2d7d49d91d"
+
+[[files]]
+file = "config/adchimneys/Emitters/vimmersion$lit_furnace.cfg"
+hash = "b3fae25334c713c6d0e1049ffbbd03e846e363ba9ad86fc06b10b8e2e0305a89"
+
+[[files]]
+file = "config/adchimneys/Emitters/zenfoundry$burner_heater.cfg"
+hash = "bd33fcd6bbaff8cb799ee79a914e87bc7b781a5225c4faffc60dde15753bd6b6"
+
+[[files]]
+file = "config/adchimneys/Emitters/zenfoundry$mold_station.cfg"
+hash = "8f17646590f6880fc9f36d8479554465255f32731bc71005d1f3bf64b4fa3a96"
+
+[[files]]
+file = "config/adchimneys/adchimneys.cfg"
+hash = "a3b4c7d378f2f558703bf3ef42aeb205ac08aa85a204b814affe8213bbc7fc7d"
+
+[[files]]
+file = "config/adchimneys/groups.cfg"
+hash = "0b06b8b8e9cc54ef4423030f83e7c1419594e8307b4091a14d6bf680e179a82b"
+
+[[files]]
+file = "config/adchimneys/smoker.cfg"
+hash = "fdbcb87abfd07bc754b7c101db80c1997b3e46f07be84d4e12f6cf34d0dca845"
+
+[[files]]
+file = "config/adlods/Deposits/aluminum.cfg"
+hash = "e7094d07a38e39909a695d9f2fbd54bae55ed93d4628b85ab1882d8c1976af1a"
+
+[[files]]
+file = "config/adlods/Deposits/amethyst.cfg"
+hash = "cd6d677afec79f4d9a65ae02bd90abb1b5e2386e945a2f3c8158f443563e6fc2"
+
+[[files]]
+file = "config/adlods/Deposits/coal.cfg"
+hash = "40038139ee03631b90aa2c92a1bd3be7a4fbf76bd51e24227a0bb614e3bd08f5"
+
+[[files]]
+file = "config/adlods/Deposits/cobalt.cfg"
+hash = "8b34ae28b1e92f5698ec796eb598ab8699f2ba475ba24a7f21d9cb30c108911f"
+
+[[files]]
+file = "config/adlods/Deposits/copper.cfg"
+hash = "913061e0aed85b153a2f813170f5d23f23102f75031a6993e5b11b4516882fbd"
+
+[[files]]
+file = "config/adlods/Deposits/diamond.cfg"
+hash = "38dfc05f43385e2dcc3d5bdfcb7c871bd467498b0fd6c811fbd32518f826c87c"
+
+[[files]]
+file = "config/adlods/Deposits/emerald.cfg"
+hash = "775e7ada531d20fd7d783034d755d391e0d5ef550d217c7bd36c1ea5c5529273"
+
+[[files]]
+file = "config/adlods/Deposits/gold.cfg"
+hash = "d4005400ea3c751815d6bef818020e9a5496f7050aeaaef99f3761fa5e2e62da"
+
+[[files]]
+file = "config/adlods/Deposits/iridium.cfg"
+hash = "6f5c274832d44b28f355e44227d2ad2d642fc8e51ad5497276393f079fb46f9b"
+
+[[files]]
+file = "config/adlods/Deposits/iron.cfg"
+hash = "8f5cb9fc0dbb9b7072e6a571480194df779fded7bf8c6f0da53bb4c5e2e7f001"
+
+[[files]]
+file = "config/adlods/Deposits/lapis.cfg"
+hash = "8ca83f48f4a3b3f4b3a8a9a3ce6fc20f71001ef48b5d1f4488d5324fa2383c18"
+
+[[files]]
+file = "config/adlods/Deposits/lead.cfg"
+hash = "9ecb2cc0f9d8fe131029141f9883f970762f4b3d203841ba8e01dac33cbaeb06"
+
+[[files]]
+file = "config/adlods/Deposits/nickel.cfg"
+hash = "3d64b7358d9069880517c27853d674576bf519d04ab24cb3af455bdea07e9094"
+
+[[files]]
+file = "config/adlods/Deposits/palladium.cfg"
+hash = "074ef70f155c445a3674fab887a2df76c2d5f999db595d4e45439039bd92967b"
+
+[[files]]
+file = "config/adlods/Deposits/platinum.cfg"
+hash = "98b03f42e7fff6ad4a0acd1f97cca1249810d717d3fcc14726934f49ff955b38"
+
+[[files]]
+file = "config/adlods/Deposits/redstone.cfg"
+hash = "9a7e7ccd6b31da15bf9a0475cbf13f79d48ba402e01600de25baa7b029638336"
+
+[[files]]
+file = "config/adlods/Deposits/rhodium.cfg"
+hash = "4f8cee19edcd44ff75b1022c8a720108836f100e7b7fc440e26e94cc8382c8a8"
+
+[[files]]
+file = "config/adlods/Deposits/ruby.cfg"
+hash = "6ade808a0f3dfb7a2c5b1eff0119d2f25b08f072ed378c44ef3a5fa854461926"
+
+[[files]]
+file = "config/adlods/Deposits/ruthenium.cfg"
+hash = "2ffcf138d2abbdf1c2c07b82f45bc1b17b9d62985497dfac4e384e00987d7c35"
+
+[[files]]
+file = "config/adlods/Deposits/sapphire.cfg"
+hash = "2023fda86b1aa3ed77507219020923214aa4a6962fe7d306c43db9db61796893"
+
+[[files]]
+file = "config/adlods/Deposits/silver.cfg"
+hash = "4cf153c748ddf3be1e3b48263cb78442b1ea034fc873e597e28996ee7509978f"
+
+[[files]]
+file = "config/adlods/Deposits/tin.cfg"
+hash = "713a2b9abe81c6a1393f92f5981c6a526804283a92f30d5a5863e78eeda66bed"
+
+[[files]]
+file = "config/adlods/Deposits/topaz.cfg"
+hash = "8648304be7eb0508231fca665efd1cde23b1e52a232f6870fd18e5ffd94edecb"
+
+[[files]]
+file = "config/adlods/Deposits/uranium.cfg"
+hash = "a07e7c99484d5e5c5ea119eab3a0f34e3873fc85ff89ee1f9dc54d183965bcf7"
+
+[[files]]
+file = "config/adlods/Deposits/zinc.cfg"
+hash = "2d7aeba64a4476b741626343d75b981f54d69a33a6ad12dfb64d12b4012a3c15"
+
+[[files]]
+file = "config/adlods/VanillaGen/andesite.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/coal.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/custom.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/diamond.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/diorite.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/dirt.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/emerald.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/gold.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/granite.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/gravel.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/iron.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/lapis.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/quartz.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/redstone.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/VanillaGen/silverfish.cfg"
+hash = "75a508d2b9deb0d665f815479ad8a71a91f2fd093ebc1ed2ee7a23e661922d2f"
+
+[[files]]
+file = "config/adlods/adlods.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$alien_forest.cfg"
+hash = "2064a930b9738c5e21b9dedd69a84b81b2e09412187bebfc35645f9a93d72ec8"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$crystalchasms.cfg"
+hash = "c12e584b6ee7d00da1862526d558c1dd8809398b7e5a58b0beb1288f9ee9e0e2"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$deepswamp.cfg"
+hash = "e50247a5acd29c5ce0361fe307ba8b6648690a727037f904c36076e718006458"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$hotdryrock.cfg"
+hash = "879881cecd320fc412dbed84eba8b059fecd699a923972c4fa35ad0cade147f3"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$marsh.cfg"
+hash = "c145fcb2dfed01efafd058eaad2da124baf6fae2519e2a6e2dd3d3a53a19ed62"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$moon.cfg"
+hash = "c01c8b0f9d8418f06fa0495b583f1abbc45e598b0a508309185fa575f6b1f3f4"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$moondark.cfg"
+hash = "b6f4d83d35677eaeea010c7d9d27ddb8d1be7d6d3cde50668e9daa391884b73d"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$oceanspires.cfg"
+hash = "32216b3c4578079ce1a23e8abed2d514dfc9f5b07e6a169c8a62270f25bce214"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$space.cfg"
+hash = "3f728984aa8248acbd3e04fc1570e08c722d5e0ce2dbc5944ffefe09721bbd14"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$stormland.cfg"
+hash = "ff1a8957c66f908eb16b405583249184e7464813848dc468b1d73235d2a181bd"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$volcanic.cfg"
+hash = "0d7a191ae7396b776c7ed2d05b6ba0d61e77f89b70127ca614925c9d779f8b7c"
+
+[[files]]
+file = "config/adpother/Biomes/advancedrocketry$volcanicbarren.cfg"
+hash = "0e42f4a132986e35c88d83e84df54c92daae7467af06a5e092e4f957393f9ca1"
+
+[[files]]
+file = "config/adpother/Biomes/appliedenergistics2$storage_biome.cfg"
+hash = "5af9d7111690f2c8dc46cf4a44620d8b977b6816c035f160ed2b27b49aca6310"
+
+[[files]]
+file = "config/adpother/Biomes/dimdoors$black_void.cfg"
+hash = "0957293c7bb0ed2809997284c75f22d6b6cc4d69ef50dd491576967e99854603"
+
+[[files]]
+file = "config/adpother/Biomes/dimdoors$dangerous_black_void.cfg"
+hash = "fa048abbe3867bcd1a3849b04b44ded5a0132ceaa0dcc07f22250916dab7e48b"
+
+[[files]]
+file = "config/adpother/Biomes/dimdoors$limbo.cfg"
+hash = "6d443152e1c7419eba862953f63d1c0c93852c4b403ea112425d15540f386eef"
+
+[[files]]
+file = "config/adpother/Biomes/dimdoors$white_void.cfg"
+hash = "20063204760c06525f6745bf72d9005509b73ba74179c52eb653ba7e341e4f36"
+
+[[files]]
+file = "config/adpother/Biomes/iceandfire$glacier.cfg"
+hash = "2c173767f58886de1e32d8f90bbdfc873152863d05866e89d98ee77023dd5b8a"
+
+[[files]]
+file = "config/adpother/Biomes/immersiveintelligence$wasteland.cfg"
+hash = "6506a9a92392e69d3e759f9df087c5146389b7efbc9918db2f6ff9c0debb2ed3"
+
+[[files]]
+file = "config/adpother/Biomes/integrateddynamics$biome_meneglin.cfg"
+hash = "fe33ab865948016b757fa4d9a53bf6051947b7280b88371aab6dfdf895d5287b"
+
+[[files]]
+file = "config/adpother/Biomes/jeid$error_biome.cfg"
+hash = "23d0511af8aae8f4877692200e795c7cd552a5f93ba086ea4a4b660b8d9687ca"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$beaches.cfg"
+hash = "37f985f5f8e0ec4e66fce475ed046c7fa6aebb4f9339b319aa1f5fde08b9aa87"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$birch_forest.cfg"
+hash = "3ed57cc906b5ed4ca50d0ad42275f8e9cc293dbe343101673ac83918f0429c11"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$birch_forest_hills.cfg"
+hash = "a2e04ea27852daa2846acccb67193eaccab49eba3d09dd79e3c18cb22d0d0f1b"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$cold_beach.cfg"
+hash = "191c13178d17955bc142eeb6df85bda0d049cb94ce0c7ca9f817d7b1ff449dfb"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$deep_ocean.cfg"
+hash = "bca4fcd6b04dd35bd25497e47c5a168c1f8ddc82b230c674aafb91450df5be59"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$desert.cfg"
+hash = "5b1eddc1dc14a3696b52d676e40877f327342306422b63832dc69c6ee41a7645"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$desert_hills.cfg"
+hash = "26bfc342ca4a8e11df0f719ff1703b2e56ce8b302a46fc33f98bd523121ed44f"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$extreme_hills.cfg"
+hash = "7d4f6df6fad9e52c0c71645f2ae15430000f7ab3433485c84c40b199323bf4bd"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$extreme_hills_with_trees.cfg"
+hash = "acf8ba724d0b60ad1f408082bde7c0a770a6d2e04365676e9a7379349215ef37"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$forest.cfg"
+hash = "496098170ab777829b4f008e18df8b873fa5c9e8ff90041667b21a18213eac4d"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$forest_hills.cfg"
+hash = "d00857e2c72734de16e518c04c68a546b2a92481df5c4cee774e92718a089cef"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$frozen_ocean.cfg"
+hash = "5a3c1592bb6b2136e2308d8a165fb290e5a0a12de1f140af11a9f5ab0b0784cc"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$frozen_river.cfg"
+hash = "a30deddc9f212570246c8ecf50e4a839cf55e23b59bba35db5b8147d688b80af"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$hell.cfg"
+hash = "0b75ccc0e2af4b1b5c8e197741461448f1314162b453e1e54751a0cce7d949d1"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$ice_flats.cfg"
+hash = "e7a405c4e1a91879b36e534f909256b885853a006a1a4629eca353e10105150f"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$ice_mountains.cfg"
+hash = "5ba01f649b3c5dd12dce4b77a3e5fdf5a40392081d6c58f6ab453f29f95297c8"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$jungle.cfg"
+hash = "5bf086a72ef657a07f80526f6a45efb1e693110c85b751622b35f0f6e8b89c5c"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$jungle_edge.cfg"
+hash = "7f568ef307fb07f6d7f84292ba5f3d3478cdc6cd24cec1d705fb8c51ed55fab6"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$jungle_hills.cfg"
+hash = "deaca9e61ad15c473ee4b3886b51bd3c558ff38c743cf4b7ceccd67c223b46e5"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mesa.cfg"
+hash = "eb9a07866ee34411989b6190e078430e48a9217e2f26fc0bec26377b8194519a"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mesa_clear_rock.cfg"
+hash = "e97cf2ad629b9d808130304ef09db66f58584b9b5cf698b63bd66a84768887a7"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mesa_rock.cfg"
+hash = "daefa9d8306b5a45c33619eb7af82c1c915fa8150a999816a5876a38732262d3"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mushroom_island.cfg"
+hash = "1167b321c83bfa60af919f5edb37373147968e635ebbe6376dc0ab1808bfc465"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mushroom_island_shore.cfg"
+hash = "90182e3771f4468f18060a2134b265a2bb533b09e2db81eb7195b2f5e467ad97"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_birch_forest.cfg"
+hash = "74d8fdf6c89f0ead63d8f6a6d34653bb404b80527188eca51f92ab1095bc8fa7"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_birch_forest_hills.cfg"
+hash = "9b6692557325ccb3f8fcc70fcb798557ed8b79ffadf4bb8d822ec6142ee067a5"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_desert.cfg"
+hash = "e705105a4e4ec1ed1535fb4875fb34155bb5fdd8debdec36fa378f88cf670d52"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_extreme_hills.cfg"
+hash = "e45c350674899d7aea68c593fc962b082ab9b1bdcdc8efaef88ba92c9ef3ffbb"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_extreme_hills_with_trees.cfg"
+hash = "836ab0bc3511fccb6f15f026ec7291e775fce77c2d6c0c31bc2555e5f751424d"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_forest.cfg"
+hash = "73bfb1ae9760f4023a73437152cba67eebf5285393ad34f615a724de1711502d"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_ice_flats.cfg"
+hash = "07cfb814fb5e175924e3759f1e3bdc8a03d123d0b7957cb34fc135cee5fcb1bf"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_jungle.cfg"
+hash = "1539eb01816dbf789ed0d0e218dddc2fab0371926f68e880587c32b35e85e32f"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_jungle_edge.cfg"
+hash = "1cee8745888ef0f611f646fe6ae62ec0943243b75f3064291e8b1917f86e84f6"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_mesa.cfg"
+hash = "fab5fccac22fd75c2e53e8bab26cdadd1168efd83217f807cae102fbee8c4c1d"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_mesa_clear_rock.cfg"
+hash = "71672e428d09d36323c02c0139d646106e13910163a50c38bb83d638bcc8fa82"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_mesa_rock.cfg"
+hash = "939d42bccb97398335fdca77fd466e8631f7f5a8ab2f182a2f3d54bfb94002db"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_plains.cfg"
+hash = "27f9174f0ca1b1040f0b5fb6c22fd2e646a13ce7641a8be655274c859d522820"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_redwood_taiga.cfg"
+hash = "006da204052736c3ac39cd5559cad27f78dd4ac3a0633b7a8c4b1dec30720fcf"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_redwood_taiga_hills.cfg"
+hash = "15682dea49214f0d7f8b530eb020f2324d0aec84e23ca2cec10b9cd1f264aa3f"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_roofed_forest.cfg"
+hash = "2f98511752be0c48c684a46a188e35bf0d449550f39f1601a58fb33bee296882"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_savanna.cfg"
+hash = "a567d08f82f4ccaeea3f95d6dc3b431388143cb002d85ce7de0d0aa6db929b58"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_savanna_rock.cfg"
+hash = "3eb418c3f32c8a48a15ea5c0973754f8bf88bb16f2c6ed99d1da9a1568f78a24"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_swampland.cfg"
+hash = "0792de0d54a9af926b743ed22375e3bbe0324f11792ad472b555ce5bae9c03e7"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_taiga.cfg"
+hash = "cdc6e3c9d61fbbc44923ab5d0a12bfede0ba280664fc9338b4c997759ee4bc48"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$mutated_taiga_cold.cfg"
+hash = "a5ccbe9e53055e621829eb4df7f2fd4c1d1ac386dba2579d962204682aa491ce"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$ocean.cfg"
+hash = "23c6ee47213dcdad80f516605d844e658fc201112cff6374af06dcd5c56bba41"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$plains.cfg"
+hash = "1d1ea214e5055e9fb1df4517c9471a8e508280a488cb51c8e06ffc7bcc4a2491"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$redwood_taiga.cfg"
+hash = "72721c2b602857013608c905ed9ad86270219d8a7cab709366cf194d01e9f0b9"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$redwood_taiga_hills.cfg"
+hash = "28c0e54ffea74a829bbc1733eeb14afc92ae94cd578217e6b0399f381936eecf"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$river.cfg"
+hash = "e734876e8d82ce5c5090e8a6d38d4530d19243e6a6792a7719998c01286545aa"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$roofed_forest.cfg"
+hash = "bfc3994eb2bc913fb063a4da06483e4f0382f32804c5a220e8ed3f932013a94b"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$savanna.cfg"
+hash = "c94c9e83edfae917319c6b2f2cb9b58f39f5bf54ebc575586a3d5aca4c59eeb1"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$savanna_rock.cfg"
+hash = "230ab49c9b7257b6076f06d20a125939047215980fe04e5df631d3d93c79c2a8"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$sky.cfg"
+hash = "99eef73fc7a173ab117574a048c8d027558e429ae2a7a53fb9c0d104365fae5e"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$smaller_extreme_hills.cfg"
+hash = "b4330775125388b5de1b9cdfc0d020b2ed67fdd146be75f09fe5e2549b40b3ce"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$stone_beach.cfg"
+hash = "433429cc16aa69d9b715ba19f356baf598a7389ce3b80b35c7ec679ef6efc4fe"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$swampland.cfg"
+hash = "fad650f1d2bab7102795df600d64e24694dc3335cef9983866f700213a768cc1"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$taiga.cfg"
+hash = "bdf06304f4448597a3a833eaaae6da63a50fe79816eba50ddd01779eea3cf075"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$taiga_cold.cfg"
+hash = "1597d9d448ad47725bc2691d89f45e7b44c9fea0ee05191d2c9146df02671834"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$taiga_cold_hills.cfg"
+hash = "856927e6517de9a219904e1004904df05403ba3b978f89d51e42781b5810c284"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$taiga_hills.cfg"
+hash = "282f1c154d8f51f57f4f5132634427c3e467d10b65608a4d9cecd29a73860a87"
+
+[[files]]
+file = "config/adpother/Biomes/minecraft$void.cfg"
+hash = "b6636f191a7881f4552a96514ac53a9e25bb3df9f3235caca8893bb953540e47"
+
+[[files]]
+file = "config/adpother/Biomes/nuclearcraft$nuclear_wasteland.cfg"
+hash = "a035dcdaa34004e155c44cf8bbc60e7d0f45d7bd5bfde478bf5325223b622d15"
+
+[[files]]
+file = "config/adpother/Biomes/returnoftheancients$ancient_entry.cfg"
+hash = "5288af86db2c9307c0e55cc9d70e833234983200fb8c1bd09fd5483774276374"
+
+[[files]]
+file = "config/adpother/Biomes/thaumcraft$eerie.cfg"
+hash = "dd6c3e6ac8135dd8ed43b5df50490224a701b869c9e1060bb0a7deed12b9fef4"
+
+[[files]]
+file = "config/adpother/Biomes/thaumcraft$eldritch.cfg"
+hash = "d3edec5a2247e7f1f7b32b7d8bdbe74cc17440dbdc2d6d9b3d4f73190331fd20"
+
+[[files]]
+file = "config/adpother/Biomes/thaumcraft$magical_forest.cfg"
+hash = "d4df957ac79c2eca4aee34119f438d0bafafd5921ccd0c3d2750089964b8df57"
+
+[[files]]
+file = "config/adpother/Biomes/thebetweenlands$coarse_islands.cfg"
+hash = "be50ee30adb15f398d49ce71d2b7ab8fef51d28f320ae4ae614ec253df7669b6"
+
+[[files]]
+file = "config/adpother/Biomes/thebetweenlands$deep_waters.cfg"
+hash = "b8330f57a747e6219b91b56c96118b872f0a0f5c2540634d3ee13ba06e942601"
+
+[[files]]
+file = "config/adpother/Biomes/thebetweenlands$marsh_0.cfg"
+hash = "0a4e7462c4525b94229b4f26dcc9a1a2809055ae2631bfca26e1f03ca084c408"
+
+[[files]]
+file = "config/adpother/Biomes/thebetweenlands$marsh_1.cfg"
+hash = "1a60f4bff2a3f980ad3de71de467ca92f01210991b7a5c941ee5d6ea076f5072"
+
+[[files]]
+file = "config/adpother/Biomes/thebetweenlands$patchy_islands.cfg"
+hash = "0fe18ab326786d73b35856212e60d110baa7c38b39a1db1c72f53e2db013a2e6"
+
+[[files]]
+file = "config/adpother/Biomes/thebetweenlands$raised_isles.cfg"
+hash = "5d0055bc562d02955e0aee98acd9a46e4f4f541db11cbb2ae38c0e58633fc3b5"
+
+[[files]]
+file = "config/adpother/Biomes/thebetweenlands$sludge_plains.cfg"
+hash = "4a45a0efe3a53823b97772c0feeebc8188aa88c2c7012b916df7b4815234bc35"
+
+[[files]]
+file = "config/adpother/Biomes/thebetweenlands$sludge_plains_clearing.cfg"
+hash = "33e48338fa7b41ae7b8846b7cdacce0de1406dfa0615b7ebf94af889c8a48804"
+
+[[files]]
+file = "config/adpother/Biomes/thebetweenlands$swamplands.cfg"
+hash = "feab23a720cb3da6eceee2b6b5959a204a9e51a5b060decdb4f4e3f0ebff48c1"
+
+[[files]]
+file = "config/adpother/Biomes/thebetweenlands$swamplands_clearing.cfg"
+hash = "9141a0cb550f1133b6731d969c6cf5a624af0f3d206e899b3caba4d268bc5401"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$dark_forest.cfg"
+hash = "1a0b26de595d154709aa3e62a35393ae45cd381af6323087e59219fec964d4ed"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$dark_forest_center.cfg"
+hash = "e9def78d6f68a781a6422698f8622bbb4861ce7cfef7570443da9633c30ca587"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$deep_mushroom_forest.cfg"
+hash = "622b22b71fa43f243a58e084e1f3f268f945f66934cde9f40e3fd8ce97d32d43"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$dense_twilight_forest.cfg"
+hash = "dae2b49d17fbab37056da94c46bff2a44871ac543ee5997b4a8568673b6a1e0e"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$enchanted_forest.cfg"
+hash = "83377b053a1fbce28afc56e62863af9ee9fad4c1a4f9a8a9fec8a3c0b7b2f587"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$fire_swamp.cfg"
+hash = "abffebb6019fc45bda8ec2fb14afccd010668fab679efea593808e2bff0b74c9"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$firefly_forest.cfg"
+hash = "74f83e838e96cbdd8add006dbfd4b205772c43c873ecd261f436992fde8cc50b"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$highlands_center.cfg"
+hash = "d757f3e530ff7ff6c15537b212f3b46c114cc96158db527e340876e658f71214"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$mushroom_forest.cfg"
+hash = "10064cfa9efd4547cbce62106d3749a3f69f1866db0f2aeef1f1f0e00fe91384"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$oak_savannah.cfg"
+hash = "ee175eb0d7a22c4471dd900318c3e7be82013a2fc5221dcfa3a4f8429eb9f3bc"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$snowy_forest.cfg"
+hash = "0d4f395084660bf26e07e7ae73786e2a3728c0e8a5de5c3d856376dfaa172bc6"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$spooky_forest.cfg"
+hash = "5745be0089e11b25a9a6cbadad478e79ab7a59f288d9d7c732a8348cbf73422f"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$thornlands.cfg"
+hash = "79e0534dcec0c69f39785f0abc55776cda62137af179e3e9e3284c53fb6b9f5e"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$twilight_clearing.cfg"
+hash = "0a6f439fc95de0bad5f79c1f2812e96dad39d452690bb2400aadd2248f9f4a22"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$twilight_forest.cfg"
+hash = "c62d401802cfef341169c3dff4fbdb8f1fdcb0f3e843864edd0c6c2b997d7d2e"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$twilight_glacier.cfg"
+hash = "b8941efab9a8a71c92a2c1dc1c7011922865e8d299e6ee494976d507abacf52c"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$twilight_highlands.cfg"
+hash = "93d8dd478920a66e188d38066fa07c5f879e2e064016e9777e8fd18714e6cbc9"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$twilight_lake.cfg"
+hash = "2309b1315b08578744d0aeb280f02354edc011abf32d47d7cdec5a45b17d56d7"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$twilight_stream.cfg"
+hash = "7d51fde340ced1868699e139dcb5869057f9ceba4391438ecc05ba2c82b858a1"
+
+[[files]]
+file = "config/adpother/Biomes/twilightforest$twilight_swamp.cfg"
+hash = "f717dcee3ed96e02827c37e5666eccd0126e09adfa1e297c945c0522e29d21e8"
+
+[[files]]
+file = "config/adpother/Blocks/filter.cfg"
+hash = "0d81aac817599bb989882707244e5ea92edf796bc706c78c7f99fb7401f43409"
+
+[[files]]
+file = "config/adpother/Breakables/charcoal_block.cfg"
+hash = "444e18bba26b0fc62ce0f236ce08c723b22c907376ab1eca72a857f9a7cee290"
+
+[[files]]
+file = "config/adpother/Breakables/coal_block.cfg"
+hash = "37886e5fd8042ab34ed5ad3583f876a77ecd2ea97131a6ec89cc877bb92b564b"
+
+[[files]]
+file = "config/adpother/Breakables/coal_ore.cfg"
+hash = "4e273817438c36a751e6440961d494f42d22fe4ab02aaf83427a3d6d29cc1436"
+
+[[files]]
+file = "config/adpother/Breakables/coke_block.cfg"
+hash = "32ae013faccfb4498a614a8c76eee298253be79280e727241d7b30d6ae537855"
+
+[[files]]
+file = "config/adpother/Breakables/dumpsterdiving$trash_ore.cfg"
+hash = "d5b853cd686f2527c54c1faf9a4b16fc12286fc791fd068f27405dd2bdfa67c9"
+
+[[files]]
+file = "config/adpother/Breakables/dumpsterdiving$trash_oren.cfg"
+hash = "347dee8b91cbb4d702dbdef4e5e587b708b0cd8014190890ffe2cbf442be7d8e"
+
+[[files]]
+file = "config/adpother/Breakables/sulfur_block.cfg"
+hash = "58377f24f32a8a4763d73247d40d9d4c6784dd8c29354164c6ffadf7d10a2d65"
+
+[[files]]
+file = "config/adpother/Breakables/sulfur_ore.cfg"
+hash = "f32093c6ded408859e025df85f78d61204b6274448b72df48dfe73425e9cb71e"
+
+[[files]]
+file = "config/adpother/Emitters/actuallyadditions$block_grinder$1.cfg"
+hash = "10b8ad5432c4d60bd58b7329631d53bb37714f4ddd1d68d0d85bcb356688b5b8"
+
+[[files]]
+file = "config/adpother/Emitters/actuallyadditions$block_grinder_double$1.cfg"
+hash = "e1cc82fe3faff07aa005dfab9e0db5d68b4b9fbd1e071355314d265508522841"
+
+[[files]]
+file = "config/adpother/Emitters/atum$kiln.cfg"
+hash = "ea13466e2b062f2a6424b8db581b05749e8cdc42d7c7ee48f593b2a35d88ff5d"
+
+[[files]]
+file = "config/adpother/Emitters/atum$limestone_furnace_lit.cfg"
+hash = "508256dee8450e9e53eb30f3478b93a0890a50a7fd3e35d8483733691a1e953e"
+
+[[files]]
+file = "config/adpother/Emitters/betterboilers$controller$1.cfg"
+hash = "f23b61767980e374fb9c46e0fdc66bfc74e2221954610d8bb1234480baf01c90"
+
+[[files]]
+file = "config/adpother/Emitters/buildcraft$engine_combustion.cfg"
+hash = "972fca0149cdf46adce81be6bce4907bace53ba6f21f20ca84abd58d21612542"
+
+[[files]]
+file = "config/adpother/Emitters/buildcraft$engine_stirling.cfg"
+hash = "46d407803708de4c4b60bb19ae6658443622e4eb7c92f9ad665d9aaff71fe8af"
+
+[[files]]
+file = "config/adpother/Emitters/campfire$campfire.cfg"
+hash = "4ef77679d3704fb5e7c8730171c665c0e13b215eb2aa51ef733b81d0080b3aec"
+
+[[files]]
+file = "config/adpother/Emitters/cfm$fire_pit_on.cfg"
+hash = "1e563f9b470fcfe0f27e185ace221bcbb49df98a4939ccfb72f9f63afc346749"
+
+[[files]]
+file = "config/adpother/Emitters/cfm$grill.cfg"
+hash = "3d278d6d014ac1f8b07932d2fb05ff005766bcf6fc05a73fe42dfdc2cc5f34df"
+
+[[files]]
+file = "config/adpother/Emitters/cfm$oven.cfg"
+hash = "122814403f7d2872fd2e623c8c606fa4d4bb22047495ac3af218a40017b1a0e3"
+
+[[files]]
+file = "config/adpother/Emitters/charcoal_pit$bloomery.cfg"
+hash = "64e97ac70f636172f0842110bb23e8f16028de3da705c5e16675876d05274617"
+
+[[files]]
+file = "config/adpother/Emitters/charcoal_pit$custom_furnace.cfg"
+hash = "bb26615153d1d99785ecf92b692e2a4bfc7bc0954f58bb0463cb0ad39c128e9d"
+
+[[files]]
+file = "config/adpother/Emitters/cookingforblockheads$toaster.cfg"
+hash = "ed55d850851a8124ca36997625e412f123070499f751fb7bbcc13d1233d2c9ae"
+
+[[files]]
+file = "config/adpother/Emitters/deepresonance$smelter.cfg"
+hash = "769b7b72a53d28bb31dc070ef50587e2b7e0b43f082f2c3ebe71d781d395a29b"
+
+[[files]]
+file = "config/adpother/Emitters/dumpsterdiving$regrinder.cfg"
+hash = "36d7d60bc449e22e6e148ee85ed1175aa48803e93dd0f74f92580cb6506b5e85"
+
+[[files]]
+file = "config/adpother/Emitters/dumpsterdiving$reingotor.cfg"
+hash = "c3e4c7f24c06e10fcaa7ecfe87b3f625921d1f5ce93b04eb250a2b557754a68b"
+
+[[files]]
+file = "config/adpother/Emitters/dumpsterdiving$reprocessor.cfg"
+hash = "c547a5b031c397a773a22df54b49658d499dde5b504ca1d257f68b90a06019f4"
+
+[[files]]
+file = "config/adpother/Emitters/embers$ember_bore.cfg"
+hash = "420fd1f2577105889ddebff750eb83d6052302f7526e4cf65659f7451127ee86"
+
+[[files]]
+file = "config/adpother/Emitters/embers$melter.cfg"
+hash = "9d841f16a5f9fdcb2d23121dc3deca1ee58f85d0fd2d5aa8a133b28472ce7c2d"
+
+[[files]]
+file = "config/adpother/Emitters/enderio$combustion_generator.cfg"
+hash = "539aaef9d66f588d52d54de31ddff87b5cad995537d4a89eb6fcc713409e179a"
+
+[[files]]
+file = "config/adpother/Emitters/enderio$enhanced_combustion_generator.cfg"
+hash = "56d4cc19fce3cd6d2778d6c80563f06cabefcc1f182747c86854dee744944f50"
+
+[[files]]
+file = "config/adpother/Emitters/enderio$stirling_generator.cfg"
+hash = "1b34bb966a1abf5b086ef9661be52ef90c07bfe72ce3ccd381f53d7723bf6bac"
+
+[[files]]
+file = "config/adpother/Emitters/f0_resources$burner_drill.cfg"
+hash = "93ae82b36ac29207871ca4a7ee92c5348c9373186409fa953d66f4f5fa07d232"
+
+[[files]]
+file = "config/adpother/Emitters/f0_resources$drill.cfg"
+hash = "4e6ca97d2c04228699b54f0a4580322eee9bb1eea48bde18fba010557d0240ba"
+
+[[files]]
+file = "config/adpother/Emitters/forestry$wood_pile.cfg"
+hash = "307edb111e325419e0b1ad5ccb2519c041a5ebda2d1c829f4e22e530f60d8483"
+
+[[files]]
+file = "config/adpother/Emitters/funores$alloysmelter.cfg"
+hash = "4fe502904c38cd734a8fc5874d3a8a8495cd3cdf59cec286b4f041b488dbd3d3"
+
+[[files]]
+file = "config/adpother/Emitters/funores$metalfurnace.cfg"
+hash = "42218010eb8104ffe1f65b8e94912d0bae54b71427c1afbc5603053e10c057e9"
+
+[[files]]
+file = "config/adpother/Emitters/futuremc$blast_furnace.cfg"
+hash = "919a05c7dff828b24f6a83a8b8c1a00a1ee83f0ae59c19c0b8eaaf5371d6eb9b"
+
+[[files]]
+file = "config/adpother/Emitters/futuremc$smoker.cfg"
+hash = "eb15d9308b13c5e60474f76ad38301a174477e0bd3993afc009c4c57f329739b"
+
+[[files]]
+file = "config/adpother/Emitters/gadgetrycore$alloy_furnace.cfg"
+hash = "04eac0b3f93c4e8a1691f71496317c09d28d69351b1a3078099637c7e77ab168"
+
+[[files]]
+file = "config/adpother/Emitters/gadgetrymachines$furnace_gen.cfg"
+hash = "068dde0cb92cc5de4f7e245c427a9de6636e5ee64710e142f3372467ca95f77e"
+
+[[files]]
+file = "config/adpother/Emitters/gadgetrymachines$grinder.cfg"
+hash = "08be468f07dc805c5a0bcfad471abe8d0b2657f81bee4ae03cf2d218a18113fd"
+
+[[files]]
+file = "config/adpother/Emitters/galacticraft$coal_generator.cfg"
+hash = "f6d47aea853de9d4691cdbe1c737218a8b43625a67c4151b29aad2d38ccd250c"
+
+[[files]]
+file = "config/adpother/Emitters/galacticraft$ingot_comressor.cfg"
+hash = "6045842b7a2f37497a9144ef464ca8a7d0d6d2c4e154802dfa78001fe9fb37e0"
+
+[[files]]
+file = "config/adpother/Emitters/giacomosfoundry$foundry_lit.cfg"
+hash = "61700c3010cb136e7ab30d79c19885f69fb031a8e259aebfa6ea520e933db422"
+
+[[files]]
+file = "config/adpother/Emitters/gregtech_ce$machines.cfg"
+hash = "ec34dbaae9c95496dfcf69a7c3f73d412a3ffe21015e59c5c01387e0213d575c"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$blast_furnace.cfg"
+hash = "28b0ec4eadafb8a504329685c27df815919ba5d0ce679130ed7cc4ae61f629a3"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$boiler.cfg"
+hash = "4910117dbb300fab88d74a2e414f4b8756cdfd31f8a258924a8b952866d024d9"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$burner_press.cfg"
+hash = "786dd1b9df9dae48ec1b75c70a54ace168f63b6ff3ff2726095ceb6720643dda"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$combustion_generator.cfg"
+hash = "f7f4b2deb0e2074f5b1eea7d6057085552093ad65331f8c159a15e8840ac2618"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$combustion_generator_start.cfg"
+hash = "d372b42f936fb4f91b4a8726af6332bf0b5c2622a8fdb2ce297beb60e7ca249d"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$diesel_generator.cfg"
+hash = "6b75f0d2a723f1e1528841646a11dd027bbc1f7e0e384b6cc30ea6bd1a791a75"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$firebox.cfg"
+hash = "0d04e5c2d481d198c6fe1e3e725551dd4d79f35c8a1ee931f91561b4fe2f46b2"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$fluid_burner.cfg"
+hash = "a2abf6980781785febd842c9ca0371f9d905ba1facc4453fb0d11d83fe9b52bb"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$gas_flare.cfg"
+hash = "adb1dba436bd099b4384d083fec2f3bf22121b44a57174422cb458d0b5371e03"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$heating_oven.cfg"
+hash = "dfddbb3e130c0add3f28246f5a06bd87e0519b957adf237e4a382314c1a04530"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$industrial_generator.cfg"
+hash = "8572dc2f9b50efc56eb1d00107120f2071ffae6ad966fdc569d7bdf28f26b601"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$iron_furnace.cfg"
+hash = "5f92efd082fff4d66cac24af30d5d3d01275c98a7a92e34725e9497776ba3a25"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$radial_engine.cfg"
+hash = "b7569954f6d6bedbc6f69ad94e6897325a605dbd8e545655ab89eae0429b431a"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$steel_furnace.cfg"
+hash = "27841f12b13aa708b0d7e2a628d5dc43c62827d539479f9463322560e7fc9680"
+
+[[files]]
+file = "config/adpother/Emitters/hbm$turbofan.cfg"
+hash = "cf774286f0b3832937c297c216219bfe7b7395d20879f88a4efd5a8540e19d5b"
+
+[[files]]
+file = "config/adpother/Emitters/heatandclimate$diesel_engine.cfg"
+hash = "576c4f483c024bcf1edd8365c27bdf24ed50f2b4159915d762cb3c2ce8048390"
+
+[[files]]
+file = "config/adpother/Emitters/heatandclimate$fuel_stove.cfg"
+hash = "d1601e266169905644ea25cdd5923c97bbe9fd073ce3d59900a772ac25bba388"
+
+[[files]]
+file = "config/adpother/Emitters/heatandclimate$gas_burner.cfg"
+hash = "1f9abebe94aff5349d2c48f6db9ddbdda8e0afc83e0f1c013ce8e27371a4a397"
+
+[[files]]
+file = "config/adpother/Emitters/heatandclimate$motor_cart.cfg"
+hash = "f930ebe292b94ed8348b594ac574dd3b7e6029e42609f8c2e0b0444f6aaee857"
+
+[[files]]
+file = "config/adpother/Emitters/heatandclimate$motor_scooter.cfg"
+hash = "399923c8fba055d45402232a5e6149b61eeb4f1b8fd0f7e0061a26d819184e4c"
+
+[[files]]
+file = "config/adpother/Emitters/ic2$_common_0.cfg"
+hash = "91f986d15240f3b57de7853e5b45d8c1ee0cbc53238e82f5b99ebbaed97a0d50"
+
+[[files]]
+file = "config/adpother/Emitters/ic2$_common_1.cfg"
+hash = "636bd4df2dd0cca389f8c867845e28c635bc79d08a4b2abe16e8127bc4d918f4"
+
+[[files]]
+file = "config/adpother/Emitters/ic2$centrifuge.cfg"
+hash = "0c9faa029530be9e55b669f810ce609b66d9d625453fd4001c49a368bd753d5d"
+
+[[files]]
+file = "config/adpother/Emitters/ic2$generator.cfg"
+hash = "dd44b35edadaa39eea2cb52d7e857eda4a9ee95b0808fe74a8718a2c8e0c98bc"
+
+[[files]]
+file = "config/adpother/Emitters/ic2$geothermal_generator.cfg"
+hash = "835ed5a6de9b6c96a7cc6a663df8b635676e68bf12e6fcf3d64e7aa18a93f7db"
+
+[[files]]
+file = "config/adpother/Emitters/ic2$iron_furnace.cfg"
+hash = "28f74a182811be90a94a10e60d01cc22093e6bf60d25cdad39eb6560889bef27"
+
+[[files]]
+file = "config/adpother/Emitters/ic2$macerator.cfg"
+hash = "096a1e4fea783f329be39201ce890d511a5c5090e1e6d3794298eb405257c3fc"
+
+[[files]]
+file = "config/adpother/Emitters/ic2$semifluid_generator.cfg"
+hash = "81cb1c10dac53cd4381ab172e8a473cb57b4709f7592aa50e0e0e4737effde63"
+
+[[files]]
+file = "config/adpother/Emitters/ic2$solid_heat_generator.cfg"
+hash = "d78daeb2643990536dad7e2f330c73196da88f4325eeae189be9f600a581478d"
+
+[[files]]
+file = "config/adpother/Emitters/ic2classic$fuel_boiler.cfg"
+hash = "f8eb869a623261be0c8a0488d00202d1c0428ac1e9f0a61492b8b58c0cca4c75"
+
+[[files]]
+file = "config/adpother/Emitters/ic2classic$generator.cfg"
+hash = "81a2ec44ee72389a410dc7e294aeb177811220dabf76aa74920441fc4ed2e19b"
+
+[[files]]
+file = "config/adpother/Emitters/ic2classic$iron_furnace.cfg"
+hash = "28f21d56d9d12cb7b2c35ab0b928b49d8d08b65ee622d7df4bd83e05637536af"
+
+[[files]]
+file = "config/adpother/Emitters/ic2classic$liquid_fuel.cfg"
+hash = "d2575610c884a685d656358d21006b28eeca722aa6b26d49ea0787065a80be2e"
+
+[[files]]
+file = "config/adpother/Emitters/ic2classic$slag.cfg"
+hash = "65049c8ca2e6f1b36ac668ea360e934380938e5766c6040593df2dd5f7cc31d8"
+
+[[files]]
+file = "config/adpother/Emitters/ic2classic$stone_macerator.cfg"
+hash = "b00b4ab20cc1d45b17e1dad975658b63c5014af980e7cb8d18c86ae51c8db3b9"
+
+[[files]]
+file = "config/adpother/Emitters/ic2classic$wood_gasificator.cfg"
+hash = "e7f6ea9acd467df0d785f5335587211c3bea2e31d0d3e585ef882da90f1d914b"
+
+[[files]]
+file = "config/adpother/Emitters/immersiveengineering$alloy_kiln.cfg"
+hash = "4ed693ed16f4df7e8ef35f125c0f72b4cd9ec0d5a5b38bde7222963e8d9fd4c1"
+
+[[files]]
+file = "config/adpother/Emitters/immersiveengineering$blast_furnace.cfg"
+hash = "05131d16bace7d6d9ec928f774f84bb5d3b30384dc0b1dc7969d6c0b257f7191"
+
+[[files]]
+file = "config/adpother/Emitters/immersiveengineering$coke_oven.cfg"
+hash = "a7d817d32bec2cb7d1a659edbe21a15b9ce185c9187581583fce96b228d455ea"
+
+[[files]]
+file = "config/adpother/Emitters/immersiveengineering$diesel_generator.cfg"
+hash = "ba6e20bf6bc667a450fe3bfbbaca3171f68d21ced10fd86997ff8ff90edd0506"
+
+[[files]]
+file = "config/adpother/Emitters/immersiveengineering$improved_blast_furnace.cfg"
+hash = "996bc6d2f4908d464de441a65afa764519a99b8abb9b6e97cf76db00c260a9a5"
+
+[[files]]
+file = "config/adpother/Emitters/immersiveengineering$sample_drill.cfg"
+hash = "ed98e2e11311432823ba888c4516125e6e70860dfa81316e5b80756efde532b4"
+
+[[files]]
+file = "config/adpother/Emitters/immersivetech$boiler.cfg"
+hash = "568253ceb851c0729594273807ee2e2894e12ba531457b847f4dc447276bbb82"
+
+[[files]]
+file = "config/adpother/Emitters/immersivetech$coke_oven_advanced.cfg"
+hash = "03ba217183925c54e4572183b3057e3744585c4a2dd6a0c27b61a76adfa662c5"
+
+[[files]]
+file = "config/adpother/Emitters/industrialforegoing$biofuel_generator.cfg"
+hash = "4cb6e2a3e61eebb3b569a70d033c2f8da3b68899746da4862a005fe86ccee082"
+
+[[files]]
+file = "config/adpother/Emitters/industrialforegoing$petrified_fuel_generator.cfg"
+hash = "c37c8bf6d877976cefb81f136ca3bd98c0412f047d0c2229ff773052f9cbb903"
+
+[[files]]
+file = "config/adpother/Emitters/industrialforegoing$pitiful_fuel_generator.cfg"
+hash = "29649f2d6a62b45d04f247e43e6bc3ccc92c3b918090ba332a5c45e3b32aa097"
+
+[[files]]
+file = "config/adpother/Emitters/industrialforegoing$protein_generator.cfg"
+hash = "7faabde68c06bec9c5f0b66cd4cde1f47b0861864d98fc7ea03d17d2200f715c"
+
+[[files]]
+file = "config/adpother/Emitters/industrialrenewal$mining.cfg"
+hash = "031f0224d2ee4991b1a1f0c8246829b30cd70a1e1d2c12eb67d82fe2a9bf57d8"
+
+[[files]]
+file = "config/adpother/Emitters/industrialrenewal$portable_generator.cfg"
+hash = "d4d4d7252565f1153776eaaf90b9e95cec6913970125d1ec358703c0853b451f"
+
+[[files]]
+file = "config/adpother/Emitters/industrialrenewal$steam_boiler.cfg"
+hash = "8ba6f26ac1e4b3667d697bd048a8710bbe0117b6aa2bb21a9edc0f0a64b2a417"
+
+[[files]]
+file = "config/adpother/Emitters/libvulpes$coal_generator.cfg"
+hash = "7ed389bb90231b10a4e56bf466d2ec4377ac3206cbee895665b2aaacccdd6a26"
+
+[[files]]
+file = "config/adpother/Emitters/lucraftcore$furnace_generator.cfg"
+hash = "29affb45d887adb80e1e1564cf665f5a0834ec76a6e556a8d597f4b24f792e9f"
+
+[[files]]
+file = "config/adpother/Emitters/magneticraft$big_combustion_chamber.cfg"
+hash = "2598e3ce5972fcf63957f24fac0ca82517851f20576c6fec43fe80446730f4c3"
+
+[[files]]
+file = "config/adpother/Emitters/mekanism$advanced_crushing_factory.cfg"
+hash = "4aa62be70a496f0350b228d563db2e7e5b36b7caad7b516dc92fb7bb02bbe039"
+
+[[files]]
+file = "config/adpother/Emitters/mekanism$basic_crushing_factory.cfg"
+hash = "9c398f2863690102020935502206280d29a396de57ce5392272037da001eb9d7"
+
+[[files]]
+file = "config/adpother/Emitters/mekanism$crusher.cfg"
+hash = "40790739983763eb74f0095c92eecc370d523de7938c4dc0991ca9590148224c"
+
+[[files]]
+file = "config/adpother/Emitters/mekanism$elite_crushing_factory.cfg"
+hash = "b45dda075335dac4cc3a24a40570848e615055c04796f31a8cc713694efce3c3"
+
+[[files]]
+file = "config/adpother/Emitters/mekanism$fuelwood_heater.cfg"
+hash = "adb980b3eff94fa04c13a117f5e0e6b984f9fbc71ab1efc8e46a79d31727efca"
+
+[[files]]
+file = "config/adpother/Emitters/mekanismgenerators$bio_generator.cfg"
+hash = "37a26e2bef322439ee90f467322af30eb42b0465bd5c1585ae0bf0e869759fda"
+
+[[files]]
+file = "config/adpother/Emitters/mekanismgenerators$gas_generator.cfg"
+hash = "5b22d540a7abf8f8d9711dba3e811232eb1075d009c5e4d1d68287d5aeee226d"
+
+[[files]]
+file = "config/adpother/Emitters/mekanismgenerators$heat_generator.cfg"
+hash = "c2bfcf4a3a0a4b7cac04376c81cecd1e3ca17f9e7033f21466b2213279730186"
+
+[[files]]
+file = "config/adpother/Emitters/metallurgy$crusher.cfg"
+hash = "1bed512146101a6e715e6ed2bdb256b0574d848d82fbc75719ff34908410625c"
+
+[[files]]
+file = "config/adpother/Emitters/minecraft$fire.cfg"
+hash = "ab19ff428c662ab8d2b06b0a1dbf988190ec9d8ac4415e9f0ad477b4b683c9d1"
+
+[[files]]
+file = "config/adpother/Emitters/minecraft$furnace.cfg"
+hash = "a3c708047b3b7cb084f814ff2e087aed9af743862953913645db640d4beba78c"
+
+[[files]]
+file = "config/adpother/Emitters/minecraft$furnace_minecart.cfg"
+hash = "b6f893b277138446a855ad36f6b2879d1c475c1435d284806570afefba731415"
+
+[[files]]
+file = "config/adpother/Emitters/minecraft$lava.cfg"
+hash = "e57631bd31066552c34d2c6ca72a5a2f6e8b82689ca622b2bbcd9d2ad9529d58"
+
+[[files]]
+file = "config/adpother/Emitters/minecraft$lit_furnace.cfg"
+hash = "8a1fdf7cbcb2f210f5d43a18477645735dc045ca4c99a22f95c60f936388e3c2"
+
+[[files]]
+file = "config/adpother/Emitters/mts$mts_entity.cfg"
+hash = "5383d1eb364eb0240c94db8a6ed410b68fe39ff6a8d4f3eb0ecd6703a1e867d2"
+
+[[files]]
+file = "config/adpother/Emitters/omegacraft$advanced_crusher.cfg"
+hash = "25a1e95320f0354dc65f6dd176fae3512a976cf45e45b7d4e56c2aa2ba110cae"
+
+[[files]]
+file = "config/adpother/Emitters/omegacraft$combustion_generator.cfg"
+hash = "23d07e98f2435fe335cfe79c146ce232ef9b200cbe8e279ba0f9461a766cc4a4"
+
+[[files]]
+file = "config/adpother/Emitters/omegacraft$crusher.cfg"
+hash = "1026c36fb879130466d3b3c7b4c90bd663f41003befa13011d44b1df079f47b8"
+
+[[files]]
+file = "config/adpother/Emitters/omegacraft$dark_crusher.cfg"
+hash = "00cfd2e776d4ebc184266b6433ee0e885b38ea0a515829ff2be41d06ff1d5e7f"
+
+[[files]]
+file = "config/adpother/Emitters/omegacraft$hungry_generator.cfg"
+hash = "481ccd48208e0fb0d9430d9cfd3312dd70ef274d9cd39454ae8ef129f29d184d"
+
+[[files]]
+file = "config/adpother/Emitters/omegacraft$lava_generator.cfg"
+hash = "bd038e606adf6aa8376dc3b66fb9fe562bf94c64c735655a7f7394c815665f7e"
+
+[[files]]
+file = "config/adpother/Emitters/pneumaticcraft$advanced_air_compressor.cfg"
+hash = "4c5f20eeaf80cb8c7032b237f87454fd4e58611b3317b4f666182f46131960b3"
+
+[[files]]
+file = "config/adpother/Emitters/pneumaticcraft$air_compressor.cfg"
+hash = "6b6af3eaa431cde3daef947f90a2a9121c8f7359b718c5dba9cac3aada45cc99"
+
+[[files]]
+file = "config/adpother/Emitters/primal$hibachi.cfg"
+hash = "4b435e1ab5b8569760fcba9fd5416fe3925e2609756792997ed04e6da42df6a2"
+
+[[files]]
+file = "config/adpother/Emitters/primal$kiln_adobe.cfg"
+hash = "12fae6c71a3d7b5db237e6f93de717cb9ecea1493d9860e5c969a853abcbf66e"
+
+[[files]]
+file = "config/adpother/Emitters/primal$smelter.cfg"
+hash = "2fcb33875c8db7f2fd5ed51bb40602007ac5181de75d67dd3df4d7789e50fd9a"
+
+[[files]]
+file = "config/adpother/Emitters/projecte$dm_furnace_lit.cfg"
+hash = "7c1a7b30fe9ae9862950395a0dded8e4aff9357072c615a590862d3bf8d4cd7a"
+
+[[files]]
+file = "config/adpother/Emitters/projecte$rm_furnace_lit.cfg"
+hash = "f34261e6a49f77264e2e3bafb28ebd54febe46783cd506c8359ec5b1db1ab703"
+
+[[files]]
+file = "config/adpother/Emitters/pyrotech$bloomery.cfg"
+hash = "ab525aa38788428a225cc6932c528647c9befed347ee7968c81f47a2abaa633b"
+
+[[files]]
+file = "config/adpother/Emitters/pyrotech$wither_forge.cfg"
+hash = "49b3174ec3d0c1b7304de7d6866946db7b354e603cf6a44645d215da12b94103"
+
+[[files]]
+file = "config/adpother/Emitters/railcraft$blast_furnace.cfg"
+hash = "70bb778fa1a41010f5412975a00f874d6dd3e870eca8c2e669cbca6d60e4bde0"
+
+[[files]]
+file = "config/adpother/Emitters/railcraft$boiler_firebox_fluid.cfg"
+hash = "5a6fa863c8a80b860b50b8e8f2371b85e28e6e8c71a294ae107aaa01eb63f29f"
+
+[[files]]
+file = "config/adpother/Emitters/railcraft$boiler_firebox_solid.cfg"
+hash = "cd26ee269bdf414d3c397b4f5fa46939c07fe6734412682d597796ba8100af69"
+
+[[files]]
+file = "config/adpother/Emitters/railcraft$cart_furnace.cfg"
+hash = "3c97d6a105f4df246b0f93ceb9448cfca516185e6075883ecb0d14f1c02b0135"
+
+[[files]]
+file = "config/adpother/Emitters/railcraft$coke_oven.cfg"
+hash = "4f44edd88f50a182e990cdd1c92e9b889f5170d210d86f6855b5b628f3674d13"
+
+[[files]]
+file = "config/adpother/Emitters/railcraft$coke_oven_red.cfg"
+hash = "24a39412f736e5a9cac54dae7e09476fc5d3795ec240af593117d4affa37c450"
+
+[[files]]
+file = "config/adpother/Emitters/railcraft$locomotive_steam_solid.cfg"
+hash = "ccc3856e4febc445882da6e8f02bdd6d3296d5c4a5109b7b89c11c75e411fa23"
+
+[[files]]
+file = "config/adpother/Emitters/railcraft$smoker.cfg"
+hash = "12354caa7737523ead46d8d13f4b8a46d795b3dff897a8e7680580d8ddc55310"
+
+[[files]]
+file = "config/adpother/Emitters/rockhounding_oretiers$bloomery.cfg"
+hash = "578f18f4273b25fdaad3199bc959fd5c4cc599212147a92cc09fa23ba061e06b"
+
+[[files]]
+file = "config/adpother/Emitters/tcomplement$high_oven_controller.cfg"
+hash = "08c673bc38c6e7020054987ad6da9e534f7f25a7475b03c927300df7c454bc89"
+
+[[files]]
+file = "config/adpother/Emitters/tcomplement$melter.cfg"
+hash = "4522efeb63b7fd7889a1304c97239ac2c90d9a3109ee1d21e3e1a588d8df5ffa"
+
+[[files]]
+file = "config/adpother/Emitters/tcomplement$porcelain_melter.cfg"
+hash = "0d5bd0aef9a2699f2fab40857c757ed300413d003553ef1f4b94bdc7a6b1d9ef"
+
+[[files]]
+file = "config/adpother/Emitters/tconstruct$seared_furnace_controller.cfg"
+hash = "3aa80bb2d66d4101f30151da42b1002312a2c9c6c0d5c0b8662e9f77baf39671"
+
+[[files]]
+file = "config/adpother/Emitters/tconstruct$smeltery_controller.cfg"
+hash = "2b196511cfa6774af7c6772b4c67fef3e1a0e69207d5a7f5d406943e9e09de2f"
+
+[[files]]
+file = "config/adpother/Emitters/techguns$grinder.cfg"
+hash = "c505a2121a53b81eb33e6e0d54e91a2cc2e4e2f75942c13cf0c690a02492d2aa"
+
+[[files]]
+file = "config/adpother/Emitters/techreborn$grinder.cfg"
+hash = "86cddc3f45917807ab8c1916992c5714f8fb4aaf15d74d5ac57782e57617cdde"
+
+[[files]]
+file = "config/adpother/Emitters/techreborn$industrial_grinder.cfg"
+hash = "68fd5b9982cc51f466f2a5e3276b625fd2ae05e63843412197a2b31b0f0adfd2"
+
+[[files]]
+file = "config/adpother/Emitters/techreborn$industrial_sawmill.cfg"
+hash = "43019ecb80899210ab2689a72ce00ea2b9c01311402dc463c150950a6b178db6"
+
+[[files]]
+file = "config/adpother/Emitters/tfc$charcoal_forge.cfg"
+hash = "6b9f5755b7b8e6598249cbeb9f63d33f0f668fc822dc64c673790ebdb255bda6"
+
+[[files]]
+file = "config/adpother/Emitters/tfc$charcoal_pit.cfg"
+hash = "cb45373a1a9cb028a370bc19a745bb0c3a6f187c9c91137e8154c8b35568ec87"
+
+[[files]]
+file = "config/adpother/Emitters/tfc$firepit.cfg"
+hash = "1e82c856513960bd0b99003e5074c0f20e2f48dfaf3b397a66e5c83d4f29c987"
+
+[[files]]
+file = "config/adpother/Emitters/tfc$molten.cfg"
+hash = "ceb88b641384b02e69d2d835a622304b8a56a8819e84bde7cfd8d43f14f3ea81"
+
+[[files]]
+file = "config/adpother/Emitters/tfc$pit_kiln.cfg"
+hash = "d6d6b0809a7993dc4e550b2091e8ffa0358cb940b90b04b55b49db3e758cdf6c"
+
+[[files]]
+file = "config/adpother/Emitters/thaumcraft$infernal_furnace.cfg"
+hash = "9ffe8b300b9fae08b60a32a7533fee540861ef43863c9012ee016a675dcae807"
+
+[[files]]
+file = "config/adpother/Emitters/thaumcraft$smelter_basic.cfg"
+hash = "3867818cb1416dc4de91a69af34e620a2d271d99e2ee87e0f0aab61bc970af2a"
+
+[[files]]
+file = "config/adpother/Emitters/thaumcraft$smelter_thaumium.cfg"
+hash = "2c4447a5eb5b3abeb427ec9d026615cb6a9dae10b6abcbcc2cf21a3ac184cfc2"
+
+[[files]]
+file = "config/adpother/Emitters/thaumcraft$smelter_void.cfg"
+hash = "5e926d293d6357ebf122de5924b14fb237153ed019fc133dd2f525f18ac47027"
+
+[[files]]
+file = "config/adpother/Emitters/thermalexpansion$centrifuge.cfg"
+hash = "6d0b91aa97ab077fa3a49ec0f633477a3c8bab41ae47540179c318b0409fb973"
+
+[[files]]
+file = "config/adpother/Emitters/thermalexpansion$dynamo_compression.cfg"
+hash = "3a2f8fc140fa5370cbce14066d508985e3e9916d344a28a61cb1adb173922129"
+
+[[files]]
+file = "config/adpother/Emitters/thermalexpansion$dynamo_magmatic.cfg"
+hash = "3e7e58ac6648de0f7a9977bb8c69cbd69efdd1153ead5dccd6a3ef82bb4d798e"
+
+[[files]]
+file = "config/adpother/Emitters/thermalexpansion$dynamo_reactant.cfg"
+hash = "c0bcdfec4089999be0c1deae53c75987dc9dd208c8d7feabb0014e9a634676c7"
+
+[[files]]
+file = "config/adpother/Emitters/thermalexpansion$dynamo_steam.cfg"
+hash = "978771c02604ee083138b339e9294c38a91b9c91e3abd8aeb83cccc7ccfc14ae"
+
+[[files]]
+file = "config/adpother/Emitters/thermalexpansion$pulverizer.cfg"
+hash = "fe1ec040a9708bcc3066997307d4c3dcd95136d144e8efad5068b6dace151c6f"
+
+[[files]]
+file = "config/adpother/Emitters/thermalexpansion$sawmill.cfg"
+hash = "f034a85ac57bc38330a9e25d21c2c216e7af50df18998bc8a34e0fc80be27844"
+
+[[files]]
+file = "config/adpother/Emitters/toughasnails$campfire.cfg"
+hash = "72cf825c6b16d8db39ea54d62aaa8d8eb0b96aab12e1bb0ca841fb0db9fc01ae"
+
+[[files]]
+file = "config/adpother/Fluids/polluted_water.cfg"
+hash = "96892e694d05c33bcf6c6814ceae3e9fb1b7276c76bc4267af9ed7823743dfaf"
+
+[[files]]
+file = "config/adpother/Fuels/acacia_boat.cfg"
+hash = "1dc9cc3bfb40e1c153d9cf39549767338e83ab6e0321d4e0390f4ba46710c6f6"
+
+[[files]]
+file = "config/adpother/Fuels/actuallyadditions$tiny_biocoal.cfg"
+hash = "319146d84904b6d8dac886b6ce14c3df22143ccb5344f773af276ba70e1f5b45"
+
+[[files]]
+file = "config/adpother/Fuels/actuallyadditions$tiny_charcoal.cfg"
+hash = "7f8b5265ceac21a5b8c68b97e210d9f3113bbdec012409803550d6390dfe9180"
+
+[[files]]
+file = "config/adpother/Fuels/actuallyadditions$tiny_coal.cfg"
+hash = "d7ea4136e595960bd2591cbe85b7aabff210a73842a8487e446e64101a991a60"
+
+[[files]]
+file = "config/adpother/Fuels/actuallyadditions$tiny_dustcoal.cfg"
+hash = "aa40f2a94c584b7a27daeb9044f0d2e2567d45e862a2d129f202e421088917a7"
+
+[[files]]
+file = "config/adpother/Fuels/advancedrocketry$charcoallog.cfg"
+hash = "5388be1b84e134dd864322177863ce0b760be07a2b5b7289d71cc892b28d4dc4"
+
+[[files]]
+file = "config/adpother/Fuels/armor_stand.cfg"
+hash = "b0d2c5940f113a293b574c932c270e5a4a26e9890eba45f1e629fef56ace4b49"
+
+[[files]]
+file = "config/adpother/Fuels/arrow.cfg"
+hash = "f10931e247b7946162ebdd838aca0b515d77c906840598274794d7b08af67987"
+
+[[files]]
+file = "config/adpother/Fuels/banner.cfg"
+hash = "80b2f3faf52c587021a6e2ddface63809c490baa211afa8137269913266225fb"
+
+[[files]]
+file = "config/adpother/Fuels/bed.cfg"
+hash = "5fea721edecc5510f0ef07399656f7d6342c8e8c7c4147692af8ee292117f99c"
+
+[[files]]
+file = "config/adpother/Fuels/beef.cfg"
+hash = "8dc2cf6f8faeb555588ad2166206b1bad7ce8f83b6df62f03ecd4b28e3601126"
+
+[[files]]
+file = "config/adpother/Fuels/betterwithmods$bark.cfg"
+hash = "db6680ad9713afaa37fcaf5565a987370fb36d5a0efeb4c68836f79ed994d677"
+
+[[files]]
+file = "config/adpother/Fuels/betterwithmods$nether_coal.cfg"
+hash = "e20e6a09d4a18548bc63c318700099f3f16d23b49fc1a135984edbcac29cbc48"
+
+[[files]]
+file = "config/adpother/Fuels/betterwithmods$saw_dust.cfg"
+hash = "8070ca415563f69701d7403c76c09425c897eaa24cbb23f9e0f363f4ee70053c"
+
+[[files]]
+file = "config/adpother/Fuels/birch_boat.cfg"
+hash = "d91ebcf3d977a293b79b02f6a88046efe659ec358ba548843b8b7c2d729c4d55"
+
+[[files]]
+file = "config/adpother/Fuels/blaze_powder.cfg"
+hash = "f12591ea27a5d7a499f6aaea15ef2e30ded353002cc749a04ea2bbcf8bb88102"
+
+[[files]]
+file = "config/adpother/Fuels/blaze_rod.cfg"
+hash = "5600e320f1a72f901ea2672767e222b1ded63c2066da95b3101f06343e08ede0"
+
+[[files]]
+file = "config/adpother/Fuels/boat.cfg"
+hash = "b7c4969820a889ef9c4c96f42162529d08555ae01f7411d7b3cf2c5fa1280ddb"
+
+[[files]]
+file = "config/adpother/Fuels/book.cfg"
+hash = "ac5730b02323ae5e61b526642339678481a41143ada97fc170e8419f95204ffb"
+
+[[files]]
+file = "config/adpother/Fuels/bookshelf.cfg"
+hash = "13436134babdccd0b34de1c314ff134f00d8adbd9ff853cf6fcaebe2098ca756"
+
+[[files]]
+file = "config/adpother/Fuels/bow.cfg"
+hash = "92917c2014b88eb97887fc4b3fa02ca226ea7cdda975c6f215c447063d2105cf"
+
+[[files]]
+file = "config/adpother/Fuels/bowl.cfg"
+hash = "74787c1fbb6c4aab53e2454bf1dacfc3b9b5b6880df15bd45698628a9997a1d6"
+
+[[files]]
+file = "config/adpother/Fuels/brown_mushroom.cfg"
+hash = "93809a32c43328a4012a79cb99b3955b05ffec243daea64955165de3a072c6f2"
+
+[[files]]
+file = "config/adpother/Fuels/cactus.cfg"
+hash = "afd18f4bb04163ab47c7dc01758df59ea806c4b47dfb9261b9b18660d6f1ca8d"
+
+[[files]]
+file = "config/adpother/Fuels/calculator$coaldust.cfg"
+hash = "adbb4a68d1b0da78be27ac90630c863f086b03447021120973f85023c4b8c539"
+
+[[files]]
+file = "config/adpother/Fuels/calculator$enrichedcoal.cfg"
+hash = "3b9daaa75c51ced264bf8e59ba957288fa8e684c0b9d97b25d0aaaed6832494a"
+
+[[files]]
+file = "config/adpother/Fuels/calculator$firecoal.cfg"
+hash = "d5a510e5d2dfeb662e404b957d276f4bb18440d228d06914abfd61c8bd946770"
+
+[[files]]
+file = "config/adpother/Fuels/calculator$firediamond.cfg"
+hash = "426e98ae583e3a46c2b68038c872e28b3efcdd5c62683d26ad3d9f69b7c0497f"
+
+[[files]]
+file = "config/adpother/Fuels/calculator$purifiedcoal.cfg"
+hash = "6cb1e1ee61cddabb6699567a76aeb1d01a393c42abc5207a685d5c0f2658c229"
+
+[[files]]
+file = "config/adpother/Fuels/carpet.cfg"
+hash = "c2b7e531ef386f83ca2b09be94ed9f743622a19c8bb193c67fddbac5211c8c5d"
+
+[[files]]
+file = "config/adpother/Fuels/carrot_on_a_stick.cfg"
+hash = "8c218977a724832aaf67dc3709f27dffb3cf01868551a2a9d1718f22e309e653"
+
+[[files]]
+file = "config/adpother/Fuels/charcoal.cfg"
+hash = "288710559f4af439503198ab07266b0e60d01c5d7fa5a8dcda0a70f529ea1360"
+
+[[files]]
+file = "config/adpother/Fuels/charcoal_block.cfg"
+hash = "3be7b5e7590b71c029fd97fcac4b16675140f4068f92cc763fd58466e6f0e707"
+
+[[files]]
+file = "config/adpother/Fuels/chest.cfg"
+hash = "e76c2da6ddd2ad553807cde906bd852d93e979a612780cc01814bc41f01d1164"
+
+[[files]]
+file = "config/adpother/Fuels/chicken.cfg"
+hash = "cf9a4e9105030b59ae27cc25c65707da4fd281b52324520370eaa9798de59296"
+
+[[files]]
+file = "config/adpother/Fuels/chorus_flower.cfg"
+hash = "85c2bd131a119c7dda4b6c2e3f70468d407829ddb5f53e0fca925180e172d62a"
+
+[[files]]
+file = "config/adpother/Fuels/chorus_plant.cfg"
+hash = "f483b5f27b42184251f5cf2a0ed1df4e1386f954e5472dfce300257b0e565fc9"
+
+[[files]]
+file = "config/adpother/Fuels/coal.cfg"
+hash = "920f02797946aed5f21e72a250265174ac9ac983924aedaae0d3fb853b28906d"
+
+[[files]]
+file = "config/adpother/Fuels/coal_block.cfg"
+hash = "1015dddc160b2210ad4490563fac6ad8930fa27906a5c27c00f03ebbb877dc01"
+
+[[files]]
+file = "config/adpother/Fuels/coke_block.cfg"
+hash = "40651fb42756ae8f3ee93cf099cb1748bd76ad633489c50528a6450f934dccec"
+
+[[files]]
+file = "config/adpother/Fuels/crafting_table.cfg"
+hash = "108d61a9b07f1cff78bbc25e295a17fc39fd73f530b485cf6240fc7f57725f48"
+
+[[files]]
+file = "config/adpother/Fuels/dark_oak_boat.cfg"
+hash = "8a0c68170c70018618d894717b035270605b1f97f96e67389cd1ca13f4e63c4b"
+
+[[files]]
+file = "config/adpother/Fuels/daylight_detector.cfg"
+hash = "567badcdbbd4af42db86538d7f04de8c307966a346cd3a5f91a8f91f4d7e4454"
+
+[[files]]
+file = "config/adpother/Fuels/deadbush.cfg"
+hash = "608d65d4cb4b263312be0bd9d052cdb071aa37d7d8bd2457b5661b2b3bd27ba5"
+
+[[files]]
+file = "config/adpother/Fuels/door.cfg"
+hash = "b9786385212406b82181aa89d7c6871edd31f41c3d3ad8222a8cfd04da689277"
+
+[[files]]
+file = "config/adpother/Fuels/double_plant.cfg"
+hash = "259a33ed8a8b8b0dcef3fbe05d49b53936479c025107b54e06961b62ae634749"
+
+[[files]]
+file = "config/adpother/Fuels/dragon_breath.cfg"
+hash = "866a392b888c347fd609b29734517f6c9bcf2482971cd88bb792ae2ffdaa0249"
+
+[[files]]
+file = "config/adpother/Fuels/evilcraft$blood_waxed_coal.cfg"
+hash = "364a44dcaf0904a9b76eac52901ed7874700c60639637ff9fe11497346cb19e2"
+
+[[files]]
+file = "config/adpother/Fuels/evilcraft$blood_waxed_coal_block.cfg"
+hash = "de07e4a9e4ce93708c51e087ff137349866abb285a667f6b8b1be653ee30ba76"
+
+[[files]]
+file = "config/adpother/Fuels/extrautils2$red_coal.cfg"
+hash = "14d856f320be4b810ceb8fd638b0a17dce1d6d58e100ed1bce5b598f42491e03"
+
+[[files]]
+file = "config/adpother/Fuels/farm_ender.cfg"
+hash = "3dff8b58f5023ad9ac4e7bb928db0916679f104fe87bc3609a935a59ea17607f"
+
+[[files]]
+file = "config/adpother/Fuels/feather.cfg"
+hash = "28b16bb4b4fb044331e9b3a0c851c3327ae08996f892bad3dfeeefd9f8c2b232"
+
+[[files]]
+file = "config/adpother/Fuels/fence.cfg"
+hash = "5416100eabdbef0f08a8a00fa4257bef7024c30abf8e79e64cf9fe2cb29921ed"
+
+[[files]]
+file = "config/adpother/Fuels/fence_gate.cfg"
+hash = "13377ce93d6bf3dc795179dd5d97309496b567c190f7422d6f3bc0c5e7ea9d9c"
+
+[[files]]
+file = "config/adpother/Fuels/fire_charge.cfg"
+hash = "5e96e57c2f596b552b054691be5115f60df309d8b8c73f8b5ba9c768ec29b54f"
+
+[[files]]
+file = "config/adpother/Fuels/firework_charge.cfg"
+hash = "6b88ca7bde973dafa970d2e7ec798f65a23aba58e40e9d7fefd871e1c9fa68ed"
+
+[[files]]
+file = "config/adpother/Fuels/fireworks.cfg"
+hash = "6b1c17b6dbbeee20c86ea05b05b1eaf81be7f3d1e7e8f80ddce9c22d3da24d3f"
+
+[[files]]
+file = "config/adpother/Fuels/fish.cfg"
+hash = "a08c56d6352c19cef661b9512ccbb7e7f5814ff8b94790cf74672697da0abf45"
+
+[[files]]
+file = "config/adpother/Fuels/fishing_rod.cfg"
+hash = "b49397a1487a5ee9a6c19c6fd99bc1fe032ed299d24097c911923c4cdc4c7006"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$benzene.cfg"
+hash = "4f39c30f7b0f55d9e22868db5acba16200d995e0faf046c9f7eff9ad62d200d8"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$bio_diesel.cfg"
+hash = "4ea502871dc975dd0427203fc90d39040d7a4c1249255e84110a1027e24c0ae1"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$biodiesel.cfg"
+hash = "06bb387e1de47324f332ec5af39c691d725da1834660efbbe84e9bdceffee821"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$biofuel.cfg"
+hash = "69b72f0f13619cb37971bd2ae2d73a7a2898b197f86d75d5248f7ba15fa3cd17"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$biogas.cfg"
+hash = "607f02d7f48ef569070efbf942002f04c105fd39371c14f5407024a0c4fd42a4"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$biomass.cfg"
+hash = "ef7a1dcdfa056047751ef5f663f767ff30417c8fa9e50a778cce404d1e1c8a8c"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$butadiene.cfg"
+hash = "ba62c9df1dba5898ad726711738062b5ef2871f7f287e05f12cc4ce9ec7102c2"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$butane.cfg"
+hash = "3b56731d701616f32b42b7e408055bcefb523b789f12c60ffaf641c6eb9bf473"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$butene.cfg"
+hash = "cb268e6ccdb8d4f3cc4a226b7f44808b964fd21c678f1d8f976ee38ab6303d0f"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$carbon_monoxide.cfg"
+hash = "81f0903a6e4e825599a44478a06dd3aa9c1ca08448d2ea7442c0b784cdce6fd4"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$coal_tar.cfg"
+hash = "a78e332b8ea309d284c7f17069df6da56dab399321564cde04b2e112076dd692"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$coal_tar_oil.cfg"
+hash = "e0a47d52b802e1bd4f7e49d7d4be3a8dae63f906f5d992bab1eeb7f8367103e3"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$creosote.cfg"
+hash = "e6600e0bdcc9af66eeca655d2542c92931595286ab2cd7f3ffc82712821fabf3"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$crude_oil.cfg"
+hash = "c913e2d46d08f0225ad3afcb205b7b94794bcc25bed0c3b4ce78f7dc80abad92"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$dense_hydrazine_fuel_mixture.cfg"
+hash = "bdec4676aa1c9247d0564cd20afa76a1bdf09599029cddf161c57e9c743cd39d"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$diesel.cfg"
+hash = "a4914e6e790bc6406a8e80456a2930466e45efec92c28be5620e8b706447401a"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$ethane.cfg"
+hash = "968e6575a6555b63e7f7d268e20fb0015beb8ac0405dbebfd554f89f7e51e696"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$ethanol.cfg"
+hash = "92e1f26206620744f25ad44617b72b8d6c89e14add88745442610488ca8a9a2c"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$ethylene.cfg"
+hash = "846bd140c2c2c1d4e1d12aa6f09a92292d5ebec9dbaa254bcf6ea6f0a2be9235"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$fish_oil.cfg"
+hash = "d00a8e535a4afd46a078abeff8af7ff9de33a189fdcc58e2d57fc7d583ffb079"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$fuel.cfg"
+hash = "eff28d11a8b18fa3dcdc45ea4592e3133758018d8f1637752e4aa8aa16df8852"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$fuelium.cfg"
+hash = "c0afb493f479b8434240c7bd4c6df2863430aa55a58ad923b704a6c042018b99"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$gas.cfg"
+hash = "7a5170eb3fd49a505a5a079f3f9bd7d658d94cbf881359b87d0633cd6f9fc56c"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$gasoline.cfg"
+hash = "dc5bbfba786b5ce1a55919fc63369d2cf1bcbaa50dac4ebe8ab57b3ccaba4946"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$heatingoil.cfg"
+hash = "3d86aeda0b16e285082bac459c0bb83a8c01fda6889a261e211ae6559d1b9562"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$heavy_fuel.cfg"
+hash = "94b1747a1bce6c09e2158ac5af39322fa1d6c5bcbf557d97ab592f10d6d3fa1d"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$heavyoil.cfg"
+hash = "db5a9e3730d486308b27b9dc20a2468276150e90a6b32ae3aa3783b2095bbe06"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$high_octane.cfg"
+hash = "bdc1be6b888d385aa63816072ed6f11864d6c761a57c32c36b2226df5a76d146"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$hotoil.cfg"
+hash = "d4ac4f0858e2769f588c6dd81f47faa02073c246fa5330f916d5a39a1b8c4a44"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$kerosene.cfg"
+hash = "8199f6787590a3591926f6a8d32bf38c07ab7fee088aaebfbf2c6f8972840e4b"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$lava.cfg"
+hash = "f06b0b98427784fb2d6c3331f33a025430d2b535a9bd6f3d9c658562bcea6fe1"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$light_fuel.cfg"
+hash = "a0dcc91a697bbecaec05c8cecec95b183312ac62e7ea8bda556b8e49fef84259"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$lightoil.cfg"
+hash = "4d26d7a5b4554deccab13507a7aa0ae843e10d8a955fd5645a24bffd3640c956"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$liquidethene.cfg"
+hash = "b2572f9b720ddb01d09cf92bd18c5536a11bf235ba537431a25e43f68c0f15b0"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$lpg.cfg"
+hash = "bb94526ec43ed83189bf0aac27314536257883a2bff73a971a8643e70aa74fc6"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$methane.cfg"
+hash = "bcd79b0611d18d1eb647ea45065c06b8e50872a81c4694e62a830d5c29761cf1"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$methanol.cfg"
+hash = "27de305150252296a02f5b17ebaa1c2e64b4b88459fdc8e8541b0031d097f1b6"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$naphtha.cfg"
+hash = "0b7b5b8cced1302892207a7837a8c3f22fa00a97c9f0702b004569f7d64ef5f8"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$natural_gas.cfg"
+hash = "a826c8837669182f436e0dabcd428a0c5c362116ccc02da49409401cf3f4af59"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$nitan.cfg"
+hash = "b60ed17c26b3de16e2477c7801ce38abe71db205375f72ed0f1bfd923b2b1343"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$nitro_fuel.cfg"
+hash = "b2312539fffb7fdcd961a6448fcf55438a85faf542c286eb36a4bde7bb72a10c"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$obsidian.cfg"
+hash = "142da384c75402e77a056711498f196325090dd0dfb92c3a9a106750c26e2428"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$octane.cfg"
+hash = "92658c40de832fe74b9066f2f5cbabc99221b452d7dd6a0759a0840084e865aa"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$oil.cfg"
+hash = "ebd5ba2c9568b04474201e56870a5c6b0f782e2e91793050465906d9447234ce"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$oil_heavy.cfg"
+hash = "692020ba65a1a829fb6ddb798cebb1dbbda03733109eb7de18074500540d833b"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$oil_light.cfg"
+hash = "fd78b68fd8bb3fca7aba1f44e51e910c1bdf560fbc511949eb4154bb06af1827"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$oil_medium.cfg"
+hash = "6098f397067793e2926a6a22540034f6e31271edb3c80c3f34d57fe21f66338e"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$petroil.cfg"
+hash = "61c88a37875f28db984e4f271a8f312e5a98a93bd65f41f9f7883e0b533db157"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$petrol.cfg"
+hash = "1db6b8147661e3e1030f5c843394fd0bdf4b53988dcbfade18892de67e50abf0"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$petroleum.cfg"
+hash = "de1c03287dcf9bf3c054a60c8523dfb3e4b04ec9f277dfcb8d89280f4726c364"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$petrolium.cfg"
+hash = "0c623ea89dea07222b9bedd5797f8736a50073cb4cd16fb5a313c57ab25ab5a3"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$phenol.cfg"
+hash = "91e81a26b761daba107f373dc87de686219ffced3769307be88207b070303f9b"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$plant_oil.cfg"
+hash = "0388bb9312429ed185815013fdaed74a1c5d798b6c78bc0a6705c5c2331fc556"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$propane.cfg"
+hash = "90bedb8544f3f9be5a94607e368db2f98cf331544d569e677223bdb7641d960d"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$propene.cfg"
+hash = "98b715f3af232312203db2f58e497361ae61dd1a9440872218667147cd28fe71"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$protein_if.cfg"
+hash = "350d0ab973552a355d8c3b139a24d4b63fada2a4a0f020ef0c50759383af774e"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$reclaimed.cfg"
+hash = "0bf45828af8a3aa23837b51f816527159258c741f1706090caea5f2ec19bcea2"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$refinery_gas.cfg"
+hash = "ebd18e9d42674e96efd30317bc345c935f28020dfa950f85670eb00f79e3ab2b"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$rocket_fuel.cfg"
+hash = "b228fd9f523c7708f7e138e5e2ff7247e841694c6ad369f979e0e0a27467fa03"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$rocket_fuel_a.cfg"
+hash = "a4a8ce80bef3da7f185f971fa4d7ccc89cbc3392495bef7123c659eaa31845a9"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$rocket_fuel_b.cfg"
+hash = "1717ec5fbf1971bb4ca5e4f361a377fe71baf69101724458380d89cf61ef6284"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$rocket_fuel_c.cfg"
+hash = "75d22e1c2ed3fb2dd46d94e1588f467efda8d24d47309771c325d3845fe8c402"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$rocketfuel.cfg"
+hash = "b635ea04f258ea29312bb9171c696aa33de1caedb9d92e2b2e9d92f910bca068"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$seed_oil.cfg"
+hash = "19cf7fc134423ad70f1fbd2e33e887659feabed1caec83f8d13a989e3bdb5de7"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$smear.cfg"
+hash = "0412559025c9390034fe7e17944e8bee4bac43227862bd8715408c11944e68b0"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$sulfuric_coal_tar_oil.cfg"
+hash = "9d31e2e7976f80b0dceae11fb3ae1e85f0ce43bacb4dcb240dfdaea44be3ae7d"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$sulfuric_gas.cfg"
+hash = "00990664e53bd258d2ff9fa9ce2d959e3b50e6b452d73de81eb88abbe39bdd2d"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$sulfuric_heavy_fuel.cfg"
+hash = "da50a1be06471713c9585e801bef2fb81050591b03f9fb06adf20745c64c3ec4"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$sulfuric_light_fuel.cfg"
+hash = "5c8efe1cbe70420e88d105fa207832f00c2e4ad9471768b6240f7657be327ab4"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$sulfuric_naphtha.cfg"
+hash = "e4fcca27e7d5c627f9c71c36b207ef49a6ed2b69d404d2cd0e3af4da5dfa37cf"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$toluene.cfg"
+hash = "0087dcc6cbb9dd88b794e4874884577fae4938a92f3f0858ef6e99ea44c86021"
+
+[[files]]
+file = "config/adpother/Fuels/fluid$wood_gas.cfg"
+hash = "739393bb9320910ac1ef017d46d7025ec5a929c505ae03ae70edb962c832ff64"
+
+[[files]]
+file = "config/adpother/Fuels/forestry$apiary.cfg"
+hash = "0154d1b1e4749c0f16d69ce4f4744c750f84086d066ef225cfaa8932cbbddcca"
+
+[[files]]
+file = "config/adpother/Fuels/forestry$bee_chest.cfg"
+hash = "f28792d5844846da95cadc2186c698dca0974ae2a325dae3e4ea23c7721d98dc"
+
+[[files]]
+file = "config/adpother/Fuels/forestry$bee_house.cfg"
+hash = "8e5a276497c6d68948272536c176e6083ec941ef1bc14cc4490c6e943442b175"
+
+[[files]]
+file = "config/adpother/Fuels/forestry$pollen_fertile.cfg"
+hash = "7c4e0ad1ee73c4395cbfd659a0052ce070f2d1f31361131b8f73efed2c644cc5"
+
+[[files]]
+file = "config/adpother/Fuels/forestry$wood_pile.cfg"
+hash = "27c03d4984e3777db7c404e80aca01496c236871ccc831c7c05e0723b8df46ff"
+
+[[files]]
+file = "config/adpother/Fuels/forestry$wood_pile_decorative.cfg"
+hash = "da86b782c619a0cd2a95f63f182971c741ec17b946dbd089fc2aec4198dee13e"
+
+[[files]]
+file = "config/adpother/Fuels/galacticraftcore$fuel.cfg"
+hash = "233849a97c92d45360ca4fbca30aeac59888212559a485e3d9cfb3ecebb05cca"
+
+[[files]]
+file = "config/adpother/Fuels/ghast_tear.cfg"
+hash = "62342c53b06eacf45541038525b9046eeff5b07419d13ed60495987d37936eb6"
+
+[[files]]
+file = "config/adpother/Fuels/grass.cfg"
+hash = "5f6824c813080d929f7c25cf1f4c5e597d450e7dbeb45562a551beaa95580a15"
+
+[[files]]
+file = "config/adpother/Fuels/gunpowder.cfg"
+hash = "60e55a1c444b2f4481a1c3b90b88d73527ccf83578afc27799ece2e933e740ec"
+
+[[files]]
+file = "config/adpother/Fuels/harvestcraft$beeswaxitem.cfg"
+hash = "f17b4b9a4809d438e1e787137724d4a6079c8b5b1ad7226f7f9d1f66021d0c4e"
+
+[[files]]
+file = "config/adpother/Fuels/harvestcraft$pressedwax.cfg"
+hash = "6130d783f5abaccb85d534010e1278379aa3b96285476ed2cded9f27059c67c7"
+
+[[files]]
+file = "config/adpother/Fuels/hay_block.cfg"
+hash = "00a9b81f91b904e8ef44db9d36f6567f89557726ffcb7290b6487a730d35159d"
+
+[[files]]
+file = "config/adpother/Fuels/hbm$briquette_lignite.cfg"
+hash = "91566c12cb48ebacc8a01cd6a9c8e2513cee536a8f9924a93c6d969bfd3a5013"
+
+[[files]]
+file = "config/adpother/Fuels/hbm$lignite.cfg"
+hash = "12dd19cfb45f96ea8fe413d3c388e1ad560580927cf83767dc8f9eaddb682f12"
+
+[[files]]
+file = "config/adpother/Fuels/hbm$powder_lignite.cfg"
+hash = "c653fbad5014911bc67ac83ccbe705e759f88779f40c1ea78c92ce623bc3f644"
+
+[[files]]
+file = "config/adpother/Fuels/immersiveengineering$coal_coke.cfg"
+hash = "e8962bfe673d93257e6738ac81dab0ffa98e639184c9a9a507040379f5b58f21"
+
+[[files]]
+file = "config/adpother/Fuels/immersiveengineering$coal_coke_block.cfg"
+hash = "a89fbbc60cd94a38e4b0c29c71680c66cd715542c358b1071951d18058c3c25c"
+
+[[files]]
+file = "config/adpother/Fuels/item_frame.cfg"
+hash = "2fd4275ca957c073f3bef01e45dfb63219193f374e1bf8975a38291926d9b795"
+
+[[files]]
+file = "config/adpother/Fuels/jukebox.cfg"
+hash = "9673e9f0769c966d940caf9be3f2b064343a976c4d49377d0f44377ad016f6f1"
+
+[[files]]
+file = "config/adpother/Fuels/jungle_boat.cfg"
+hash = "33518c6ccad1fdc90bb16ec1de743d9112f2cd750f848c2f86fe07c981c83a47"
+
+[[files]]
+file = "config/adpother/Fuels/ladder.cfg"
+hash = "b87be5198c486cc8978c3a639882e3e9e8b0611b42c0304ee8ddd0a13625c283"
+
+[[files]]
+file = "config/adpother/Fuels/lava.cfg"
+hash = "5671d65b881d3e6f76dddca62745595fca2a2c882b28ff316a9ea19459cc3054"
+
+[[files]]
+file = "config/adpother/Fuels/lava_bucket.cfg"
+hash = "953c1af9df60e2ff14c9626c040fdcb5cebb5983a0b5903b85d4d271c5bfa093"
+
+[[files]]
+file = "config/adpother/Fuels/lever.cfg"
+hash = "33b7e700118855910d701cfbe9a4a14b8908f52a7d738e122ed67c3151acf9f7"
+
+[[files]]
+file = "config/adpother/Fuels/magma_cream.cfg"
+hash = "4a7a4e11771f14374073adad6e0171863891af7ebc746e8446c2aa793669c8ea"
+
+[[files]]
+file = "config/adpother/Fuels/map.cfg"
+hash = "117a2f3fe09bf3553645dab05f77a9e99f49bb3f33fdb0348d330f34e384d456"
+
+[[files]]
+file = "config/adpother/Fuels/mekanism$biofuel.cfg"
+hash = "757f58e86620f16d3b2d0ddfe77e9e6ba2d88b5e678ecfa28ed94e78ca757e55"
+
+[[files]]
+file = "config/adpother/Fuels/morefuelsmod$bituminous_coal.cfg"
+hash = "d312901a72c3d4473ce2872012827e6d8af6a3c7a4f5324015194ad70ebd9f63"
+
+[[files]]
+file = "config/adpother/Fuels/morefuelsmod$block_bituminous_coal.cfg"
+hash = "4bc9a3a5a6423ceaff7ecd00aad5dbc5abfab858d5777c077a110fc38e89707e"
+
+[[files]]
+file = "config/adpother/Fuels/morefuelsmod$block_coke.cfg"
+hash = "681de50cc23807aa0dbf7fda6ac031454f0150a87eb4bd4dabaa9ca9cb79cf2b"
+
+[[files]]
+file = "config/adpother/Fuels/morefuelsmod$block_compressed_pellet_fuel.cfg"
+hash = "032817ad48474f8a7e449a3ff6275f5fee1676e60e007dd973555aee2c2b6e64"
+
+[[files]]
+file = "config/adpother/Fuels/morefuelsmod$block_pellet_fuel.cfg"
+hash = "2333f1139c579f14b5ccbcd9baee76ba25ed5ebe7e84719132ba463c239ebe5c"
+
+[[files]]
+file = "config/adpother/Fuels/morefuelsmod$can_of_slimoline.cfg"
+hash = "2c07c2fcf75a07e633307c34c2356396aed8ac7a45feaadb2b439682bb0c1485"
+
+[[files]]
+file = "config/adpother/Fuels/morefuelsmod$coke.cfg"
+hash = "6d86b5b517dd14555bc906fbb23db1efb2f1c143b63904cc1bb11b3df3c534ba"
+
+[[files]]
+file = "config/adpother/Fuels/morefuelsmod$compressed_pellet_fuel.cfg"
+hash = "ec6d31b7fc8962eabc1d78b813383878d86c34a326369a6c6e0381f8e4f32258"
+
+[[files]]
+file = "config/adpother/Fuels/morefuelsmod$pellet_fuel.cfg"
+hash = "4291ae3a584c43747bc58540f7f8f3b08726d599b5af2ccc96a675f45a91b1fb"
+
+[[files]]
+file = "config/adpother/Fuels/mutton.cfg"
+hash = "aaffb2715972901be31d24cfc6436a2773e775470b9ba7080bb50dba235e8b6b"
+
+[[files]]
+file = "config/adpother/Fuels/mysticalagriculture$inferium_coal.cfg"
+hash = "55bc038fef31cf4c0317bc751a842043b4ff8c18d52420b03f8fd0953e02c90e"
+
+[[files]]
+file = "config/adpother/Fuels/mysticalagriculture$inferium_coal_block.cfg"
+hash = "57c29a6bb7f20d0393e7107d1d7c732e64e2c02184b1545453be620f3a4ef9d7"
+
+[[files]]
+file = "config/adpother/Fuels/mysticalagriculture$intermedium_coal.cfg"
+hash = "8f4818ef4d90f16f83e1d664ba553dce6dad77bdd652a8ebe533ad9fb2b6fa33"
+
+[[files]]
+file = "config/adpother/Fuels/mysticalagriculture$intermedium_coal_block.cfg"
+hash = "e8672f7b855b6d5f893c4330c5ff7fe4aa3467e379f7c6e94141d8dd1b471be9"
+
+[[files]]
+file = "config/adpother/Fuels/mysticalagriculture$prudentium_coal.cfg"
+hash = "da493c2f34eec61f765f56d6417696d5bfabb63a04922e08eb70a876442dc6a3"
+
+[[files]]
+file = "config/adpother/Fuels/mysticalagriculture$prudentium_coal_block.cfg"
+hash = "700ea215a595fc2e79049e2dcd3fd6aef91d4fbd205896643f6e678aefb7caae"
+
+[[files]]
+file = "config/adpother/Fuels/mysticalagriculture$superium_coal.cfg"
+hash = "2b56dd3a6df05d1236536cc6070aad388a7809b34ec29d6d51b5c41fe2665050"
+
+[[files]]
+file = "config/adpother/Fuels/mysticalagriculture$superium_coal_block.cfg"
+hash = "20381ad0073d546d840989dec954c2c172cddcd48776cca59cbfbf30037f9fd7"
+
+[[files]]
+file = "config/adpother/Fuels/mysticalagriculture$supremium_coal.cfg"
+hash = "ec5975f98aa0b4c8691f44c2ae26a92e33277bf179a438e731e2f71fad97a1c1"
+
+[[files]]
+file = "config/adpother/Fuels/mysticalagriculture$supremium_coal_block.cfg"
+hash = "d5f4d44032e5b64f5d6754f36bb43b7530c18e7803830ab796941435ab88047f"
+
+[[files]]
+file = "config/adpother/Fuels/nether_star.cfg"
+hash = "6384d1cb3496e73ab09c4a29af78f98d59c6200d8d590cf756428f12c7ede10e"
+
+[[files]]
+file = "config/adpother/Fuels/noteblock.cfg"
+hash = "382c061e2a7bc92361b2ae311eccbb087c211879b1da190c33cff9af5be0f19a"
+
+[[files]]
+file = "config/adpother/Fuels/painting.cfg"
+hash = "896af602a7d47c076726ce5f1095622c7894abb66d3a2de46d45918c34726ef9"
+
+[[files]]
+file = "config/adpother/Fuels/paper.cfg"
+hash = "8db3c66d42f25629efccf453b5ef56f870f9bbae9391795ad3aec84809c787d8"
+
+[[files]]
+file = "config/adpother/Fuels/piston.cfg"
+hash = "578f257b90289515a25ee934ef8448c37fc4a1d5258ead469e62329f395fcc8e"
+
+[[files]]
+file = "config/adpother/Fuels/poisonous_potato.cfg"
+hash = "3f327ef8e5f1f5a7ea4e040d2531cffab8b46b744d6bc45d95c0e4509fc0ebc5"
+
+[[files]]
+file = "config/adpother/Fuels/porkchop.cfg"
+hash = "efc6daf8891dd3931b676493f9457121b7d8f15ece4d67134517678f877e5e8a"
+
+[[files]]
+file = "config/adpother/Fuels/potato.cfg"
+hash = "536ab0f59496d487e09046336469f30c2ad5a07a60aa425d50a923405adbaffb"
+
+[[files]]
+file = "config/adpother/Fuels/primal$charcoal_fair.cfg"
+hash = "7de7edf665dc5f72f5e8bf817f8bc5fb159abd206376969aade1f574f8ff96ce"
+
+[[files]]
+file = "config/adpother/Fuels/primal$charcoal_good.cfg"
+hash = "f78704910ce4ff62a6386e80a0dc3da85840b690efcca1727cb44c97810391f9"
+
+[[files]]
+file = "config/adpother/Fuels/primal$charcoal_high.cfg"
+hash = "528a53a4f7f5a67f9644eea031b8d8c2c7c1ba2758f835bf9ee8e7cc32e77a33"
+
+[[files]]
+file = "config/adpother/Fuels/primal$charcoal_mote.cfg"
+hash = "f5beb94839a0a2ba870b54e0ce537bb286efe0c69090e8d7400affcc6dcc2977"
+
+[[files]]
+file = "config/adpother/Fuels/primal$logs_split.cfg"
+hash = "a73212606f9d460b539539dc8e85d465f365ad836ca292b538bc42ed1c6ac4a8"
+
+[[files]]
+file = "config/adpother/Fuels/primal$logs_stacked.cfg"
+hash = "9eb3844155e721a442b5a2d27ed53d8f574818a1b6921dfdc483f3ec807515c6"
+
+[[files]]
+file = "config/adpother/Fuels/pyrotech$charcoal_block.cfg"
+hash = "db91d37c5b1abc7dfd494c13627cef68e5a17aba4b885e2c2833bce4507c9e11"
+
+[[files]]
+file = "config/adpother/Fuels/pyrotech$coal_coke.cfg"
+hash = "8f097fa86c2a0eba3f4c9b0d27585670ece4065b303f8579faab7ad6afdf54a1"
+
+[[files]]
+file = "config/adpother/Fuels/pyrotech$living_tar.cfg"
+hash = "0e48933087c1bad8241c53dc28362537c98636d888d53f9c91b39727b349d4ce"
+
+[[files]]
+file = "config/adpother/Fuels/pyrotech$log_pile.cfg"
+hash = "a7c50ed36e2c21750961f58b24a25cf19798bef6d87162c2a8b268beb23bb35b"
+
+[[files]]
+file = "config/adpother/Fuels/pyrotech$pile_wood_chips.cfg"
+hash = "caf6b153a0417494b0a4a04dfbef69644c4c9f2bb267ac850c0698888aae9d61"
+
+[[files]]
+file = "config/adpother/Fuels/pyrotech$planks_tarred.cfg"
+hash = "7813362ba3557f962d207d1bee5c2183653e9d64bff047dd4fd85d11c2ee3470"
+
+[[files]]
+file = "config/adpother/Fuels/pyrotech$thatch.cfg"
+hash = "a69166d766c2e383b3fdfd1117eb602208da61d5e04b690256a65ed35dd28693"
+
+[[files]]
+file = "config/adpother/Fuels/pyrotech$wood_tar_block.cfg"
+hash = "d92572d037f0d7c38e71dab37a48d0783aa1f714ad4f530292955404c5149617"
+
+[[files]]
+file = "config/adpother/Fuels/pyrotech$wool_tarred.cfg"
+hash = "23beff8da427dc388895121eff7cc017ae899f04a9171d5a2370e4314e8e184d"
+
+[[files]]
+file = "config/adpother/Fuels/pytotech$board.cfg"
+hash = "f3033a7783819d81b48116842cc67e40924ce41efc1c098c4d1b95fba2ba7b3b"
+
+[[files]]
+file = "config/adpother/Fuels/pytotech$board_tarred.cfg"
+hash = "78d7e1e0ddfbe5bfc1c0787b7739c011c741b6bc5c0f7d50bed06083ee5e7639"
+
+[[files]]
+file = "config/adpother/Fuels/pytotech$burned_food.cfg"
+hash = "0a7db99e38ef459b1aee60166fcf893e97f891639995f14a2e28d82e3704ce4a"
+
+[[files]]
+file = "config/adpother/Fuels/pytotech$charcoal_flakes.cfg"
+hash = "64a17d268ab12fea60f6d3c0419567adb3b96c3131563b6309dddced306b7264"
+
+[[files]]
+file = "config/adpother/Fuels/pytotech$coal_pieces.cfg"
+hash = "c2102703023ab56404b9b458cb997111c5568649663e8a53914c39af2e6f3828"
+
+[[files]]
+file = "config/adpother/Fuels/pytotech$kindling.cfg"
+hash = "fc4c709ec140509788d35e014a1d13e3f78bcc285a6ff86e48a6e7382aba0352"
+
+[[files]]
+file = "config/adpother/Fuels/pytotech$kindling_tarred.cfg"
+hash = "e04b46907160906f568ec2cd0bc31d13134180335dd4cffd5fb62f3a75039286"
+
+[[files]]
+file = "config/adpother/Fuels/pytotech$plant_fibers.cfg"
+hash = "ca7d2a4a70a7d91a4c5d3cc14ff21fdeba5daba1d89d915e4a9a41318a1bad4e"
+
+[[files]]
+file = "config/adpother/Fuels/pytotech$rock_wood_chips.cfg"
+hash = "47d7bb5a0b047c7a8962130924d0ddff2ce37276238a2d537644cf89b3678096"
+
+[[files]]
+file = "config/adpother/Fuels/pytotech$straw.cfg"
+hash = "08b24e163b0ace78ab63eea614d18c3faf9d9fde5e1f1e7ccccb66e74ccf5917"
+
+[[files]]
+file = "config/adpother/Fuels/pytotech$tinder.cfg"
+hash = "2d99e4031fd7db2db3f3c3c64f8c1f47a5f40b5ea3c16e5d13096444c08dd3fc"
+
+[[files]]
+file = "config/adpother/Fuels/rabbit.cfg"
+hash = "6f52b3a85b10040728c521116213315f668ebb00c5921f15bfc4632a27225e4f"
+
+[[files]]
+file = "config/adpother/Fuels/rail.cfg"
+hash = "119222ce2c64df9910c3cd952408cf889702dca753ce8a3f9e067224814052c7"
+
+[[files]]
+file = "config/adpother/Fuels/red_flower.cfg"
+hash = "aa26e23aaf4b9208a073cf4ac28928a01976e46728e38442892122b31c91674a"
+
+[[files]]
+file = "config/adpother/Fuels/red_mushroom.cfg"
+hash = "e8445adf6c5e762b9597af069fcc78b69305f6eb28476b39395ede0ebab27562"
+
+[[files]]
+file = "config/adpother/Fuels/redstone_torch.cfg"
+hash = "e72e707e21ba2e3fb54d7426cbf5e59bec877fb4609217c07a73c00aa848629e"
+
+[[files]]
+file = "config/adpother/Fuels/reeds.cfg"
+hash = "315bb2d299a70d76c2a815389b27e1334f3372362641fcb12f16b4a83c8e25f2"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$anthracite.cfg"
+hash = "f65b1de6bc79d8c7b3280b08bc83df747fea0180cb2dfd5f65ca1a2aa7b3aeba"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$anthracite_block.cfg"
+hash = "b4df23053b360f7526c0c63b5e0b9c208df92942e609e317162d8552eaeb8a86"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$bituminous_coal.cfg"
+hash = "7278e7abce755a0ce2458f3cafaa31c80f58a1b0003ad6125fb37abc18c209fb"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$bituminous_coal_block.cfg"
+hash = "2b7af30b8f354b9fd54f063011f688d56f103c525ee73f6a65f3dc0e3d71796a"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$charcoal_block.cfg"
+hash = "ccbdff8eeb02313a0baccaed4382d7de75c93d9920b613bf15ba7fa77b04764b"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$charcoal_lump.cfg"
+hash = "b02a187468167a4d93627d04dc7cc1a896468b3cdc4007bfa8bb546b84a71ad7"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$coal_pellet.cfg"
+hash = "99ac3875587e2eb3a4f30e748c60feba4d7af2ec9d94d3e5a935f3bb8deee6dc"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$dry_peat.cfg"
+hash = "ed097f082210877fee6b4ebd2a39593995974dfe4b777967ee7b89e22fd56b67"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$lignite.cfg"
+hash = "73a6e55dd7d3ba98ce7aa75d3cf6eb86048b7782ea3becbbe346445a5af23efd"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$lignite_block.cfg"
+hash = "6223d2555f78d74d6d1727b8cc8f11e9c6fcc57b069ead386b66ad4ff9a9f3e2"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$moist_peat.cfg"
+hash = "fc4f567f0952f27d759ecdb11ba48330573ed70718bb586cd8835e3c6a01c54e"
+
+[[files]]
+file = "config/adpother/Fuels/rockhounding_oretiers$peat_block.cfg"
+hash = "a2d530a73e7b86acf8a87fa982ed8739d4b3a7ba842569bcc88c4006d831e4cf"
+
+[[files]]
+file = "config/adpother/Fuels/rotten_flesh.cfg"
+hash = "f3f4d5a3bf360e06ea3695dc0db6f18ea85dcbd6603021ee59acc9fb735c07bb"
+
+[[files]]
+file = "config/adpother/Fuels/saplings.cfg"
+hash = "b54a11ff54fa4b41f2d73926b79966a39245ca99bbbb13efc6891621334841b1"
+
+[[files]]
+file = "config/adpother/Fuels/seeds.cfg"
+hash = "8b9692b923e12ffd0bf69be113edc75b753d539d4d1197e4e11c7516277a5e64"
+
+[[files]]
+file = "config/adpother/Fuels/shield.cfg"
+hash = "75ff0b4d82fc70e0139c221fe6db9602ec3be6941563e0395b33b494f16dc07b"
+
+[[files]]
+file = "config/adpother/Fuels/sign.cfg"
+hash = "b86f55d6e2385cde1c3ebbff5680d74b0c6903ae116cdd2ecd6b9c0a4f334a85"
+
+[[files]]
+file = "config/adpother/Fuels/spider_eye.cfg"
+hash = "c08bb89b60e62d5af5e30108e114451b3519bf3af08e8563d5477dc1eb0f148e"
+
+[[files]]
+file = "config/adpother/Fuels/spruce_boat.cfg"
+hash = "5cf42f0b02580b9c5d07b9e6b0af32199085893a181f77a18a64f67d7b88f7db"
+
+[[files]]
+file = "config/adpother/Fuels/stick.cfg"
+hash = "470cbc50583c228b46335b6de713960963df19ae6b285b1413b82b10edd06cfc"
+
+[[files]]
+file = "config/adpother/Fuels/sulfur_dust.cfg"
+hash = "229c923ca00045c761957ef85ce9b3433a94e518e59fa1f11218cc7a95ac4464"
+
+[[files]]
+file = "config/adpother/Fuels/tallgrass.cfg"
+hash = "35cceb42f6987ead96d9d82b20358fbe407b659ca2b14e1727a8d9d1c631dfc0"
+
+[[files]]
+file = "config/adpother/Fuels/tfc$peat.cfg"
+hash = "35271be42cbbfa1f6290b7d133933a5206f0f122663219886b48905ce07a61df"
+
+[[files]]
+file = "config/adpother/Fuels/tnt.cfg"
+hash = "d97cea2594ddb23e38ad24a9e02f06559cb74a9ab5f84169754fc8b4f8098443"
+
+[[files]]
+file = "config/adpother/Fuels/tnt_minecart.cfg"
+hash = "297683a4b183464741b6320829b80b46a67ef63114d7d883b21ec09cfa78cd04"
+
+[[files]]
+file = "config/adpother/Fuels/torch.cfg"
+hash = "6a5e815e64eb9dfb181f8b30cf948d555a92626b3b46b37d7b65af5ee4235903"
+
+[[files]]
+file = "config/adpother/Fuels/trapdoor.cfg"
+hash = "852e1bd91554dc2058d7a2796ff1f08c396feca3b9f6186f1ddb72198e4cf935"
+
+[[files]]
+file = "config/adpother/Fuels/trapped_chest.cfg"
+hash = "4360eae5eb26b07700956a7edda279bba0807f1a1c1dba7cd0a2f69a9a6be2ea"
+
+[[files]]
+file = "config/adpother/Fuels/tree_leaves.cfg"
+hash = "2c87ed17531194ee12ceb1d8078053965d2463d0297a0a369b1726383bb2adf1"
+
+[[files]]
+file = "config/adpother/Fuels/tripwire_hook.cfg"
+hash = "6740dba89f51f5c714cc60f1dce5baa1f88874e253ff823115690d012bf94ed1"
+
+[[files]]
+file = "config/adpother/Fuels/viescraft$viesoline_pellets.cfg"
+hash = "66a03ac8d6caa0782b71426d26a6dbbc4126312ae7f954b69499ee16a6b2252f"
+
+[[files]]
+file = "config/adpother/Fuels/vine.cfg"
+hash = "480d3fdfeeb06fba373132fe60887b3ec605c36bd4aa870ea6b29c337a2ba799"
+
+[[files]]
+file = "config/adpother/Fuels/waterlily.cfg"
+hash = "e7f9e69eecf2b79ed95beec8085ec4f648aaa75387ad3807538041476ae062e3"
+
+[[files]]
+file = "config/adpother/Fuels/web.cfg"
+hash = "6137e925e8102c465ff28f4243bbefce824bdd7974e62db6834dbf6415889842"
+
+[[files]]
+file = "config/adpother/Fuels/wheat.cfg"
+hash = "ff08b836736d614dff7ef43953058a42282cc9f1796646bdc65f9edc66455534"
+
+[[files]]
+file = "config/adpother/Fuels/wood.cfg"
+hash = "26d245fc3607ff71a519b87df6662d0147a371b2a0c23e6a49bd20ba4fd7c6de"
+
+[[files]]
+file = "config/adpother/Fuels/wood_planks.cfg"
+hash = "f88f951c38ae0c8ee70c0c9d8ce5957886cc385ede82a7b7944f48f70808819f"
+
+[[files]]
+file = "config/adpother/Fuels/wood_slabs.cfg"
+hash = "92ba0864323683af878fd74d04456f7465e2ea3434d0d2c9576eb145a35e762f"
+
+[[files]]
+file = "config/adpother/Fuels/wooden_axe.cfg"
+hash = "f006b88d7cd12502f5c3e71087db235bdcb514acb046d0ba29959cdd73028f18"
+
+[[files]]
+file = "config/adpother/Fuels/wooden_button.cfg"
+hash = "b65396f33128dc9a2e4017524af5778888f9cfc52b0d31ccbe3b9fcd88711dc0"
+
+[[files]]
+file = "config/adpother/Fuels/wooden_door.cfg"
+hash = "7f066dd7dca582521bcd72425f0ecf62cb7b8b1e14d0242310cc90f6856a55dd"
+
+[[files]]
+file = "config/adpother/Fuels/wooden_hoe.cfg"
+hash = "3f996fd2ff0524b6d1127b2198fc7202f37d17a5fd23d4999fb823ef87bf7933"
+
+[[files]]
+file = "config/adpother/Fuels/wooden_pickaxe.cfg"
+hash = "bd052bec885ef87ae64bf887d38b63efed5aefadca1bcef15b455dd3c5ea1b8c"
+
+[[files]]
+file = "config/adpother/Fuels/wooden_pressure_plate.cfg"
+hash = "f8f00970a191ef7642784d3f0eddf11d5f1077b9adbfb27109665c8fff503fa0"
+
+[[files]]
+file = "config/adpother/Fuels/wooden_shovel.cfg"
+hash = "122649b60d08399c33092ceb9193aa48a0bb743f76cf883e734da84318cfb068"
+
+[[files]]
+file = "config/adpother/Fuels/wooden_stairs.cfg"
+hash = "2fc2810f638d1687f6d840643b97becb88f80c4da35426d32bd8aae2f0f69794"
+
+[[files]]
+file = "config/adpother/Fuels/wooden_sword.cfg"
+hash = "97c190c3d692262214e8501bf455b830dbc5097fd1a068e2110adca7dcb44c47"
+
+[[files]]
+file = "config/adpother/Fuels/wool.cfg"
+hash = "c899b8b6796abbdfe81eb12752ac2345a55930f904ae56b38ef57d07fcbdb6b7"
+
+[[files]]
+file = "config/adpother/Fuels/writable_book.cfg"
+hash = "117343056d269482cf9959e17428a5d33240c5057fe21e8fad56722dcedeeafa"
+
+[[files]]
+file = "config/adpother/Fuels/written_book.cfg"
+hash = "cc90c41db6922c38d887d8dae0a396ee04f7343e0722a790d7b02def4d9cb8f9"
+
+[[files]]
+file = "config/adpother/Fuels/yellow_flower.cfg"
+hash = "29e5568ffe876873c6f5e6b09e6f743e312bbefd0a0ec1a71d8dfaed4efb7a09"
+
+[[files]]
+file = "config/adpother/Items/aerometer.cfg"
+hash = "9ce8cba2f7522b05f62bca343ad12742bc52cc334fa588bd37c10bc4a0daa972"
+
+[[files]]
+file = "config/adpother/Items/respirator.cfg"
+hash = "e223cfdcddeca42b209836cf0c19525e2a757d76deabbe7df098186c0f2004f1"
+
+[[files]]
+file = "config/adpother/Items/vacuum_bag.cfg"
+hash = "1481f4d810f8cb64434666828335a734aeffe7a466b96612370fcad7f758e567"
+
+[[files]]
+file = "config/adpother/Items/vacuum_tube.cfg"
+hash = "529c95d6a2190026fbad35150a2710043e95b81d812c51be60dc50c9e872ea65"
+
+[[files]]
+file = "config/adpother/Pollutants/carbon.cfg"
+hash = "6b6db7586d0a8f0849f60d79a444e5910c0c423604efc0e2778e7e49214f696c"
+
+[[files]]
+file = "config/adpother/Pollutants/dust.cfg"
+hash = "11eea55fcef564e3db9679185d441e5c981ea5c8e546291b31430361d2bcd6e7"
+
+[[files]]
+file = "config/adpother/Pollutants/sulfur.cfg"
+hash = "750b9faa311b30fb2e5c032f51935149b92c5e34ecb1dc6f7b844413848bfd15"
+
+[[files]]
+file = "config/adpother/Respirators/adpother$diamond_respirator.cfg"
+hash = "7a75c0112faac0d81bb393569bf12f4ac7e56c62dab1e816ee49faaedb731e63"
+
+[[files]]
+file = "config/adpother/Respirators/adpother$gold_respirator.cfg"
+hash = "ab0c280bb610c40e9acb7db6449636cb166e23e8e2237122144456514a0f7987"
+
+[[files]]
+file = "config/adpother/Respirators/adpother$iron_respirator.cfg"
+hash = "00163938251f72bd682da07bad0b6006bb92e672818103b9ecaa56dd612581c4"
+
+[[files]]
+file = "config/adpother/Respirators/advancedrocketry$spacehelmet.cfg"
+hash = "3392cf21bb79ce812bb6efb0a3c2c9ed78b82216480f65800df885896754e095"
+
+[[files]]
+file = "config/adpother/Respirators/compositegear$respirator_mask.cfg"
+hash = "4618d161de845b0a70806111c17b8d08444deddeb5696e76be3c8f8bc666f73b"
+
+[[files]]
+file = "config/adpother/Respirators/compositegear$respirator_mask_composite.cfg"
+hash = "cf843288de6b499486e1cf9606f59dd7a3b7ab527be07f4423ae6fff9163573d"
+
+[[files]]
+file = "config/adpother/Respirators/compositegear$rubber_gasmask.cfg"
+hash = "23a398ce2a5291d31722e0e215a713223eb0065625ce7ff7460288859bd50e2a"
+
+[[files]]
+file = "config/adpother/Respirators/ecomod$respirator.cfg"
+hash = "0ecdaa00f648da4c62e15520bf6adfbdb508bd2fca15c6f7dcdb99b0b1dd7d12"
+
+[[files]]
+file = "config/adpother/Respirators/gases$advanced_respirator.cfg"
+hash = "63953316d94ab1b99aeb6a83cbc5fe565f2b3efbd26ce75b3534e6d0d0ea4ecc"
+
+[[files]]
+file = "config/adpother/Respirators/gases$primitive_respirator.cfg"
+hash = "2e643b9a5d6adf0641a475262f78bd29b14e4344d882e7c999fd30d47141b76a"
+
+[[files]]
+file = "config/adpother/Respirators/gaspunk$gas_mask.cfg"
+hash = "d94553d78dc2bb17f1ffce15f0d8b7eef74ca1a4473518c99a89d4f500a74b48"
+
+[[files]]
+file = "config/adpother/Respirators/hbm$ajr_helmet.cfg"
+hash = "c0660bc05e35eba141e36c50dc56ecf2ed589beb3a880d505ab8572c710690b1"
+
+[[files]]
+file = "config/adpother/Respirators/hbm$gas_mask.cfg"
+hash = "adfe66a43d57bcbb6c50a087458e6e36b9d3771c5060b8c55431a6208506178e"
+
+[[files]]
+file = "config/adpother/Respirators/hbm$gas_mask_m65.cfg"
+hash = "85b390305a401537a8a537a0f839a3abaa9b6be7ff0494f5696dc3055df86dc0"
+
+[[files]]
+file = "config/adpother/Respirators/hbm$hazmat_helmet.cfg"
+hash = "b7afaa09c9c04ea640472d3c1c2f99ab1342c90e6c1aaf152f4d2b9c90cc79e0"
+
+[[files]]
+file = "config/adpother/Respirators/hbm$hazmat_helmet_grey.cfg"
+hash = "449cbc49635609d2ddb32ee4258c195a22ae54ad8428320f4fac7cd459e979a9"
+
+[[files]]
+file = "config/adpother/Respirators/hbm$hazmat_helmet_red.cfg"
+hash = "bac61459fb0d02a09f904c8ede6dd418e7005f67cc1e7d90144d95bbd298b076"
+
+[[files]]
+file = "config/adpother/Respirators/hbm$hazmat_paa_helmet.cfg"
+hash = "ad86766e7b376ddec009e2558fdd944facb190217dfe8a725b2913be89bf4011"
+
+[[files]]
+file = "config/adpother/Respirators/hbm$hev_helmet.cfg"
+hash = "d5caea70db82bba2aa78668f8405694e9e5a29f5a3f5ecc89c6d08e80ca43206"
+
+[[files]]
+file = "config/adpother/Respirators/ic2$hazmat_helmet.cfg"
+hash = "e238c73d3f42740e84a742c8b6ecd12da997890480c969e1b5701309ecbb6fc9"
+
+[[files]]
+file = "config/adpother/Respirators/mekanism$gasmask.cfg"
+hash = "95d29fa03b626b8d216dbf9e09064576871729078c4e30a57ebc8b4632bd90b9"
+
+[[files]]
+file = "config/adpother/Respirators/mist$respirator_single.cfg"
+hash = "e3aace67d48486db367439e99050dd43517db3b8b0e1420dd2473bccceae6405"
+
+[[files]]
+file = "config/adpother/Respirators/mw$m40gasmask_helmet.cfg"
+hash = "0c9a5bd6deface5b5b4c37e9fa33d988b0503578b0addd0ce604c8358be0f775"
+
+[[files]]
+file = "config/adpother/Respirators/nuclearcraft$helm_hazmat.cfg"
+hash = "6e9f089b7c9d0d2ce8cee92bf29221ef03bb8b21353cd7eddea23914089111f0"
+
+[[files]]
+file = "config/adpother/Respirators/techguns$gasmask.cfg"
+hash = "0e433cb29906f0e7d395984cbb8972417226d8f19baeaa25458d66913682fee3"
+
+[[files]]
+file = "config/adpother/Respirators/techguns$hazmat_helmet.cfg"
+hash = "e973f96999dbaab241b6ced818580456657a0db83a24a259d45c0acfc5fb5a68"
+
+[[files]]
+file = "config/adpother/Respirators/techguns$steam_helmet.cfg"
+hash = "8db3d4c55307cfd894b2027adedfbc4db44989fda0e16aa9ae63626bd8df807b"
+
+[[files]]
+file = "config/adpother/Respirators/techguns$t2_commando_helmet.cfg"
+hash = "1211dfc8bf7f21bff373f338563a95f7cff51c21cbf6f1097631e9504310a2d2"
+
+[[files]]
+file = "config/adpother/Respirators/techguns$t3_miner_helmet.cfg"
+hash = "c5609b24073b4792251ea776e85cb495bcbbaa331cc42c5719aeb992f9b5b3e4"
+
+[[files]]
+file = "config/adpother/Respirators/techguns$t3_power_helmet.cfg"
+hash = "965f7550cc488b281ce564d8a25952c9fa29dbdc18c5f5cdde2256541d175ed7"
+
+[[files]]
+file = "config/adpother/Respirators/techguns$t4_power_helmet.cfg"
+hash = "fb48a666903e318321477fec34f0675150b0eacf45eef9c0ec8182046aa9d7e6"
+
+[[files]]
+file = "config/adpother/Respirators/techguns$t4_praetor_helmet.cfg"
+hash = "142566820a963305b68afc313c8f236b9c1c71171f560e56b6d983b6b8912788"
+
+[[files]]
+file = "config/adpother/Respirators/techguns$tacticalmask.cfg"
+hash = "876a4b571b633102a300e260c8eaa711534489df55499199e3b37e1e04e9ab43"
+
+[[files]]
+file = "config/adpother/Sources/animal_death.cfg"
+hash = "06d6c4cfa4f22465714e19003639aee1715c59b7deff215b24af188e23079a72"
+
+[[files]]
+file = "config/adpother/Sources/animal_feeding.cfg"
+hash = "b44b0922999f0211763aa1da31869aceace2bf6f663678a41e8b8d9ba65f6634"
+
+[[files]]
+file = "config/adpother/Sources/explosion.cfg"
+hash = "892cb22b9444fe4a3527bd4583528fafe8ac39f83d664914300f75798ea1b681"
+
+[[files]]
+file = "config/adpother/Sources/hostile_mob_death.cfg"
+hash = "71fd6e02191123a0ea9c997d9ff65322c4fed8186b98497f3403408d0ad10c53"
+
+[[files]]
+file = "config/adpother/Sources/lava_mixing_water.cfg"
+hash = "048c1c1ea5b467f897a0627c70e8c0f0854b23518f08a3cf5909091a71bcee30"
+
+[[files]]
+file = "config/adpother/Sources/player_death.cfg"
+hash = "cd59bfd172c24318d2da3a5d7e24625f54805175ef26d9eacc82d3aac9bb9c80"
+
+[[files]]
+file = "config/adpother/Sources/player_eating.cfg"
+hash = "bb6ea56432e1fa288a857da64fc4982b2ef88b39590d1cc60caa0ceb39a449f3"
+
+[[files]]
+file = "config/adpother/Torches/atum$bone_torch.cfg"
+hash = "cf8ec4a5443fdfb8e0ac3a40537f54e4c1d2fb1f08b57a008dbc1a1e7190ba77"
+
+[[files]]
+file = "config/adpother/Torches/atum$deadwood_torch.cfg"
+hash = "0c220e66e835dfe512102faa114ef99e5205404e2a6884d8361844e485a1dae3"
+
+[[files]]
+file = "config/adpother/Torches/atum$limestone_torch.cfg"
+hash = "e31d85a9d5993534c535e005b86599e30bfb19292b3e0b9f05699511bac3f479"
+
+[[files]]
+file = "config/adpother/Torches/atum$palm_torch.cfg"
+hash = "2382e3d4dafb4585ea56c5736b902df4c0caa6d76361b56cfd30d1406c980528"
+
+[[files]]
+file = "config/adpother/Torches/atum$pharaoh_torch.cfg"
+hash = "0836e51e8ec2f68dce8c1dd8a38a135e233344a7afdb18ff34945a5d1f6f529c"
+
+[[files]]
+file = "config/adpother/Torches/bonetorch$bonetorch.cfg"
+hash = "0d43f05f231f7c2f34eec87bfea349f650cf3d84c503aa1057fdbcb1a440cfdf"
+
+[[files]]
+file = "config/adpother/Torches/burningtorch$burningtorch.cfg"
+hash = "f2a36ab4ba3a47df97eceb8a08eaae3b35d86fc5bb3c99ee0571c960395db95f"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco1.cfg"
+hash = "6a2b8aaca023fcba513ea25410059d23cfc43110001f5eed5d3b46326506afd9"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco10.cfg"
+hash = "8bcc2ed489945dd2c8c57b03badd844a71442a8aaefd490d49e4ebb0d256dbe3"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco11.cfg"
+hash = "9841365ab23e74665988c68b5df03ec16ca938d17621a9eef8ce662a9fc8df98"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco12.cfg"
+hash = "5219f6036dc1cb1d7f274aff15efc4bb8c3f28e88ae698062fa9d770af3674dd"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco13.cfg"
+hash = "efc220f71a681e113cedbaa7a4161c4f5d823f4f97c62cb709616e4546ec35e6"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco14.cfg"
+hash = "09c49f774dcc12f331cb74f5f8efd02a439449623b428609250ddc221ce68a5c"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco15.cfg"
+hash = "833b6c5836eb056d6b6b5fe51d996d2f59fee525d2c5b8095853436a86fca9d6"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco16.cfg"
+hash = "80736b5ca98ee225c44238e24243f38a0eff8eb2f5b4e9874fb9c3d674d132da"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco2.cfg"
+hash = "e1b6154c89034a0031999435e7732cecd64c20a766d4bb7e3f82f7172fe09b1e"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco3.cfg"
+hash = "98de5ca3ee2b6746d40d6c639e440664ff132f8f77103adc48ce05f7c7a3cc94"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco4.cfg"
+hash = "00895cfa4d3dffd4c5c0896ca7a7e31d00f4065f5f2942e281d0a3f300dc8b42"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco5.cfg"
+hash = "0c6a42279cbe2e0d2fe42dc85141c5f24837132f52918503a05dd4e18f3e65e7"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco6.cfg"
+hash = "d1fc6dde1a5747908927a0535ac0cc40d1917f019dab16f1b3de380f59c6383a"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco7.cfg"
+hash = "51e8d9ebf812eedaed26cbdecf6dce62efb3ba19238ba0c7b4c6a8ec8d2a50a3"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco8.cfg"
+hash = "1cb9889bc1268e58b4c884f15b710461a0fd7f25e36ae402f61b9b9e5a360fdf"
+
+[[files]]
+file = "config/adpother/Torches/harvestcraft$candledeco9.cfg"
+hash = "48f261ade2de730dc20cb8ac3b287bc3b883d199a9928f811ec88bd5893040ea"
+
+[[files]]
+file = "config/adpother/Torches/mysticalagriculture$miners_torch.cfg"
+hash = "d762e5125ffd9f57dfa68c99e20fd7ec01b2c41fdf0d75e80eb7c9809bb8530c"
+
+[[files]]
+file = "config/adpother/Torches/primal$lantern_ignis.cfg"
+hash = "09e02b8e670325f30720607ced7bc90792928a0ab5d505b865629bd221e31174"
+
+[[files]]
+file = "config/adpother/Torches/primal$lantern_nether.cfg"
+hash = "b8f3388fb96f1cac436d69ca9469cd8ebfd105cfcc9e545bb5ed0dfb238e0915"
+
+[[files]]
+file = "config/adpother/Torches/primal$lantern_torch.cfg"
+hash = "46d419f67502fa1f2cf82fc13f480406badc674d27a9541ccec114912f6ed721"
+
+[[files]]
+file = "config/adpother/Torches/pyrotech$torch_fiber.cfg"
+hash = "57bdef4d134fc9870072a2fcb211fbaa3800652bc7121d4fb0cf891c6f76b885"
+
+[[files]]
+file = "config/adpother/Torches/pyrotech$torch_stone.cfg"
+hash = "1a398bf3a7367cb053b9bcd074291f43f09110bbcd0cc8a9e001b78af7710b6c"
+
+[[files]]
+file = "config/adpother/Torches/realistictorches$torch_lit.cfg"
+hash = "6cb70e7e8512db7d2247c02820e87d61b6e56b9c0aae57ff82218f3c3330e488"
+
+[[files]]
+file = "config/adpother/Torches/realistictorches$torch_smoldering.cfg"
+hash = "a60a18bc4e800b9fed7cb6b0789d65a8470159fe5565d1a44840a2b76d3cafc7"
+
+[[files]]
+file = "config/adpother/Torches/tconstruct$stone_torch.cfg"
+hash = "fd48eec9bc594c23eeb7dee0d607936a124cb8d9d1ebe93830f2e4ca06d4633c"
+
+[[files]]
+file = "config/adpother/Torches/torch.cfg"
+hash = "2d9c8cf3931596d6c6bbc6d5721417046b61790660703401b933b8d74916cbb9"
+
+[[files]]
+file = "config/adpother/adpother.cfg"
+hash = "d8e4f2e137f05aa98f22e78e7fdc2d4cbaa0c5103e8f6364316ea53c66c55e0f"
+
+[[files]]
+file = "config/advRocketry/Centrifuge.xml"
+hash = "a7b514eb86691e27ae056edb12f6cb8a1efee998de1cb31e3de69bf228bf7734"
+
+[[files]]
+file = "config/advRocketry/ChemicalReactor.xml"
+hash = "3e5ab4f1d4a293d6405d1c18621bb52aa1f64c71f48ca762d835665a47203e92"
+
+[[files]]
+file = "config/advRocketry/Crystallizer.xml"
+hash = "8237ba90732053ef20881dc2e47adab156914d259d3af4de3f66efd829551811"
+
+[[files]]
+file = "config/advRocketry/CuttingMachine.xml"
+hash = "5c96564904bdcf129498395ec16193a7f06b9865eddcd741bd03eddb245de1aa"
+
+[[files]]
+file = "config/advRocketry/ElectricArcFurnace.xml"
+hash = "a94ceb5f55ee7c31c354779d44cf114315c2f611ac58b8a4cda956b67640325a"
+
+[[files]]
+file = "config/advRocketry/Electrolyser.xml"
+hash = "59b49aef7613e439ffbc0e3bd0382417d395e6470a97ad59abe8c26432720fdf"
+
+[[files]]
+file = "config/advRocketry/Lathe.xml"
+hash = "7a6ad45f886a4acabeef53bfee13c3c27d33b9e5a6b0490f516d211b98cc5a95"
+
+[[files]]
+file = "config/advRocketry/PrecisionAssembler.xml"
+hash = "5cc170083422235203acda5915b813019293923fd7e75752b70a898501b55390"
+
+[[files]]
+file = "config/advRocketry/PrecisionLaserEtcher.xml"
+hash = "f8e04353937af2da3aa67830e5b9b62c2a8d66b6d685cf7e39fe1464d4a62c02"
+
+[[files]]
+file = "config/advRocketry/RollingMachine.xml"
+hash = "24a984cd401b347bc68b23e2d428fee38dd5c5ed8e096b841cd6bc6db9e28de6"
+
+[[files]]
+file = "config/advRocketry/SmallPlatePress.xml"
+hash = "1f6dbcf7857f2481c5fdab362596705da5cc0d0d07eb8ee2d85bfae1c0f241f0"
+
+[[files]]
+file = "config/advRocketry/advancedRocketry.cfg"
+hash = "4c9d63b8b26ec32c8b66212de0b489e2a2046addd0bf54734e304c8a0d5677a1"
+
+[[files]]
+file = "config/advRocketry/asteroidConfig.xml"
+hash = "26a8c4a8bb63dcf13cee4417fb19a794ff45ab1c0fe15d7c59849ef3d732209d"
+
+[[files]]
+file = "config/advRocketry/oreConfig.xml"
+hash = "16373fc73f5185845db08203cbdde009fca95f2b1787a47a10b47a3ce72ccfcd"
+
+[[files]]
+file = "config/advRocketry/weights.json"
+hash = "3e0055b25d62922c4fc2171daf70d48497211db621c6944338c32babf0a4e272"
 
 [[files]]
 file = "config/advancementbook.cfg"
 hash = "195d272bcbf8e180bb4a8d35330ea6fcb68afd6f07399477b663a2befeb7c31f"
 
 [[files]]
+file = "config/akashictome.cfg"
+hash = "1eae3702055f73d26abcc2e0d105cc5dc1e7f6fe40cd469335beaad29981367d"
+
+[[files]]
+file = "config/alcatrazcore.cfg"
+hash = "43f09e6e563f42c90424a465c8c92f6cca7f304c4236069db3c4ac5c9c6ae4d5"
+
+[[files]]
+file = "config/ancientwarfare/AncientWarfare.cfg"
+hash = "1dde7f1aea58f7c23cdd846b32bbbec080494b4a8c6c083d75e049a55692a02a"
+
+[[files]]
+file = "config/ancientwarfare/AncientWarfareAutomation.cfg"
+hash = "514a2b9b8b80ccd2e11edce688408a785f7c4348352c9e68c0a504151d4500db"
+
+[[files]]
+file = "config/ancientwarfare/AncientWarfareNpc.cfg"
+hash = "428240189a43c5023d447b8f0c2f99fe8b2b6258e649e4076a992bfa84e2f5cd"
+
+[[files]]
+file = "config/ancientwarfare/AncientWarfareNpcFactionStandings.cfg"
+hash = "488b411a8d52f3bb65ad05c2841c937ad542c3df8469c51366f4eec187cced0a"
+
+[[files]]
+file = "config/ancientwarfare/AncientWarfareNpcFood.cfg"
+hash = "8e1fe786393f5c9b8e359ddbbb3aa06570a820b7bb54d086e715d9b011b1aedf"
+
+[[files]]
+file = "config/ancientwarfare/AncientWarfareStructures.cfg"
+hash = "978d5bbf3ae0af81804ce575da6a8be3a8ecb3a7fa77af821dd0c2ab89e75026"
+
+[[files]]
+file = "config/ancientwarfare/AncientWarfareVehicle.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/ancientwarfare\\AncientWarfareVehicle.cfg"
+hash = "a775d2078bbd6da2bb85938449c07bf037740889e1e7104226f75902b61b4c23"
+
+[[files]]
+file = "config/animania.cfg"
+hash = "bb57f4153f6f6656880fbd5112a3893d81db8129c56bef488e9c8dd1fb1d0e53"
+
+[[files]]
+file = "config/animania_cats_dogs.cfg"
+hash = "063b4f41d226a352bd0b06bc8def26aa630ddc31760567bc9ecbbd6af94c95e4"
+
+[[files]]
+file = "config/animania_extra.cfg"
+hash = "015e9b64b4134b3db8bafdb053e8ba7f266144bbc988de3b33a45a638de9254d"
+
+[[files]]
+file = "config/animania_farm.cfg"
+hash = "e6f5ae39a1cc8faff2dbf43415862550e97cdf1d7d59f96ae2467dcc5679ba6f"
+
+[[files]]
+file = "config/antiqueatlas/antiqueatlas.cfg"
+hash = "372a1cbaeb69513cdb4b99f956c37b113d7fd9c8abee844b54fd2ad9c69cb9fd"
+
+[[files]]
+file = "config/antiqueatlas/atlas_overlay.cfg"
+hash = "b930823cfb5a6245053f1086e263b1c88d458cf37c925e6d1d1ad44ab68e03a8"
+
+[[files]]
+file = "config/antiqueatlas/biome_textures.json"
+hash = "7797dc25291ff05de6db0a25a7e23a03db802acf0826a73d978210677eab33b2"
+
+[[files]]
+file = "config/antiqueatlas/markers.json"
+hash = "c3c3512d623595b202ebbba90bda1c843fae396784ffd80628d674de0fe9bcdd"
+
+[[files]]
+file = "config/antiqueatlas/texture_sets.json"
+hash = "c92fad76623beceae72f6ec7dbe2d6d51b19a1f1aba90948f54f945493cb41da"
+
+[[files]]
+file = "config/antiqueatlas/tile_textures.json"
+hash = "5706d365f7e9591f8c414d2d5a93fb025c49ec8d9524cf214369687b02b06f73"
+
+[[files]]
+file = "config/antiqueatlas/tileids.json"
+hash = "deb6b25f78b1a614a6f0fb1a044cc2e743034fe7efe5dc5dc47fd3c518efdb61"
+
+[[files]]
+file = "config/antiqueatlasautomarker.cfg"
+hash = "cdabb4c2720c1802a867448bc1af48e25086054c7fab5ca90e36a1b334901617"
+
+[[files]]
+file = "config/appleskin.cfg"
+hash = "3db18929798bc16d0af30df80c2e5753a9622c8232858806cbe500a8c5e25bea"
+
+[[files]]
+file = "config/armoryexpansion.cfg"
+hash = "b192d39ad9d0805d70c7e5e4eb8223f36956e085846dbe5412b2281a8bba4721"
+
+[[files]]
+file = "config/armoryexpansion/conarm/conarm-config.json"
+hash = "d34cd9be2379d00447eaf18e20b73df256cb422fccdf8d6a4e5ead58ebb1efdc"
+
+[[files]]
+file = "config/armoryexpansion/conarm/conarm-materials.json"
+hash = "d17126646a680c7fa57acce1722cc187b17077ede1afe432745a119eb026f732"
+
+[[files]]
+file = "config/armoryexpansion/conarm/conarm-traits.json"
+hash = "4c321e7401c3fec653680f0800fd1fe19f7ef1e857a89f15238e462dfd795146"
+
+[[files]]
+file = "config/armoryexpansion/custommaterials/custommaterials-alloys.json"
+hash = "15b5aabcf8d0954ac6cd252b9547a0652acaae8a62d16d3053a40746167698ea"
+
+[[files]]
+file = "config/armoryexpansion/custommaterials/custommaterials-config.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/armoryexpansion/custommaterials/custommaterials-materials.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/armoryexpansion/custommaterials/custommaterials-oreDictEntries.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/armoryexpansion/custommaterials/custommaterials-traits.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/armoryexpansion/iceandfire/iceandfire-config.json"
+hash = "d823d036d13d1eb689cf524eb5fb685ca49947c3dc75a3ca8b560a3e9e7f85c2"
+
+[[files]]
+file = "config/armoryexpansion/iceandfire/iceandfire-materials.json"
+hash = "bdada24fde28241e196766ca2224c270afa9bea699b429b771fc2b8966d478c0"
+
+[[files]]
+file = "config/armoryexpansion/iceandfire/iceandfire-oreDictEntries.json"
+hash = "01daae5f7ee98705e2f04e35e481f293096076eeac4a48a95fa796cb2af60fc5"
+
+[[files]]
+file = "config/armoryexpansion/iceandfire/iceandfire-traits.json"
+hash = "2b9910261ea165c8da255c251430918dbfc4f35ae8d45adbba79ab6c1f8009da"
+
+[[files]]
+file = "config/armoryexpansion/traits.txt"
+hash = "d7a70409d69919a6bcc85d6e9c4c9e1858f0c6b03b36ba0d23b3a6a7e603846a"
+
+[[files]]
+file = "config/astraladditions.cfg"
+hash = "69ac292f0229e33aac0a279ed686dee7d1f0d641a41cf111e909eb3e21cdeef3"
+
+[[files]]
 file = "config/astralsorcery.cfg"
 hash = "eb94b33e40e65b1f2997de8f30b3d161ea6cdce35a04f86ec40300317d5d2750"
+
+[[files]]
+file = "config/astralsorcery/aevitas_ore_perk.cfg"
+hash = "7be4568d881c9932c7e49cc6e009ce5bcddf7a50ba194f0c7cc5381a1f5abb03"
+
+[[files]]
+file = "config/astralsorcery/amulet_enchantments.cfg"
+hash = "11ffba1c46bbe93908a9cf958a2f60ee818b760d5923e4ce6e05fd4096bd0971"
+
+[[files]]
+file = "config/astralsorcery/fluid_rarities.cfg"
+hash = "2de41537f1044aa54eaba159b595708d83a714b7c77dc2a11394f685f4943bde"
+
+[[files]]
+file = "config/astralsorcery/herdable_animals_blacklist.cfg"
+hash = "bbd5a8ed5e8f2450e0e6998f3db1c681b7fed9cb3e93a1e9b0f6137069752f90"
+
+[[files]]
+file = "config/astralsorcery/mineralis_ritual.cfg"
+hash = "7be4568d881c9932c7e49cc6e009ce5bcddf7a50ba194f0c7cc5381a1f5abb03"
+
+[[files]]
+file = "config/astralsorcery/perk_void_trash_replacement.cfg"
+hash = "7be4568d881c9932c7e49cc6e009ce5bcddf7a50ba194f0c7cc5381a1f5abb03"
+
+[[files]]
+file = "config/astralsorcery/treasure_shrine.cfg"
+hash = "7be4568d881c9932c7e49cc6e009ce5bcddf7a50ba194f0c7cc5381a1f5abb03"
+
+[[files]]
+file = "config/atlasextras.cfg"
+hash = "81f1e207b85a19b3d0a1be1e33999922bef6c2e1f2b274f8e54ddff07fda6066"
+
+[[files]]
+file = "config/baubles.cfg"
+hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
+
+[[files]]
+file = "config/betteradvancements/betteradvancements.cfg"
+hash = "c37ad8efe39441f40bb046367dd34d9d5f7c92de76938ea4888f84c7f927b31a"
+
+[[files]]
+file = "config/bettercaves-1_12_2.cfg"
+hash = "7845dc2c6ffd6e3ea7b6fe4b1ec71d732a0ecd3beb655408b47651f93a04f206"
+
+[[files]]
+file = "config/betweenlandsredstone.cfg"
+hash = "7b8948b55d80fdee33116635483003286d9f1b17ed59905d2932a10fb034aad1"
+
+[[files]]
+file = "config/bhc/BaubleyHeartCanisters.cfg"
+hash = "15c56e861737af1693eb8ee10633baeb18e5cab7c10c7c26bdaef6384d8b76cd"
+
+[[files]]
+file = "config/bhc/bhc-drops.json"
+hash = "7a6ee211860e15bc7978fb52d70dd95aae47fd8e603a7bea5e544044b361c11c"
+
+[[files]]
+file = "config/botania.cfg"
+hash = "83b9e056a9f8109e23a347f8217156aa1bd72ec1d0d7974c0a4f91a3f75576f8"
+
+[[files]]
+file = "config/carryon.cfg"
+hash = "d952449dd76c7bd71fba2d18b5b89d77fccf0d3076b51c0985171793348f4bda"
 
 [[files]]
 file = "config/chunkanimator.cfg"
 hash = "b46d77694b778b921fb223b13fc135d04f202d19187f2a26f9f8275e4f138256"
 
 [[files]]
+file = "config/codechicken/supporters.json"
+hash = "17dbbdaf349fe74ceeecfdce8c5e54247ccaf83775749d9194d20d23674540f0"
+
+[[files]]
+file = "config/codechicken/supporters.marker"
+hash = "102b71dcdfa6f8071c53b756ce0bc145cee2dae1849b467501ef8e5774bfedce"
+
+[[files]]
+file = "config/codechickenlib.cfg"
+hash = "cd362380ceff6360c6fd1312599b277942674106fb430866d3efc834556a7d1b"
+
+[[files]]
+file = "config/commoncapabilities.cfg"
+hash = "3d7412578faee65d2e4bb144a55c051ac11c5629b1205eb2877e929e8769a7e5"
+
+[[files]]
+file = "config/compactmachines3/settings.cfg"
+hash = "306cfbe7cf598fec42c8b7b306931e4df10c9972a0dabece9d930b51b87e57a5"
+
+[[files]]
 file = "config/conarm.cfg"
 hash = "36c7c7ce4cbe1cb47e341bc08dc22b2deeeb4d5d20eff522bebd3c1ad0c53432"
+
+[[files]]
+file = "config/cookingforblockheads.cfg"
+hash = "6e7b68927efcb3596c143cbc232c90216212a5f224118b560009d3f086576ef1"
+
+[[files]]
+file = "config/corpse.cfg"
+hash = "d2fb9c5052467296884a72df2571f276f9eb2635c080e44b33072bc00679f5ae"
+
+[[files]]
+file = "config/ctm.cfg"
+hash = "2695969995e5c4d34e6f350bc2bac289b8ab0e80bca9fce098f5e10c370389d6"
+
+[[files]]
+file = "config/cyberware.cfg"
+hash = "bca6a70683d69a08244aa0306e11439755c578fe292000675ca4c55fad7bf8ef"
+
+[[files]]
+file = "config/cyclopscore.cfg"
+hash = "3d8212d15557dfe7e2e1b2b6bacb0af1d9c95de83a684a04b1a62f099fa00997"
+
+[[files]]
+file = "config/desertcraft.cfg"
+hash = "d0dd897fe9dd166af88056c3b9239473a1b51a4dfa18872989aa0fe0a9fc48c3"
+
+[[files]]
+file = "config/dimdoors.cfg"
+hash = "c6a2df4af2b02fb7e4514a56b9c3bfaece423325f109177dee8e697ba01dd314"
+
+[[files]]
+file = "config/distinctdamagedescriptions.cfg"
+hash = "2137263df5ac31736beb9f5efb62b6ce0f5170b43eaf467bdbfb602862f850af"
+
+[[files]]
+file = "config/dynamictrees.cfg"
+hash = "d61ab6117ded9ff9e23eaadf3e8b324173407e2526712795737f610698a3a12a"
+
+[[files]]
+file = "config/dynamictrees/dimensions.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/dynamictrees/worldgen.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/dynamictreesintegrateddynamics.cfg"
+hash = "1a1fdcc106ba4b3603f4a3aeecbd510792621050444d845a69c483a7b6ab16f0"
+
+[[files]]
+file = "config/dynamictreesphc.cfg"
+hash = "e3e4a5adee11b7280f1de4aa720d02768f00caf9f530740b258940b4fe9eebbb"
+
+[[files]]
+file = "config/dynamictreestbl.cfg"
+hash = "aef637681f471eae3ec4c3ccb605db46d9871915f6025a617f0004c0c2f90802"
+
+[[files]]
+file = "config/dynamictreestconstruct.cfg"
+hash = "9f60aa7fd0c75f1dc99149a86984b4a1d3086a4046ca1f32298240c1ade86249"
 
 [[files]]
 file = "config/electrostatic.cfg"
 hash = "94578536173cd2fdd20a3ec9f176784904855a6569b1055bdfb69b119473005d"
 
 [[files]]
+file = "config/extendedae.cfg"
+hash = "7f4633bb218e90ea9f3760465643810623ecb54ea5253bd170e47683f37d4b40"
+
+[[files]]
+file = "config/fantasticlib.cfg"
+hash = "c93eaaa03babcc3351cb534319ecbc9ce9573d0742caf38963379be0f427e203"
+
+[[files]]
+file = "config/fantasticlib/reference/biomes.txt"
+hash = "621d4d4809f3a540a7f60eaff0c2e50e2dbdf3395703fd7cb09fa28f85295acc"
+
+[[files]]
+file = "config/fantasticlib/reference/blocks.txt"
+hash = "aaaa5e4649f25efe6a3b493881fee0fff489d2135d416a18186524adbc571df4"
+
+[[files]]
+file = "config/fantasticlib/reference/blockstates.txt"
+hash = "dc4587265bd457f46d2dcea29f7bf4074bda70f31dc5a615bc055fe68ed7d5ea"
+
+[[files]]
+file = "config/fantasticlib/reference/enchantments.txt"
+hash = "3d2f261071a8c63f354099fbbf8ea9d36cd9bb400445ae4c466d4ad77cc52c02"
+
+[[files]]
+file = "config/fantasticlib/reference/entities.txt"
+hash = "fea54596d9dc48f54e4ab8046f5948e2bd0a120943b8e5593d0fe92f47227bdc"
+
+[[files]]
+file = "config/fantasticlib/reference/items.txt"
+hash = "5e93e70c7bbb5068f3e7c1307b1bdd835ad5c75a4c8173836c42e42ecd6f8d4b"
+
+[[files]]
+file = "config/fantasticlib/reference/keybinds.txt"
+hash = "ba83a7172590a40c038809c09afdae0585a378b162b30d79072beaf43cd04a3c"
+
+[[files]]
+file = "config/fantasticlib/reference/loot_tables.txt"
+hash = "fae5d95ff5ffbbfd278f0d8f7dd5c34fd088024bef80b29e5ebcb41e027b2c90"
+
+[[files]]
+file = "config/fantasticlib/reference/oredict.txt"
+hash = "f1b5b7306b8e7f2f7e17c9de0661e1070673a13b7c39d7ae6db06fd92661e3ad"
+
+[[files]]
+file = "config/fantasticlib/reference/players.txt"
+hash = "ae6d25426c5c162047144c6a3ee1266f40e818dd03a2c4545c793a96f7ace427"
+
+[[files]]
+file = "config/fantasticlib/reference/potion_types.txt"
+hash = "ca0043467c78ee281dd6b49a7738414a44d8a0e7211b42c3813b71a09dbfeee7"
+
+[[files]]
+file = "config/fantasticlib/reference/potions.txt"
+hash = "9b6b9b4112ac9141f65f6d9e4d61e0ec424344f2e5293f7174174d803a0a2504"
+
+[[files]]
+file = "config/fantasticlib/reference/recipes.txt"
+hash = "9fd7a4eab9d72ea48ad57fbcfda1419276f90fc0024d455b51b26c011cc6ec39"
+
+[[files]]
+file = "config/fantasticlib/reference/slottings.txt"
+hash = "73adba2ff5ff4cb62cfb46347ccbab58c49112ed6a84eb504350a58cedd89106"
+
+[[files]]
+file = "config/fantasticlib/reference/sounds.txt"
+hash = "7a69c950dfa59903bb99b2b1294476e43c5d7480d9c142c60ed8ca20c104969c"
+
+[[files]]
+file = "config/fantasticlib/reference/villager_professions.txt"
+hash = "94b40dc1453fbe55f9054e0a1c311aa3561d3e2c6f0f009802a165573de98caa"
+
+[[files]]
+file = "config/fastbench.cfg"
+hash = "4a8b6f5964f023cf48fbf6405d4b9b1fa7c92bd81102ec11042a786d681ddb84"
+
+[[files]]
+file = "config/fastfurnace.cfg"
+hash = "3cd0d4fb0bb169e675ae3ff1566b9651e71e8047162ae308df060920ff0eb1a0"
+
+[[files]]
+file = "config/fermiumbooter.cfg"
+hash = "2429f598dc13e3882b949e0a7ad1d2453ac6c3032942623c5412683d8eaefe45"
+
+[[files]]
+file = "config/flyringbaublemod.cfg"
+hash = "a4a0b69ddb5d1eabcb392ceef98e38cb963349ae0d547ba817851f6b12151ffd"
+
+[[files]]
+file = "config/forbiddenmagicre.cfg"
+hash = "a80885b0541fabd61bbd1b66a5f885182ab562ba4c1099751d974a2d9bbcb261"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "cccdea48d5b1029363ba61b162217653a11b54bf9be160134653b54fc24379aa"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "892a1b4142706c1a3898df9e1de34cebe9e2a0da62b572a2c40d98b413a7f614"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$frozen_ocean.cfg"
+hash = "326fc2780983de2dfa8834f49e12011d62cf5cba7d5aa9b0432c78c5093ba426"
+
+[[files]]
+file = "config/forgeendertech/forgeendertech.cfg"
+hash = "dd22baf804749c81ff79522566e5c7ce62439d459cccc2e8e03acbb66c521482"
+
+[[files]]
+file = "config/ftblib.cfg"
+hash = "e9c807b6a4ac7a3075018002ea0f5e822b3dd01e36e6590a20f2e590431f0c5b"
+
+[[files]]
+file = "config/grimoireofgaia.cfg"
+hash = "821168b439116c453a15fee7305515ac1f452582b3c1d5bee69cd8481a933185"
+
+[[files]]
+file = "config/hammercore.cfg"
+hash = "f7e42c229c1301c6e1830b14de07a84175f582f749289102473eec307dee1200"
+
+[[files]]
+file = "config/hammercore/tile_entity_tick_slip.json"
+hash = "eff4c2594988239af664a5731ed8dbaea89285d478117e4c417d369d98c60c2c"
+
+[[files]]
+file = "config/hardcoredarkness.cfg"
+hash = "3a26b4546784733d718c1b5cc6be5810dceafcf18e8314d7dbb2606a65029eb9"
+
+[[files]]
+file = "config/harvestcraft.cfg"
+hash = "35cc24a02046e91f0a5cadb420a028a0e87fc94f3162499e3a36b5ef91dd23f7"
+
+[[files]]
+file = "config/harvestcraft_fruittree.cfg"
+hash = "75127dba13a38bab9ded2aa8d45b974bd79dd3f51d550713b3f21dba43ef1c01"
+
+[[files]]
+file = "config/hungeroverhaul/HungerOverhaul.cfg"
+hash = "9a0f9b92916bce69908e0684fab76df341fcdbb900b48527a293f4c7fde5ea49"
+
+[[files]]
+file = "config/hungeroverhaul/blankslate.cfg"
+hash = "4384fea00c3fedf024359ebc3a3a5ba7ad7bb931cb5fb6279810686b19455bec"
+
+[[files]]
+file = "config/hungeroverhaul/default.cfg"
+hash = "0b056d9d84d32a482228ed090738e1b5b4e9440873180dec81fcba3925718a2d"
+
+[[files]]
 file = "config/ice_and_fire.cfg"
 hash = "aef56174b261f11101a276f5d9164c81807f18d1999362488d7c61ad38920184"
+
+[[files]]
+file = "config/igwmod.cfg"
+hash = "b009114e923af3b280640ec647d2c497b45ebfdce053a8ff60f08f10441cdcff"
+
+[[files]]
+file = "config/immersive_energy.cfg"
+hash = "9e5073de4f897971dc2262fc61c1f94bc78708b0f4831039344a54a4247dc53f"
+
+[[files]]
+file = "config/immersivecables.cfg"
+hash = "71ec5962556cf223f4620c9fa344bc9351baffd14416f87e6bf9b988100ef81f"
+
+[[files]]
+file = "config/immersiveengineering.cfg"
+hash = "e46fec2da4d1223152cd5d4efc7a738f02bb40248621f84f552dbabefd23cad5"
+
+[[files]]
+file = "config/immersiveintelligence.cfg"
+hash = "cbb27bea285ae27e4ed1725c2108882bb581868d1dca1d8106f43056286c0372"
+
+[[files]]
+file = "config/immersivepetroleum.cfg"
+hash = "a8aa60e53488c61bbcab8ed800281e4711a3b616e9ed2dd92f3b1bddd4baf960"
+
+[[files]]
+file = "config/immersiveposts.cfg"
+hash = "d2217f258947cf45f5bce395eacf4738395c6a8dd20da5d802a0ef1aba8a9185"
+
+[[files]]
+file = "config/immersiverailroading.cfg"
+hash = "c91d5e62dc531e85664c61b0b6f65bd0b8db453f536dc1ebfd88bbf52ef2829a"
+
+[[files]]
+file = "config/immersiverailroading_graphics.cfg"
+hash = "ffbac27d185c96ef56db5202cc0f773439dde120bd9ab2aaac5ba0cf1c6c15c6"
+
+[[files]]
+file = "config/immersiverailroading_permissions.cfg"
+hash = "5f8644271ccc99183610089aa0a89af8fd05a01ceb40ab72042dcc444a9c54c1"
+
+[[files]]
+file = "config/immersiverailroading_sound.cfg"
+hash = "9f501d9f611c172640b53b0c4cce52271b2ee501eaab021e0026f5fa859798a4"
+
+[[files]]
+file = "config/infernalmobs.cfg"
+hash = "63b415bbaa1249eae0a2a1bf6b37e824c4b7408157ece1dc2e1094315b10b31d"
+
+[[files]]
+file = "config/instantunify.cfg"
+hash = "0e6bbe95083afe4e5279d9a39ca165bb3b23fbedfb757e5226b962409e51a971"
+
+[[files]]
+file = "config/integratedcrafting.cfg"
+hash = "dbbdb9cf375454eb446d8f7825b67310c0daf8e17620181c10cbd40f28b31649"
+
+[[files]]
+file = "config/integratedderivative.cfg"
+hash = "ab4a8caa46f0fc859d4bd848230404593447eaa541857867edbe8745e49bf269"
 
 [[files]]
 file = "config/integrateddynamics.cfg"
 hash = "905fdabfdc990ff6675e07443c8698b580299ce261066c8cad716cad4cb32abe"
 
 [[files]]
+file = "config/integrateddynamicscompat.cfg"
+hash = "ed3457134e9df1a23435a936f52b01bc28dcf391cecddaa4b9f850f740eb8e25"
+
+[[files]]
+file = "config/integratedterminals.cfg"
+hash = "19156f0509611220ea19db2d75b4f86007cafdffa4f87ed1930462324161651f"
+
+[[files]]
+file = "config/integratedterminalscompat.cfg"
+hash = "195cf4909ea49209965020fc3aafaf56e8cd0f405f65a17f244724030e5f962f"
+
+[[files]]
+file = "config/integratedtunnels.cfg"
+hash = "9400745b0fb6722b777d40068df75fac53ef0f74ac7db3d978f147d6e5e36bd2"
+
+[[files]]
+file = "config/integratedtunnelscompat.cfg"
+hash = "636cd335206d397b6d5e189f19a6eea6e136e00212362f726d78a8f5e3829aec"
+
+[[files]]
+file = "config/jade.cfg"
+hash = "4d932b001ac6b9dbcd706fd7c84fde017a526a3d5c69272ee53fa23567a92397"
+
+[[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "85600d199001b191af076a173bc9e6fe9095027a6c9486e108123b38eb6a55d1"
+
+[[files]]
+file = "config/jei/jei.cfg"
+hash = "9f573909961d4e6ac2778c93fcb1090acf680760d56d5c80f8db19ce886c24d2"
+
+[[files]]
+file = "config/jei/searchColors.cfg"
+hash = "aa2d125660ad731dff9aec92c745a6947e204dba56ecc95d6907f1883d26ec33"
+
+[[files]]
+file = "config/jei/worldSettings.cfg"
+hash = "6acd7a3b1b2fc07d8d8540eac13440b3621da2a00d19fe9fc4a610ef91b77167"
+
+[[files]]
+file = "config/jeresources/jeresources.cfg"
+hash = "047cd00d92a1f69ee1f857cc7bb1a5d08a40cbdf81ddee8dc8a8fd00d5ce89d2"
+
+[[files]]
+file = "config/justenoughdimensions/justenoughdimensions.cfg"
+hash = "e240ef02127462e3a0c55a619872190bf7d98ea3b323945f604fc04cc8b34217"
+
+[[files]]
+file = "config/justenoughmagiculture.cfg"
+hash = "ae67b082def78b07dc4383820c8197efd148d2fbb626e6f70d4f3fbc97f6b8f6"
+
+[[files]]
+file = "config/libvulpes.cfg"
+hash = "10aa77382240cbce5fcfb5b84c2cbb7dc1f2bdbc0fcd1d73b6973c4b5a2f076c"
+
+[[files]]
+file = "config/mcjtylib.cfg"
+hash = "e439d2c0b4d00ab4207c63ab011e3cea27e358c6fa600314bc02841fdf1b6ffc"
+
+[[files]]
+file = "config/mctimmersivetechnology.cfg"
+hash = "007f5fc35e1154f141b9bf3ccfd79367b706f64bda7e0e6cf8707f9a7d5ae374"
+
+[[files]]
+file = "config/minetogether.cfg"
+hash = "36413e335d2f7d6200cfed4ce0fec745aa04f17c65199e33045fc7960f207147"
+
+[[files]]
+file = "config/moartinkers.cfg"
+hash = "eb4b73e92622a8f5f719a2708312668dcbcedcd721402496ee088b06318d5a82"
+
+[[files]]
+file = "config/naturescompass.cfg"
+hash = "775e84e5fcc57c495eb3aec4abf820e88d4c5d343cb9922c2e7dc75418833329"
+
+[[files]]
+file = "config/normalasm.cfg"
+hash = "bed90db4efe990407f431191f432c8c532957c2e0d86a0f9e8dd1c375e9ce931"
+
+[[files]]
+file = "config/normalasm/methods-stable_39.csv"
+hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
+
+[[files]]
 file = "config/nuclearcraft.cfg"
 hash = "ff9d9fc93b982104f8943b7a49dcb4de3f5e37c194b9296234152c5709144eec"
+
+[[files]]
+file = "config/nuclearcraft.info"
+hash = "298fa826307725394dcc06ec424bb1ba32d2a9002196761b19b68ab5a06168ea"
+
+[[files]]
+file = "config/nutrition/effects/example.json"
+hash = "547d76223000afb92acda8a8e90bd6ef9923d8892b8496272a05eda2f5e87166"
+
+[[files]]
+file = "config/nutrition/effects/mining_fatigue.json"
+hash = "80a1dc9e636df3385fd97e37d9af1258d256f46e698d4c335a34ae72353eefb1"
+
+[[files]]
+file = "config/nutrition/effects/resistance.json"
+hash = "e9f231c68bbe2f6e0f725186f94f317dcacc6ecddcbf1fa8e5f201e53faba572"
+
+[[files]]
+file = "config/nutrition/effects/strength.json"
+hash = "c028940a1ff1fed5472671227706d32110f049e1f746047404be824ef900a81d"
+
+[[files]]
+file = "config/nutrition/effects/toughness.json"
+hash = "c91d1af60916cb36c3f50f2e6e752cb9fb38505d922df347e552449de64865da"
+
+[[files]]
+file = "config/nutrition/effects/weakness.json"
+hash = "fa85a4d88706a9298533033b1cabe7d071b55c7828e9e8a3df74924393c953b4"
+
+[[files]]
+file = "config/nutrition/food_hint.json"
+hash = "ac8e231e12f21b37d57db8ef1cd43603cf5ad2c9fb7a290e79b5d091224856d0"
+
+[[files]]
+file = "config/nutrition/nutrients/dairy.json"
+hash = "4816bf0b5d76514dda6cb87e7f839f35b138819fa2419a5d94b777aad02c305e"
+
+[[files]]
+file = "config/nutrition/nutrients/example.json"
+hash = "98abc7451e597d708ebaf4074b9129786aa819d5adde6025290750471ed64127"
+
+[[files]]
+file = "config/nutrition/nutrients/fruit.json"
+hash = "251bfafa428566c03992ebb33eb772083dd63642b2a7e2f2fea037ca999fd5ec"
+
+[[files]]
+file = "config/nutrition/nutrients/grain.json"
+hash = "45654a67f43777df0b4987df052c7ba98008eb7b14d779efbe5b2fed186b99b7"
+
+[[files]]
+file = "config/nutrition/nutrients/protein.json"
+hash = "8656031b122cc4b24fbc564a1671b7f93de5a5690b948133766aabd8224e52be"
+
+[[files]]
+file = "config/nutrition/nutrients/vegetable.json"
+hash = "885fa615206e6ddec7fbd7d01b946da1615aa14d98b6d5084ab224d5cb73a648"
+
+[[files]]
+file = "config/nutrition/nutrition.cfg"
+hash = "a00ff13b5ea4afa0c2a1b70a88c4c766348157c279c275da55993e0d83c799e5"
+
+[[files]]
+file = "config/ocid.cfg"
+hash = "76b48d743d541ff372370df8def2fb3b1f2df634f078ae1b66bd905495d1db5d"
+
+[[files]]
+file = "config/ocsensors/settings.cfg"
+hash = "3e48e2991362060d786791f2cd43a2c382da2fec26fa1033e75a9461c7780909"
+
+[[files]]
+file = "config/ocxnetdriver.cfg"
+hash = "519a462e60dbce8b8e40735796fa362b447d21e63cb5673627e0482ef22e2e72"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
 hash = "df2572c307d6e40b5a40573547592becae753fe3ea0d1e43c84ab5560404fdd8"
 
 [[files]]
+file = "config/overpoweredarmorbar.cfg"
+hash = "fe7fd50f0be0bfe087010ec34546b70537c020673d21b961d92b905d91fb726a"
+
+[[files]]
+file = "config/p455w0rdsLib.cfg"
+hash = "0643e2135039e25a43c3bc9a3f0644281bf7a59b99eeab1ea98c418df0d7f2bc"
+
+[[files]]
+file = "config/patchouli.cfg"
+hash = "bb3aeacdd93f01a07d3b1ad459399e5d3bb0c96eb3c5cf078fbb519a09d7c81f"
+
+[[files]]
+file = "config/placebo.cfg"
+hash = "77919b9509541ecf9882c91cd6b73b8e2c31b8b2f7157275c0ad6b8e25fe769b"
+
+[[files]]
+file = "config/pollutantpump.cfg"
+hash = "5033763fe82bbbc95d5275a98777f07ca9c1f0b95278ec6c1778136175d56823"
+
+[[files]]
+file = "config/realfilingcabinet.cfg"
+hash = "a697255c38076da007b61147cba32d7c1dd31061cf34a08c1f30304fbf24f955"
+
+[[files]]
+file = "config/redbudtree.cfg"
+hash = "9d310ab378b07d153bf92e07139eeeeb4f75494f61cdd32cec674192da4aa0ce"
+
+[[files]]
+file = "config/returnoftheancients.cfg"
+hash = "a720ad18bc1cccc26aefad2e032c01ec5c4ebba3406d66193fca0fada8f4e11e"
+
+[[files]]
+file = "config/sarosdefaultoptions.cfg"
+hash = "a1c33490a0691b2903008c1851282f0f7155c330c46b21f181ffca73d55082f8"
+
+[[files]]
+file = "config/sereneseasons/biome_info.json"
+hash = "e6e907f40f8e4296186bad8ac49df09a9b4a30e4c6a556ad4b2f5618fb6667d2"
+
+[[files]]
+file = "config/sereneseasons/cropfertility.cfg"
+hash = "b04436101f2e63b82e7b5daa7c214320182b5c92670c8b163d21e78e3b4e30e1"
+
+[[files]]
+file = "config/sereneseasons/seasons.cfg"
+hash = "406a10ecb6c4031a256f3a49ccf361f10efe000087a01fc2b5be4a5ccdfe8bac"
+
+[[files]]
+file = "config/signpost/signpost.cfg"
+hash = "019e1e578ff3923bea6fd6339deae31dd59bda732af7566f34ac8e19f9c73304"
+
+[[files]]
+file = "config/signpost/villagenamesfirst.txt"
+hash = "00e891a25246dea2705ae04f4825959e27c084da383bd2db074db75d0fec5cb5"
+
+[[files]]
+file = "config/signpost/villagenamessecond.txt"
+hash = "043de99d55d680b5446fd68c815d18e98d4ea368f235cdc774ac9862f7f552b4"
+
+[[files]]
+file = "config/signpost/villagenamesthird.txt"
+hash = "a6f93ba3dfa605368bfb9d330d03a8ecef794cadea3efc7933a1726beba52940"
+
+[[files]]
+file = "config/snad.cfg"
+hash = "8b8793f1be1e542127ab09e614ebc045088422aa4c4a30104a25476e0c3a29a2"
+
+[[files]]
 file = "config/solcarrot.cfg"
 hash = "d552752a55d392092595e8c46852e1fc3958785ec596874ced0ed3aa8f91ae06"
 
 [[files]]
+file = "config/solcarrot.cfg.orig"
+hash = "3f350f5af82f93993e172095f4ef52e3390dc83268eccebe7a33f3a796beffd4"
+
+[[files]]
+file = "config/splash.properties"
+hash = "e161dcbcf833831a5f44a79918ad23c3c14b4f68ae61656fd6e16ced3bd9ff77"
+
+[[files]]
+file = "config/spookytree.cfg"
+hash = "a510ef559a0b6dd59f02b2079c61c71ac8981013c98b545d158c6e2a8f54cc24"
+
+[[files]]
+file = "config/storagedrawers.cfg"
+hash = "c43cee28a3fdc686499dac040b8217b058f7b5b412fda1e54e06375baaca612b"
+
+[[files]]
+file = "config/surge.cfg"
+hash = "25f8fe4e5c159a1760eff8ae2deb0edbe42cfa62d77fc60a46381806fcffd7ed"
+
+[[files]]
+file = "config/tc6aspects4jei.cfg"
+hash = "e39c6edb317cedc03560433c851d288a8364b10d2ffa763ea6f794e85cf433f3"
+
+[[files]]
+file = "config/tcomplement.cfg"
+hash = "5ead27a176c47ffab4dd59528e6b65c30e729dce72ab3718b4df19f28be63613"
+
+[[files]]
 file = "config/tconstruct.cfg"
 hash = "1fae41446f96659a4892ebb4c86588d4860aec2b7395aae7754e24305212d856"
+
+[[files]]
+file = "config/tconstruct_oredictcache.dat"
+hash = "b1cff1cbe392f24a0d574b63d381422353a60534e5526f36e177b41f032b9ccc"
+
+[[files]]
+file = "config/techguns.cfg"
+hash = "acbf275a5d0be0a57bcd6bc02f5a2f222fc0dbb6826fd1fe2fa61b79dd61b740"
+
+[[files]]
+file = "config/thaumcomp.cfg"
+hash = "e0a007219bfa69e09b90738aec77d6fe49c65cf10a67e8dee11557a2e4966dd3"
+
+[[files]]
+file = "config/thaumcraft_graphics.cfg"
+hash = "ef5195675ea84c5c02c698c29596d19e68e42d61fbdd1a142346f6cb8c50553a"
+
+[[files]]
+file = "config/thaumcraft_misc.cfg"
+hash = "3649e2802fa148467442462fb695ed4d0f324b74dff09548be32ed4a05651382"
+
+[[files]]
+file = "config/thaumcraft_world.cfg"
+hash = "ff9b0bdae29d41472ed55513617c3d78ba3940ec847bbc593695154e558d8a09"
+
+[[files]]
+file = "config/thaumicjei.cfg"
+hash = "d1ed860463a05464d0d0a38200f66971caf81ce0225c88e700ec35a1f331c7a7"
+
+[[files]]
+file = "config/thaumicjei_itemstack_aspects.json"
+hash = "bda69fd792ca86c94e0c70b9f2e4d36e0b8789915917a954f5857d1914e9be01"
 
 [[files]]
 file = "config/thebetweenlands/config.cfg"
@@ -65,12 +5217,176 @@ file = "config/thebetweenlands/config_version"
 hash = "92521fc3cbd964bdc9f584a991b89fddaa5754ed1cc96d6d42445338669c1305"
 
 [[files]]
+file = "config/timeinabottled.cfg"
+hash = "9f1aaa7ae666f39a53415c03727dc8a7aaf47db7e237a77c7e69a0a0f5d7f483"
+
+[[files]]
+file = "config/tinker_ore_dict_melting_cache.dat"
+hash = "cf504fc946b27363517ecd1339d02ab59023400f10ddaf952ed4402aab830e2a"
+
+[[files]]
+file = "config/tinkersoredictcache.cfg"
+hash = "ddf534984efdfdd99e7b90419f9c725d6ac77e031da59e94a733fbbab0e9b277"
+
+[[files]]
 file = "config/tinkersurvival.cfg"
 hash = "4eea70f2f0c0434e0626c917306021bab53e20b8d6e17f919cacbb208eaffe58"
 
 [[files]]
+file = "config/tmechworks-blacklist.json"
+hash = "5769196613ec0464e96fe9f357072bfc850dbd80d2f2e4f4a82b37aa100d2bbc"
+
+[[files]]
+file = "config/tmechworks.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/tmechworksModules.cfg"
+hash = "e52eefc3766d1c9c4937082c73a657c147eeefbaee93baceb2193ea2922a2d8d"
+
+[[files]]
+file = "config/toughasnails/armor_temp_modifiers.json"
+hash = "654377720adda18296c9fce91ed267ff5eb66a1b199c7d7534d58716eda44ae6"
+
+[[files]]
+file = "config/toughasnails/block_temperature.json"
+hash = "783a3a44809f9da119b942d11459999335c9f372ad3da2eb0dc6fcabb761afe7"
+
+[[files]]
+file = "config/toughasnails/drink_stats.json"
+hash = "8fa2d9d64ff2e5e44102eb17ce750ae7f4f3b6206755a9879173678a244ff44b"
+
+[[files]]
+file = "config/toughasnails/gameplay.cfg"
+hash = "c46f51fcdf6b119e387151d41a21546305c827c76846046ad163aecd70478338"
+
+[[files]]
+file = "config/toughasnails/material_temperature.json"
+hash = "1421d61f7d986399994b0c959c1e491a22459385ef53dfa531271037af245b78"
+
+[[files]]
+file = "config/toughasnails/temperature.cfg"
+hash = "30937442ce2f8beb660338a147b7ab8aeea18ac48f611ad22d9203ab4d233db8"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/1.png"
+hash = "40b86148a650dc2b5ef760d24f6d3b90ce0f433a55d84ff4dcc2d46707a17c87"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/10.png"
+hash = "6d01836fdff613fd990747d9fb448aedc28ce304ea37b5735b1a9b4338f29542"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/11.png"
+hash = "6b0fd3ee7ea5375594b09b3c9974bfc7af29c691f75a8df472dd73ce9cd8760f"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/12.png"
+hash = "80a6bf22b36051279e589c51be863539eac2384fbb9d98706d08bcafb9ca8aff"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/13.png"
+hash = "7ca300e2f97e59ca9aaa883006e326131d3968be536f2ff5df79bb29b4dab708"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/14.png"
+hash = "7690bb006fc476bc24cc3ea0cdc88f56781f9ea3d2a81bcb869aee76a79a87e4"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/15.png"
+hash = "4b1f49440a992aeceb43c764673a02abeadffaf5c3c7cc64bf0d0cb83a57e0b1"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/16.png"
+hash = "09cb93677ed71a4bae2495807d451c6b010205b3faee8c0ed3185d9093228f56"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/17.png"
+hash = "2d22e34820f1232393f3c415b379cca9aec3e6dc1f7a1fceca8f351aac325315"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/18.png"
+hash = "27b4e3b62fc73c40c393b2406745841a1e445980b729a975014dd229da399e2b"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/19.png"
+hash = "44450ebc9a29074e662ba20188254176ba784ed5b05450c67a4c1f9b43d8dd25"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/2.png"
+hash = "bc1a7fca4c0309fa1b3247248bb02b2e9106b1bd096e231712d6c976e234185e"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/20.png"
+hash = "d5a141d531313f73998646921eafc5e081158e27cbeee5644fdb7e9eaea59661"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/3.png"
+hash = "b8b935c3637c4040f698ecb6eef7cd454a49cfacc20e3bcf72ef69cd86ef377b"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/4.png"
+hash = "c965d646d16096effd2f3bfa87d38df07b855753b39bdbf9a78f07d0125ffc4a"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/5.png"
+hash = "b739d20cdfea7608dc8122de4e816f11aeb138759b6e2445fec70a76cbc59998"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/6.png"
+hash = "460dbf115feb25df2bfc8ba50b79f4be68c6fe97f47ca1772e6951e577a04d21"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/7.png"
+hash = "30e5680b33e23dd4be2cc9a2e3ff5f7807c3124c4beb4eada0d9122146d927bd"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/8.png"
+hash = "773865fe3a032f0ba964637f9e3a16c43f138b003dbde70e52eb08319f147e15"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/9.png"
+hash = "ec44a9730d4014ac98a255cd4ea9e10fadcaba5473e14dd614c3900e40e414f9"
+
+[[files]]
+file = "config/trinkets/Trinkets_And_Baubles.cfg"
+hash = "841586e9aa67a3c1fcee34018e222917d0e90a6bcb876730bfa69bf6191c78fa"
+
+[[files]]
+file = "config/twilightforest.cfg"
+hash = "f8d6d987c3deb2c6cf0df6d8ef62693117312f40f04eac0578d89c24e0709de3"
+
+[[files]]
 file = "config/unidict/UniDict.cfg"
 hash = "6ee205d5ece69e3a7dc3ba321d339bb927cb7bc1803d34057b4882d134de3127"
+
+[[files]]
+file = "config/universalmodcore.cfg"
+hash = "e16a9863682aeb508d5311171153631b2c30a87639d3637909cb637024975713"
+
+[[files]]
+file = "config/unstabletools.cfg"
+hash = "2267bae6e05e5a7852808a725b09067f8c353b1798228b217c9f646bf94e205c"
+
+[[files]]
+file = "config/vintagefix.properties"
+hash = "d16ddd9330fe4e3eaca3c4bea8e0f664fb8945af0a2894eea57c5a88752fe529"
+
+[[files]]
+file = "config/waila/theme/dark.json"
+hash = "cd2696aae34e17993d6eb737f7a1bc74d949058463bc304ae0ded14c5cac9f19"
+
+[[files]]
+file = "config/waila/theme/vanilla.json"
+hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
+
+[[files]]
+file = "config/waila/waila.cfg"
+hash = "c94b22c334ee044b4e72bbea2d80d4e72e1f0d731b60e8e64eaabc8053285b02"
+
+[[files]]
+file = "config/xnet/xnet.cfg"
+hash = "59833dcad1ddabc99854d51d88f2ce9822afee502034a87c52f1951a7d4d0e5c"
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
