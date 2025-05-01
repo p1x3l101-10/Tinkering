@@ -5145,10 +5145,6 @@ file = "config/solcarrot.cfg"
 hash = "d552752a55d392092595e8c46852e1fc3958785ec596874ced0ed3aa8f91ae06"
 
 [[files]]
-file = "config/solcarrot.cfg.orig"
-hash = "3f350f5af82f93993e172095f4ef52e3390dc83268eccebe7a33f3a796beffd4"
-
-[[files]]
 file = "config/splash.properties"
 hash = "e161dcbcf833831a5f44a79918ad23c3c14b4f68ae61656fd6e16ced3bd9ff77"
 
@@ -5175,10 +5171,6 @@ hash = "5ead27a176c47ffab4dd59528e6b65c30e729dce72ab3718b4df19f28be63613"
 [[files]]
 file = "config/tconstruct.cfg"
 hash = "1fae41446f96659a4892ebb4c86588d4860aec2b7395aae7754e24305212d856"
-
-[[files]]
-file = "config/tconstruct_oredictcache.dat"
-hash = "b1cff1cbe392f24a0d574b63d381422353a60534e5526f36e177b41f032b9ccc"
 
 [[files]]
 file = "config/techguns.cfg"
@@ -5219,10 +5211,6 @@ hash = "92521fc3cbd964bdc9f584a991b89fddaa5754ed1cc96d6d42445338669c1305"
 [[files]]
 file = "config/timeinabottled.cfg"
 hash = "9f1aaa7ae666f39a53415c03727dc8a7aaf47db7e237a77c7e69a0a0f5d7f483"
-
-[[files]]
-file = "config/tinker_ore_dict_melting_cache.dat"
-hash = "cf504fc946b27363517ecd1339d02ab59023400f10ddaf952ed4402aab830e2a"
 
 [[files]]
 file = "config/tinkersoredictcache.cfg"
