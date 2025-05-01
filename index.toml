@@ -5667,6 +5667,11 @@ hash = "1f40cf5a5dabe92a5a92363f1ebc689c828979383f8fb821e0a975d91fef5c71"
 metafile = true
 
 [[files]]
+file = "mods/darknesslib.pw.toml"
+hash = "69c3c017648cdadabf61d08d401a90da58a41487075e7937595547cb6adf3cbd"
+metafile = true
+
+[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "72578056cb4fe74ed1761ee0ecd5f2a167b4bc0ff00cd301609aef69ab11d19e"
 metafile = true
@@ -5684,6 +5689,11 @@ metafile = true
 [[files]]
 file = "mods/dttc.pw.toml"
 hash = "a57d608a99ff0c509f36eaf167deade0b66710ed27fede0c7e9c3c2d5588b092"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "2eeca0ab3bb0c63ea0189f62f7e6a473e909feb825383b137d260010e34aef84"
 metafile = true
 
 [[files]]
@@ -5799,6 +5809,11 @@ metafile = true
 [[files]]
 file = "mods/hunger-overhaul.pw.toml"
 hash = "b15db4ed6004759c5d0c007c39bd27a2fab8e740046ef9b9241450d0a83ef5ba"
+metafile = true
+
+[[files]]
+file = "mods/hungering-darkness.pw.toml"
+hash = "22bb1e7f480d07a49c296ff4bc3253065296ad6e7ddfecff17fbd79d3dfef0fd"
 metafile = true
 
 [[files]]
