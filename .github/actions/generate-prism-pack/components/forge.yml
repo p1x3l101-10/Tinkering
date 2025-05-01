@@ -1,2 +1,2 @@
 uid: net.minecraftforge
-version: $version
+version: $FORGE_VERSION

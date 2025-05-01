@@ -1,2 +1,2 @@
 uid: org.lwjgl
-version: $version
+version: $LWJGL_VERSION
