@@ -1,0 +1,13 @@
+name = "Electrostatic Tinker's Toys"
+filename = "electrostatic-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "099ec3e2583ea1758fbdad64c9155ae342e4d291"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2874460
+project-id = 348423

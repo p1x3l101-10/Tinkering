@@ -1,0 +1,13 @@
+name = "Robotic Parts & First Aid Compat"
+filename = "cyberware-1.12.2-0.2.11.29-hf1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "845b63a3b24542f11900b51a4735932fbf8c4165"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5967251
+project-id = 1154280

@@ -1,14 +1,15 @@
-name = "Packwiz Template"
-version = "0.0.0"
+name = "Tinkering"
+author = "P1x3l101"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2966bf1f3fc8bc5645b094bbe93a7eebe20612f7042ece5c3831daaa03203648"
+hash = "106dbd3737004e94d0f319a1863bf2ab7e31f0920e52a2e5a5eef37a26e54bd9"
 
 [versions]
 forge = "14.23.5.2860"
-lwjgl3 = "3.2.2"
+lwjgl = "2.9.4-nightly-20150209"
 minecraft = "1.12.2"
 unsup = "1.1-pre9"

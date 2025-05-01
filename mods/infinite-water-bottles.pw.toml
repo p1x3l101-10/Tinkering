@@ -1,0 +1,13 @@
+name = "Infinite Water Bottles"
+filename = "InfiniteWaterBottles 1.1 1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31f4ff4a2d480c3b16e38d1a8243b06cbbd52e15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4548744
+project-id = 865044

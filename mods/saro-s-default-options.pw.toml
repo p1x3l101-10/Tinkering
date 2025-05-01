@@ -1,0 +1,13 @@
+name = "Saro´s Default Options"
+filename = "Saros-Default-Options-Mod-1.12.2-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf07b90f48e4631e04c9e982ef186899f52f7223"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5897543
+project-id = 1138143

@@ -1,0 +1,8 @@
+setIcon(<tconstruct:shovel_head, nbt:{Material:"flint"}>)
+setTitle("Safety at long last")
+setDescription("Create a flint shovel head for digging a hole to wait out nights")
+setShowToast(true)
+setAnnounceToChat(false)
+addParent("pack:stage0/tool_stations")
+crafted = addCriteria("crafted", "triumph:player_crafted_item")
+crafted.setItem(<tconstruct:shovel_head, nbt:{Material:"flint"}>)

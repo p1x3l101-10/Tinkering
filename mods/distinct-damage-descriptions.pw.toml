@@ -1,0 +1,13 @@
+name = "Distinct Damage Descriptions"
+filename = "distinctdamagedescriptions-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a9011f005dd08f60dbd55609c3cade7c344dd1a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5913512
+project-id = 403617

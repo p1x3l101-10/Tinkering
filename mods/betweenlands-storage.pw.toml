@@ -1,0 +1,13 @@
+name = "Betweenlands Storage"
+filename = "BetweenlandsStorage.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f003e0533be4a7efa72b8219ebe4586070ad1c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2850284
+project-id = 356043

@@ -1,0 +1,13 @@
+name = "Tinkers Survival"
+filename = "TinkerSurvival-1.12.2-1.2.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d6b72245dcf8ce65774e1e096afc8a103c12cc7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4564172
+project-id = 294667

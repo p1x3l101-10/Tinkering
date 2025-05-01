@@ -1,0 +1,13 @@
+name = "Thaumcraft: Return of the ancients"
+filename = "Y_Return of the ancients-v1.3.5-betta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b752fa593ebe0f5ceeb27fd265c6a098f3642c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5936896
+project-id = 980321

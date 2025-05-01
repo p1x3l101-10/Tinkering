@@ -1,0 +1,13 @@
+name = "BotW Mod"
+filename = "botwmod v0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72271df8aa09c47bb93ac7700b1a8a0250ab619a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3362150
+project-id = 497053

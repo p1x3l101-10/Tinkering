@@ -1,0 +1,8 @@
+setIcon(<minecraft:log, meta:0>)
+setTitle("Logger.debug")
+setDescription("Get some wood.")
+setShowToast(true)
+setAnnounceToChat(false)
+addParent("pack:stage0/prim_axe")
+criteria = addCriteria("getWood", "minecraft:inventory_changed")
+criteria.addItem(<ore:logWood>)

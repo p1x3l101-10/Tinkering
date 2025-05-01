@@ -1,0 +1,13 @@
+name = "Astral Sorcery Anti Anti Fake Player (ASAAFP)"
+filename = "asaafp-1.0.0(1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b89bd846c7040a650e98676c215a3648f1cf071"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6067099
+project-id = 1174543

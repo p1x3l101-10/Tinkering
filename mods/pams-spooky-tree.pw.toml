@@ -1,0 +1,13 @@
+name = "Pam's Spooky Tree"
+filename = "Pam's Spooky Tree 1.12.2a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1556868c52df51a5a7598b167fd82234ae126ff5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2528778
+project-id = 286941

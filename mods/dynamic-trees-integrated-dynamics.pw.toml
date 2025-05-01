@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Integrated Dynamics"
+filename = "DynamicTreesIntegratedDynamics-1.12.2-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "040e5f6d2cc2defe6d828d1ee86828316627c605"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3274473
+project-id = 364983

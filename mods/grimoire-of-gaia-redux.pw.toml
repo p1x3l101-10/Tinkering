@@ -1,0 +1,13 @@
+name = "Grimoire of Gaia: Redux"
+filename = "gogredux-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00531d6951de6db5c61ba462a6aca220d71a4a9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2958807
+project-id = 383918

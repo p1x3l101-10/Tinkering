@@ -1,0 +1,13 @@
+name = "Harder Bed Crafting"
+filename = "harderbedcrafting-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OlE1abiC/versions/RZaqinjX/harderbedcrafting-1.0.jar"
+hash-format = "sha512"
+hash = "366d1ca435279e5cbe96b56bd5746eb33fc954e9ed84467e085cf2dd184c8650036a4c84bb8bd021e00a4f589a124ece73acef931be05d025f735986dd5099df"
+
+[update]
+[update.modrinth]
+mod-id = "OlE1abiC"
+version = "RZaqinjX"

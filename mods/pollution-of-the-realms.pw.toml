@@ -1,0 +1,13 @@
+name = "Pollution of the Realms"
+filename = "AdPother-1.12.2-1.2.25.0-build.0673.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1185044a857e8d40d03c0befbe6690df92cbef9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4760625
+project-id = 269973

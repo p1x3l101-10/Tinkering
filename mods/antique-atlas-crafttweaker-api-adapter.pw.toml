@@ -1,0 +1,13 @@
+name = "Antique Atlas/CraftTweaker API Adapter"
+filename = "aactadapter-1.12.2-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "abe2ec2fd35d54d2ab672686d0fb8e9607b4490e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2660807
+project-id = 294725

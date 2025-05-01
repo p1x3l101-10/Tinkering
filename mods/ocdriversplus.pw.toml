@@ -1,0 +1,13 @@
+name = "OCDriversPlus"
+filename = "OCDriversPlus-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7118e60ab5c89bcb0e54bd1a249bf21330d07fc6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3213361
+project-id = 383776

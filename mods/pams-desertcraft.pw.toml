@@ -1,0 +1,13 @@
+name = "Pam's DesertCraft"
+filename = "Pam's DesertCraft 1.12.2c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cff05e57e68d77dbb45ba3d8a3ec23117dbeaa7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3123987
+project-id = 221911

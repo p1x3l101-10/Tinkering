@@ -1,0 +1,13 @@
+name = "Pam's Redbud Tree"
+filename = "PamsRedbudTree1.12.2b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ee8d79daee0a90e374f0d40067f77e364522eca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3059989
+project-id = 286495

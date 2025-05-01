@@ -1,0 +1,6 @@
+printDocumentation(false)
+printDefaultConfigs(false)
+removeVanillaAdvancements(true)
+removeModAdvancements(true)
+useNewParentCompletionCriteriaNames()
+pageOrder(["stage0"])

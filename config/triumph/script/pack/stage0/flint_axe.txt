@@ -1,0 +1,8 @@
+setIcon(<tconstruct:axe_head, nbt:{Material:"flint"}>)
+setTitle("Can I axe you a question?")
+setDescription("Create a flint axe head for a better hatchet and saw")
+setShowToast(true)
+setAnnounceToChat(false)
+addParent("pack:stage0/tool_stations")
+crafted = addCriteria("crafted", "triumph:player_crafted_item")
+crafted.setItem(<tconstruct:axe_head, nbt:{Material:"flint"}>)
