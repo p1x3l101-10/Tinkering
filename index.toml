@@ -254,16 +254,6 @@ hash = "cd0e3a1f96088c9974d2b324c2e154e18c3089ef43a14b976ea5ecad92100bda"
 metafile = true
 
 [[files]]
-file = "mods/bnbgamingcore.pw.toml"
-hash = "e2f13f66a4df56e73e451819d7a92a2b9186eab21a09cbdbe29dd35ca9882918"
-metafile = true
-
-[[files]]
-file = "mods/bnbgaminglib.pw.toml"
-hash = "b13925511f56de10ffaedc969e4b6c807930e02ce5b1a11e4f9b7b261cabc3ff"
-metafile = true
-
-[[files]]
 file = "mods/botania.pw.toml"
 hash = "773f4f063ce1516fc24578b302c7c14e0ef58a6bcf6c65ff1939838f3d38acce"
 metafile = true
@@ -456,11 +446,6 @@ metafile = true
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
 hash = "89da58e313a1a56c33f55f4bd89e6d660ffc65b1647ca83b3ead8b43a6194f26"
-metafile = true
-
-[[files]]
-file = "mods/first-aid.pw.toml"
-hash = "f99de31ffb63750eaff3943af3bddc29e26d02941614ad6283d94eb05ea80575"
 metafile = true
 
 [[files]]
@@ -924,11 +909,6 @@ hash = "26c25178a0420cbfaf61c27e219abbd04e81ab94b0305dd7a00215f6e835fe92"
 metafile = true
 
 [[files]]
-file = "mods/the-spice-of-life.pw.toml"
-hash = "d609119972dc2d5feb1c39529d59f70b5a930786b842cf5b57406388cea7d0df"
-metafile = true
-
-[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "58482a7ad4fcf62b70ce6fdd9fb88a3ba015998cd9f793adc5fca71bd944aff7"
 metafile = true
@@ -939,13 +919,13 @@ hash = "d24e79c426f8167fd5e792ec83fdf08ba75ed14ecb17de871d1e1367ad9b25a2"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-complement.pw.toml"
-hash = "2fe1ff6b0fad41385ca9807a7cde190e717664a44c4d464f60d2d91a9fe3f462"
+file = "mods/tinkers-antique.pw.toml"
+hash = "d68f118f85e2ac03f70171fb476723ef6a8f472063bde7e46882fe9fcc9b45cc"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "6e7d8cd487ef87f964eaafb44060e62fc76c476dbd32a476966e903521df6f9c"
+file = "mods/tinkers-complement.pw.toml"
+hash = "2fe1ff6b0fad41385ca9807a7cde190e717664a44c4d464f60d2d91a9fe3f462"
 metafile = true
 
 [[files]]
