@@ -1,0 +1,13 @@
+name = "Hungering Darkness"
+filename = "Hungering Darkness-1.12.2-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "145f8c70f4ea13e5839a6f7f69b7498674600bdb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3425526
+project-id = 302941
