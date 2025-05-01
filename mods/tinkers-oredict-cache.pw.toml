@@ -3,8 +3,8 @@ filename = "TinkersOreDictCache-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "98db4460c62316b8aca1f54c0879ee24a9c5b731027b4398e6b50a8799a0e217"
+hash-format = "sha512"
+hash = "3afed80087730972c34b480ec50d5020be2329784f7f39566defb992552872878547898c754731ec1f1c6f0c2b9069bd2175e70cad186ff5ee735e24229d1ad6"
 mode = "metadata:curseforge"
 
 [update]

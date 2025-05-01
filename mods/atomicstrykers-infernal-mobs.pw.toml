@@ -3,8 +3,8 @@ filename = "InfernalMobs-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "f1b0be3b482a2e36315f2c13198c64e305fe7cdace3babd5d54d9c6568b8f8a3"
+hash-format = "sha512"
+hash = "6b7c05733485449bf97ee763c5df8415c9044c2b6b9968b3011e8aa2115c2436cba9c8b97542f226f236b01f4f7b35552349a23c0e127fffeaab65c0e61a8c3a"
 mode = "metadata:curseforge"
 
 [update]

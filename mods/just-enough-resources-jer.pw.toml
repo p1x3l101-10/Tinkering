@@ -3,8 +3,8 @@ filename = "JustEnoughResources-1.12.2-0.9.3.203.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "dfacf1111862a95ed5803499ce5229a194a2e92be7e308fd5f423b017addbc09"
+hash-format = "sha512"
+hash = "880e1b7127deccc657dede82e3a28b308b553611a8925eb5902be7c71761e2cfb99247dc5f204644dd03506e47cbaa36f00c4a7f8769bb4767ec13cdc0850174"
 mode = "metadata:curseforge"
 
 [update]

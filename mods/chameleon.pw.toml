@@ -3,8 +3,8 @@ filename = "Chameleon-1.12-4.1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "238416f801acda67b90fba9e0e572dbd6e7631b7e64c3eb3d6226f45ae536c87"
+hash-format = "sha512"
+hash = "4711328d97ea49ae9090f145609c4ac2c69e6bc1bf4605f7df2ee50db4b01596fbcfba3b5b8ad6dc38bb56e240995afaf2f94ce2e7a9fb3bae66dde581520a12"
 mode = "metadata:curseforge"
 
 [update]

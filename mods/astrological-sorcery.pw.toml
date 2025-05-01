@@ -3,8 +3,8 @@ filename = "astrologicalsorcery-1.12.2-1.1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "eee7c9aeebc0f2c571b28f2283e05128d4b98243c22f49c142e1f85ce6407c59"
+hash-format = "sha512"
+hash = "89b76169ae551436bb004e4dc60525ff145374c13ff34f837fe8abf2373dabbee2c81caa885b53864ba4e25b1258d204eb7cc95e08e38dc77b63cb0784b3bf34"
 mode = "metadata:curseforge"
 
 [update]

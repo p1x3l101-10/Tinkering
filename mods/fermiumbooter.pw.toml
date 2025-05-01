@@ -3,8 +3,8 @@ filename = "`FermiumBooter-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "5d1fcf0f0f309b380c3170b9b15d9a94fbf98cba1382c3b68cd32341b1f87c58"
+hash-format = "sha512"
+hash = "6970e64aac2348b16c7d21e1602765608212005339624cc34f3b642ee1ed13202f3281a95d8e3fee40ff3e3296053df8ed23efeb7b86ce66a14262fed0a0b360"
 mode = "metadata:curseforge"
 
 [update]

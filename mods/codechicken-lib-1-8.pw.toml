@@ -3,8 +3,8 @@ filename = "CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "5f8499f7ee2590e45110bbf296b2bf101aec15897e28d5e9759cf8f2387d8a74"
+hash-format = "sha512"
+hash = "7d80d3cd39cb16c0dd16b88a66b809ab60ee468a25ec427ef2f7a8bde1f170a71ddf99b82d44bebeacc6bfa5e76450b18c476e8067fb1f9de35f743b920622ac"
 mode = "metadata:curseforge"
 
 [update]

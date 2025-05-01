@@ -3,8 +3,8 @@ filename = "signpost-1.12.2-1.08.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "9bc21063cb54522c088c55406d18a7aeae8c31f5c33d62afaee40e382d83397f"
+hash-format = "sha512"
+hash = "8d2a0f3412a0b135d43d2d791ed2224f29b2fca235ee7d05aa280c52d6296c64a085532c2833721026be9ce8c098f2ded6cd33d06837aebe93e6936bd8701f28"
 mode = "metadata:curseforge"
 
 [update]

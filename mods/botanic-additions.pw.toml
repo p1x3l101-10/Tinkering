@@ -3,8 +3,8 @@ filename = "BotanicAdditions-1.12.2-12.2.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "c82632696b6deabfe2e18d20c4786e66f556a69e97eb561347327d62df87a7a3"
+hash-format = "sha512"
+hash = "4f8aeef29ebe79e33708fb0fb4b2569218b95fd2aba259fa7b32d54108eb76c561e33b11b4803b52fb6d846b1ed4a8b921dbf9de218cea470cecb0deeb7f2052"
 mode = "metadata:curseforge"
 
 [update]

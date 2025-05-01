@@ -3,8 +3,8 @@ filename = "TinkersComplement-1.12.2-0.4.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "09f3ff16c8204d6ed065c9ed1a717f56c824e45c12e6eda451aae3523262656c"
+hash-format = "sha512"
+hash = "e6615930eac1ede8d603a230679f7bfe516f720ab6fcbe433b94d5c35cb2d3e26ad0d998384273d8e709ef7c873f0c35cd90891cd37c56d6bb9c22090c3f133c"
 mode = "metadata:curseforge"
 
 [update]

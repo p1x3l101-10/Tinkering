@@ -3,8 +3,8 @@ filename = "Pam's DesertCraft 1.12.2c.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "f9fd8015236d08ae3573aaf38eefe547a982b1b9f62e3a7dbaa4d7c9a0fb2a4e"
+hash-format = "sha512"
+hash = "a5533b86925ef1b70c4d7900aa51fe1f304f10bf746f866647571dc54cc7cdfa57c158a2f62fccc7d4401b9764eb16b86857a39b066bc2311db6ca44fafd9e0f"
 mode = "metadata:curseforge"
 
 [update]

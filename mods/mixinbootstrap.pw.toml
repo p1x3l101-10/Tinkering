@@ -3,8 +3,8 @@ filename = "_MixinBootstrap-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "17c589aad9907d4ba56d578d502afa80aac1ba2fa8677e8b4d06c019c41d7731"
+hash-format = "sha512"
+hash = "973aeff50dd8e1976895d36917e3f06334dc70800dfbd12639e522fb2b71e130db3865fd67d494e2d13e2ca67efe76ecfc3ee60d138e880dc884ac9f82c35eb8"
 mode = "metadata:curseforge"
 
 [update]

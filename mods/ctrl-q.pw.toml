@@ -3,8 +3,8 @@ filename = "ctrlq-forge-mc1.12-1.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "b44844d7a85f047ecd5b4db64f925ccaa2cc8b3640a563774bf405d5e4132885"
+hash-format = "sha512"
+hash = "76c4aab9e8c67fa2817063abb67fb88630f5c325c8394c0467be8565c05b9ed7dc9accf6164e8002063c6f8d71dd61af32f4d4c9cffc2eafd71d065adfed78a6"
 mode = "metadata:curseforge"
 
 [update]

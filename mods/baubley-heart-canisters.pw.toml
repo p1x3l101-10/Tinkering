@@ -3,8 +3,8 @@ filename = "baubley-heart-canisters-1.12.2-2.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "9ee41a6be7584b762babad24e5a61242247f8855a227288a65e63935caec467b"
+hash-format = "sha512"
+hash = "217a2b93d8740a0548d07efb2f8576d74aeb55dc34e767c5ff2014e56b0aaeff3cd603e78fb2de9e660cbedb28b529488e204a3208fddea2d0915052eb35112c"
 mode = "metadata:curseforge"
 
 [update]

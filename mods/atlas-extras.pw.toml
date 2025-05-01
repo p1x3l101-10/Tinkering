@@ -3,8 +3,8 @@ filename = "AtlasExtras-1.12.2-1.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "e39042a9bf65a91dd95e04b771c8b3778b5fb66984191f56da9b614af4ce860b"
+hash-format = "sha512"
+hash = "1e92b47a830a6beb30c1f692cd7ef8e5162a8842e4d7d569fef5841db4317c4901605e0a6fd84898bb5ae1b17e2358f057e43bb415509409f4018c0db0c0de52"
 mode = "metadata:curseforge"
 
 [update]

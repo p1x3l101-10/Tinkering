@@ -3,8 +3,8 @@ filename = "Saros-Default-Options-Mod-1.12.2-0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "e93fb41639c5c313b4cd5fae75a101b6bf3c0f16ae02bdfb1224e13240b18bb9"
+hash-format = "sha512"
+hash = "0dd2abe91bd2f568538401e831ed2166f0064fd2339d3f86ebb7d1aa6285624ec4ea3f074dc4bcc67cbbe9989356f9d6da0a9902e3a30f398dfee9c855377934"
 mode = "metadata:curseforge"
 
 [update]

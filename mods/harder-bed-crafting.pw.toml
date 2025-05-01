@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OlE1abiC/versions/RZaqinjX/harderbedcrafting-1.0.jar"
-hash-format = "sha256"
-hash = "57e5f135607f4a1680feaf38d4e689ce48214b61ef344611732a1d570b747ec7"
+hash-format = "sha512"
+hash = "366d1ca435279e5cbe96b56bd5746eb33fc954e9ed84467e085cf2dd184c8650036a4c84bb8bd021e00a4f589a124ece73acef931be05d025f735986dd5099df"
 
 [update]
 [update.modrinth]
