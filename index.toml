@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "acfe943cf2aed364c4aadf505cecc3d6a80ec7280da568521617a13d1528e52f"
+hash = "df027ff53db0184b3a0e3d169fbf653ae1da77513baff72d854532ec71bce06c"
 metafile = true
 
 [[files]]
