@@ -49,6 +49,10 @@ file = "config/opencomputers/settings.conf"
 hash = "df2572c307d6e40b5a40573547592becae753fe3ea0d1e43c84ab5560404fdd8"
 
 [[files]]
+file = "config/solcarrot.cfg"
+hash = "d552752a55d392092595e8c46852e1fc3958785ec596874ced0ed3aa8f91ae06"
+
+[[files]]
 file = "config/tconstruct.cfg"
 hash = "1fae41446f96659a4892ebb4c86588d4860aec2b7395aae7754e24305212d856"
 
