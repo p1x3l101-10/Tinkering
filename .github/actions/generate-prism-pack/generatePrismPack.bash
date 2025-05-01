@@ -75,6 +75,7 @@ yq -o yaml -I 2 eval-all '{"components": [.]}' lwjgl.yml minecraft.yml loader.ym
 awk -v RS="\O" -v ORS="" '{
   gsub("---\ncomponents:\n", "")
 }7' ./merged.yml > processed.yml
+echo "formatVersion: 1" >> processed.yml
 yq -o json ./processed.yml > mmc-pack.json
 mkdir patches
 mkdir minecraft
