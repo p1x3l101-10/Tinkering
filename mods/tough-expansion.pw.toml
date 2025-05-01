@@ -3,8 +3,8 @@ filename = "ToughExpansion-1.12-3.4.24.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e499c9515a4de8d78bff746d1c1ac479a660494b"
+hash-format = "sha256"
+hash = "bfd3fd38c20104fa18dfb0b34910510068c6444bdb5957571258968df2136f9d"
 mode = "metadata:curseforge"
 
 [update]

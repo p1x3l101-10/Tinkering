@@ -3,8 +3,8 @@ filename = "TinkersDisassembler-1.12.2-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "571839ba5e9459a1eee7ac4ee00a91f42886f722"
+hash-format = "sha256"
+hash = "6f0128ed8b1a675a4390f3d24b583df13f719d6d345df264c7fa2f21116f540d"
 mode = "metadata:curseforge"
 
 [update]

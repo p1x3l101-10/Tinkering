@@ -3,8 +3,8 @@ filename = "Controlling-3.0.12.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d588b1fefb912c1080d397834b6300e59409183c"
+hash-format = "sha256"
+hash = "f5edd4793f96cd5a6f31aecbd3030093b367a51afba5d6f7281756d0f9c03786"
 mode = "metadata:curseforge"
 
 [update]

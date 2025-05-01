@@ -3,8 +3,8 @@ filename = "fermiumasm-5.28.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d3b4d15cebe24c822556de2c77e348f20afeb064"
+hash-format = "sha256"
+hash = "e6bd769fc38d4f3d89cbc6d3b793c406977d54baae0a6f3572681439a1e72f0d"
 mode = "metadata:curseforge"
 
 [update]

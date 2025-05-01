@@ -3,8 +3,8 @@ filename = "Y_Return of the ancients-v1.3.5-betta.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9b752fa593ebe0f5ceeb27fd265c6a098f3642c5"
+hash-format = "sha256"
+hash = "f0e977ccb86f4aac13aa02316dfb8f73b26efd2416d7d9b7f6a14c301063b3da"
 mode = "metadata:curseforge"
 
 [update]

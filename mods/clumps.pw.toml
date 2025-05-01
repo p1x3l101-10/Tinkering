@@ -3,8 +3,8 @@ filename = "Clumps-3.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6ea78bea8006e3924bc37c2aef0115134c8af07b"
+hash-format = "sha256"
+hash = "f3ce670e0087f4c6b770fd05ae5c3dfd8462f74c62397932ea72954d1c6c8df4"
 mode = "metadata:curseforge"
 
 [update]

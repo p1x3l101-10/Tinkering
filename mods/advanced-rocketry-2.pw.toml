@@ -3,8 +3,8 @@ filename = "AdvancedRocketry-1.12.2-2.1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c456d5390a855e5b3f0a246a1a86f916e360486c"
+hash-format = "sha256"
+hash = "2f1c820a840a87b4c1473f3dd9e00df95ade76b7be607b0b0665bdf28f8d84bb"
 mode = "metadata:curseforge"
 
 [update]

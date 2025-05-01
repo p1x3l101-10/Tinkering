@@ -3,8 +3,8 @@ filename = "AE2WTLib-1.12.2-1.0.35.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eee6d867bf577dc988afdb6851318a1ce1c020b5"
+hash-format = "sha256"
+hash = "c9fcde1f9f6a18fd9c3476bc629e47697ca5dbdc030a1cc0507c1e2bc7dc034c"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "unstabletools-1.12.2-1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "59e5e7a1d564afe05458b6f5a69660c9c7793b13"
+hash-format = "sha256"
+hash = "3bc27bab289d4d481c01e4ce427a3044476aca2736d79ab4d42152fc6d99fe23"
 mode = "metadata:curseforge"
 
 [update]

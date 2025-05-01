@@ -3,8 +3,8 @@ filename = "Dimensional Doors-3.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cc67f847ef171a822de012f1e8819b7e87ce5f1d"
+hash-format = "sha256"
+hash = "2d993ece142a686813252bf655e7409ab3722d3179f5b5235325a4e7edbb1e8d"
 mode = "metadata:curseforge"
 
 [update]

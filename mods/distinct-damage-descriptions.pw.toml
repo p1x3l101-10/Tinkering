@@ -3,8 +3,8 @@ filename = "distinctdamagedescriptions-1.7.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5a9011f005dd08f60dbd55609c3cade7c344dd1a"
+hash-format = "sha256"
+hash = "309a05f4a0e47689c1e679d0e45abcf55edd653be4ab95db4d5decddadd32bad"
 mode = "metadata:curseforge"
 
 [update]

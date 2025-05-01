@@ -3,8 +3,8 @@ filename = "Surge-1.12.2-2.0.79.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f7197d44a0f1fb1af216d3ba6b7e3c1ed06a36e9"
+hash-format = "sha256"
+hash = "d6ab635ab4bc8538c3b362832e5392c4f38fca7306d4aa0e110998cdd82931f6"
 mode = "metadata:curseforge"
 
 [update]

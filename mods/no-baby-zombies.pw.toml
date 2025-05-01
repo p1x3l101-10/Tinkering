@@ -3,8 +3,8 @@ filename = "nobz-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "466613c23530745ff5c2dad3c97c0a4fe769cdaf"
+hash-format = "sha256"
+hash = "20aa0062e7c95a8a8d6cc33bfe4a5faf57c65672b4475c8b4d7e632b647097c2"
 mode = "metadata:curseforge"
 
 [update]

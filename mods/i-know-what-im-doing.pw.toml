@@ -3,8 +3,8 @@ filename = "ikwid-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a3bdd530fe31df48c748ce48f023f73188c5bda5"
+hash-format = "sha256"
+hash = "033961f6dd4d66353f96f1b313d5658b7bda120d97138f6813cacb2f6a96e02e"
 mode = "metadata:curseforge"
 
 [update]

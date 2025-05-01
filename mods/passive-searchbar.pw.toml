@@ -3,8 +3,8 @@ filename = "PassiveSearchBar+Forge+1.12.2-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "06861168e03fddea48fa5a0a953ce6cde46e9085"
+hash-format = "sha256"
+hash = "ae9dee8f3dcedf6b4274fd4caf8a5d8e4d8fd96d2190399fb1d205bb58715adf"
 mode = "metadata:curseforge"
 
 [update]

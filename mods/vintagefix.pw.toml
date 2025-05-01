@@ -3,8 +3,8 @@ filename = "vintagefix-0.5.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "66c2cee328218eec7c5fefb99101293065ad534c"
+hash-format = "sha256"
+hash = "960d73233bbba3f62a393e4c936fe7f8f51f1c22f2fdd602a9484891058700c6"
 mode = "metadata:curseforge"
 
 [update]

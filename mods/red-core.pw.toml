@@ -3,8 +3,8 @@ filename = "!Red-Core-MC-1.8-1.12-0.7-Dev-1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "acd8a82862086b81e441a914af207881cb62955f"
+hash-format = "sha256"
+hash = "4f55468d449b7fd776cb866283fda58e0555a15cf1eb86f5481611c7b70f0bf0"
 mode = "metadata:curseforge"
 
 [update]

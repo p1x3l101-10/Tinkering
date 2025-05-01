@@ -3,8 +3,8 @@ filename = "rad-1.12-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ddc3adbe5837b3585298b82d3ca52702caff891b"
+hash-format = "sha256"
+hash = "25308e674105e2bb669a1c38661cc87c3bbc23921dd5308b14dd11473b49ec2e"
 mode = "metadata:curseforge"
 
 [update]

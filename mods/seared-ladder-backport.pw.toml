@@ -3,8 +3,8 @@ filename = "Seared-Ladder-v1.1.2-mc1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d32a413a0ef30db8c25ee1e069591edd43dc90b8"
+hash-format = "sha256"
+hash = "2924427a8d7d981fdfd90af754ed8a3ca09584085c12844b73d60ad7ee3570be"
 mode = "metadata:curseforge"
 
 [update]

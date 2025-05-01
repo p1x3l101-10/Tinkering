@@ -3,8 +3,8 @@ filename = "techguns-1.12.2-2.0.2.0_pre3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "65a5cc41422bc665ec4b7d5e115efc7d95b002d7"
+hash-format = "sha256"
+hash = "154d3d794cfd74252f2cec979a6e72f5187bb9c21897ed4b42f45771a0e558f7"
 mode = "metadata:curseforge"
 
 [update]

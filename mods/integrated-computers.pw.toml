@@ -3,8 +3,8 @@ filename = "ocid-1.0.0-RC1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0a71031a341b54bc13c2490ee0a820364640763f"
+hash-format = "sha256"
+hash = "47400493ecd3ce2dab3347671ddc62bc77e15a66fadbc13db06c2790d09bbeb3"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "instantunify-1.12.2-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "aab5e7597f7a9fa855c22e3a318bc95bfea6479e"
+hash-format = "sha256"
+hash = "f627e2149a0277b5dc1402edcb57918e66ecf0ce055df5c5e89980c8133db8a2"
 mode = "metadata:curseforge"
 
 [update]

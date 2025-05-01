@@ -3,8 +3,8 @@ filename = "JustEnoughEnergistics-1.12.2-1.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "df5038e7ce86968952fa4baa2ecad6f5329ade60"
+hash-format = "sha256"
+hash = "fa2f6fdfd3a43dee11b250ea079158b1cc5760c3dbdc2b031bd7cc2804f92f92"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "firstaid-1.6.22.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d9927b8c24def4b32e1ca81f3b8caf379391e34e"
+hash-format = "sha256"
+hash = "55dfe81a58d20575b6f6aa635d4296370c804fe52b77485b455aa99910da31a4"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Botania r1.10-364.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7ad38e809f785c18fbc17c5beac2650342ae4a96"
+hash-format = "sha256"
+hash = "8962beb2c583720a83858f58bd6afc891185b50d868c712549a96b191339b52a"
 mode = "metadata:curseforge"
 
 [update]

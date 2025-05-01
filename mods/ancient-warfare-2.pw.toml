@@ -3,8 +3,8 @@ filename = "ancientwarfare-1.12.2-2.7.0.1038.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "89cc242cdfb58730877121ece35aa2aec0974075"
+hash-format = "sha256"
+hash = "8d1a080c33537bbe8b9585fe67a0b52efa8879c4210972082dd52995d9de90ca"
 mode = "metadata:curseforge"
 
 [update]

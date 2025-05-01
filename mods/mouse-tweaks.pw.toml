@@ -3,8 +3,8 @@ filename = "MouseTweaks-2.10.1-mc1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d"
+hash-format = "sha256"
+hash = "5e13315f4e0d0c96b1f9b800a42fecb89f519aca81d556c91df617c8751aa575"
 mode = "metadata:curseforge"
 
 [update]

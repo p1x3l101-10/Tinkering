@@ -3,8 +3,8 @@ filename = "TConstruct-1.12.2-2.13.0.183.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e37e1f05ad0eaf567497ce655bc877dc1778bd0f"
+hash-format = "sha256"
+hash = "707107f746ffc9d2bf35912953ae1ce780f7b7c4b7cf86b4821a1a151bcf9f6f"
 mode = "metadata:curseforge"
 
 [update]

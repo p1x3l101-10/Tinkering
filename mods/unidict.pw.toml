@@ -3,8 +3,8 @@ filename = "UniDict-1.12.2-3.0.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2b72e49682aca50fa55522c5080f2ba20173c565"
+hash-format = "sha256"
+hash = "003421fa15bc84733343ad26f8bd9387bbd110df6c7ff860cae87ec11f85399d"
 mode = "metadata:curseforge"
 
 [update]

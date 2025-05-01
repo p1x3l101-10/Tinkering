@@ -3,8 +3,8 @@ filename = "Trinkets and Baubles-0.32.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1bf00686055662715c7b4bcf56251db034a3fccc"
+hash-format = "sha256"
+hash = "53f28934417d7f37bf38e106a0263b4165fad5b8e537fb7d7aaaaec2a95d5729"
 mode = "metadata:curseforge"
 
 [update]

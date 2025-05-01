@@ -3,8 +3,8 @@ filename = "Rex's-AdditionalStructures-1.12.x(v.2.5.0).jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f9de541a2651f0ec01c41861126caba956e1e6d9"
+hash-format = "sha256"
+hash = "e67d245d68db8c8e292f08ee078ad1e5190ae292d014833784142849de499694"
 mode = "metadata:curseforge"
 
 [update]

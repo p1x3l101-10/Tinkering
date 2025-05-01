@@ -3,8 +3,8 @@ filename = "TinkersExtras-1.12.2-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2a27f8445b66d66a94ecf5cb6c421cbec3b8e5dd"
+hash-format = "sha256"
+hash = "6b06b194ce251d77021c1259de7ae6d1987f7de4c2c4f8600a02ef8e3fe8901b"
 mode = "metadata:curseforge"
 
 [update]

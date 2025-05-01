@@ -3,8 +3,8 @@ filename = "tinkersjei-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0ee37cbd099fd3693f1f45673ba498ce7e3a3849"
+hash-format = "sha256"
+hash = "526d4fb23d033a79c44276b68746ab3f653e960c7101a9d62f51a12940730b94"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "pamscookables-1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f9aaa803d12e1058e8d325cd998692b02a2703c8"
+hash-format = "sha256"
+hash = "5c725fcfea524e6cf1036fadf2036f0a05c77103c9b9f4567e9bfe81b93c0738"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "RoughlyEnoughIDs-2.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b9419b1b2bab474f29f6b4db27c7a69ac6ff90d9"
+hash-format = "sha256"
+hash = "c8c598a75709c9dfc12bd08dbfbdce7e7c9b18e57239b5f323d93c1d5f3791e6"
 mode = "metadata:curseforge"
 
 [update]

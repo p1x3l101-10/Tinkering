@@ -3,8 +3,8 @@ filename = "HammerLib-1.12.2-12.2.58.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d693d897584c3d3d629a7fda02502e362a250b78"
+hash-format = "sha256"
+hash = "34e22ee309113239848aa2f44cc7ccba5bdf285a4db92031afe70e744f3b940a"
 mode = "metadata:curseforge"
 
 [update]

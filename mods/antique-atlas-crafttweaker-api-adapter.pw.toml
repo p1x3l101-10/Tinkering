@@ -3,8 +3,8 @@ filename = "aactadapter-1.12.2-0.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "abe2ec2fd35d54d2ab672686d0fb8e9607b4490e"
+hash-format = "sha256"
+hash = "54a09ce1dc7a9f63b19ec64bba6c7caf813616749abdeb2ee7b78c1b656d09b8"
 mode = "metadata:curseforge"
 
 [update]

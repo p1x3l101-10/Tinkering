@@ -3,8 +3,8 @@ filename = "ImmersiveRailroading-1.12.2-forge-1.10.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "68736f0436fb0c23f07c0d5b7954d524e371a0a1"
+hash-format = "sha256"
+hash = "de5483f7d06642ca8de38bbb56852559cafe5bcbebe38f680c391fd766d36022"
 mode = "metadata:curseforge"
 
 [update]

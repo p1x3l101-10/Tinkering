@@ -3,8 +3,8 @@ filename = "ChunkAnimator-1.12.2-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c3906436c1f04aab656dd1627a9378b673e644fa"
+hash-format = "sha256"
+hash = "a41da9077db8709be752f02e429b5af572fb7662b5713fad4e672f0c29981855"
 mode = "metadata:curseforge"
 
 [update]

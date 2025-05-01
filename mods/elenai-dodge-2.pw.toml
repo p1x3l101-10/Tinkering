@@ -3,8 +3,8 @@ filename = "ElenaiDodge2-1.12.2-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2ba93ebb2ddf646e8cb70eaf31a0e5db1f5fb8da"
+hash-format = "sha256"
+hash = "98a58dfcb6096e855c88027c70c194a8bdbd98397ca767588bb56fc1350b1984"
 mode = "metadata:curseforge"
 
 [update]

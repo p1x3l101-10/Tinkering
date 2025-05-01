@@ -3,8 +3,8 @@ filename = "Pam's Spooky Tree 1.12.2a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1556868c52df51a5a7598b167fd82234ae126ff5"
+hash-format = "sha256"
+hash = "c9cb8805051d40b52b2036172efed0a0ca996078fd307978f2d9e2721edd95ed"
 mode = "metadata:curseforge"
 
 [update]

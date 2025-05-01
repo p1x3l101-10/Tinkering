@@ -3,8 +3,8 @@ filename = "Advancement_Book-1.12-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4946ece41ab42b8d7b48d251f183286a9087e9dd"
+hash-format = "sha256"
+hash = "49d82aa76ccb136423a5fdd88ddf3199b754e2ce29c6281a84971e88fda038b7"
 mode = "metadata:curseforge"
 
 [update]

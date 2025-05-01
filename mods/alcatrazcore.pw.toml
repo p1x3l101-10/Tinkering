@@ -3,8 +3,8 @@ filename = "alcatrazcore-1.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "81f53ff51c5559ef93e599d489aa736d714b1ff9"
+hash-format = "sha256"
+hash = "10b245b2485c2803ca335f15e371e91df507ca5e0fab7db329a09c93dcb12670"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "CommonCapabilities-1.12.2-2.4.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1f9554d8595d7833f983e5dcd973081bdd725825"
+hash-format = "sha256"
+hash = "71e7ed804a6d9f25c4c9af5e46c3e362a5c3b43919b2d3a276a57fd25d98776f"
 mode = "metadata:curseforge"
 
 [update]

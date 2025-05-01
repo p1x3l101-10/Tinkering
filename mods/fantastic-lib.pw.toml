@@ -3,8 +3,8 @@ filename = "FantasticLib-1.12.2.058.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f9130cb72b13c487c32035be4cb8729f91504d8"
+hash-format = "sha256"
+hash = "bae7367458128f802b5381c0643f2b2071c86c7cc7fcc5ff49a11fa534dd98e3"
 mode = "metadata:curseforge"
 
 [update]
