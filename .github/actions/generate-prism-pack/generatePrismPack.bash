@@ -46,7 +46,10 @@ fi
 WORKDIR="$(mktemp -d)"
 pushd "$1/components" || exit 1
 yq e '.version = env(MC_VERSION)' ./minecraft.yml > $WORKDIR/minecraft.yml
-yq e '.version = env(UNSUP_VERSION)' ./unsup.yml > $WORKDIR/unsup.yml
+yq e '
+  .version = env(UNSUP_VERSION) |
+  .agents[0].name = "com.unascribed:unsup:" + env(UNSUP_VERSION)
+' ./unsup.yml > $WORKDIR/unsup.yml
 if [[ $MODLOADER == "forge" ]]; then
   yq e '.version = env(FORGE_VERSION)' ./forge.yml > $WORKDIR/loader.yml
   echo "" > $WORKDIR/extra.yml
