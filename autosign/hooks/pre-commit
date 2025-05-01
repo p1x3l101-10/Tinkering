@@ -16,7 +16,7 @@ if git diff --cached --name-only | grep -q "^$FILE$"; then
     echo "Signing $FILE with OpenSSL Ed25519..."
 
     # Sign and write to .sig file
-    openssl dgst -sha512 -sign "$KEY" -out "$SIGNATURE" "$FILE"
+    openssl pkeyutl -sign -rawin -inkey "$KEY" -in "$FILE" -out "$SIGNATURE"
     if [ $? -ne 0 ]; then
         echo "Failed to sign $FILE" >&2
         exit 1
