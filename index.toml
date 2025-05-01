@@ -1,0 +1,9 @@
+hash-format = "sha256"
+
+[[files]]
+file = "unsup.ini"
+hash = "38d5950ad9075abff71685b0661f739a7eec47b8f9c5edf30f1d2206c168202c"
+
+[[files]]
+file = "unsup.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
