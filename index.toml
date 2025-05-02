@@ -5186,7 +5186,7 @@ hash = "8b8793f1be1e542127ab09e614ebc045088422aa4c4a30104a25476e0c3a29a2"
 
 [[files]]
 file = "config/solcarrot.cfg"
-hash = "bb1bc52c47108351ce84c6adef3fc9ba3320f373036b4b1ae778c757e4c0f838"
+hash = "05c1c92f0303d26147b8d9074f8e5e6728b833457d3d9e200d3bffd72473206e"
 
 [[files]]
 file = "config/splash.properties"
