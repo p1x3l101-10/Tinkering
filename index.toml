@@ -5688,7 +5688,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeperhost-minetogether.pw.toml"
-hash = "44d87d63bbc6d4961419dcba4ee55ad3ce1055908729af5a83bfcef6ff5c259a"
+hash = "19c0cee87412cd86c8bba4c4a25f8036600b71675f6642e8eb79f4ae0ecf8a19"
 metafile = true
 
 [[files]]
@@ -5708,7 +5708,7 @@ metafile = true
 
 [[files]]
 file = "mods/darknesslib.pw.toml"
-hash = "69c3c017648cdadabf61d08d401a90da58a41487075e7937595547cb6adf3cbd"
+hash = "1ddf7515c5c62cea8e501e6369033172e72fe8c6f97b83b8d1fcd84aaaa0d5a3"
 metafile = true
 
 [[files]]
@@ -5733,7 +5733,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "2eeca0ab3bb0c63ea0189f62f7e6a473e909feb825383b137d260010e34aef84"
+hash = "4d93b0eebe708a30c083782715a19ca213cb320607dfd9d237f77b06b143d936"
 metafile = true
 
 [[files]]
@@ -5853,7 +5853,7 @@ metafile = true
 
 [[files]]
 file = "mods/hungering-darkness.pw.toml"
-hash = "22bb1e7f480d07a49c296ff4bc3253065296ad6e7ddfecff17fbd79d3dfef0fd"
+hash = "29001ff52003c33eb16832d7c71bd2f1ab71d67e1212218c02ca30a198e08478"
 metafile = true
 
 [[files]]
@@ -6013,7 +6013,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "df027ff53db0184b3a0e3d169fbf653ae1da77513baff72d854532ec71bce06c"
+hash = "acfe943cf2aed364c4aadf505cecc3d6a80ec7280da568521617a13d1528e52f"
 metafile = true
 
 [[files]]
@@ -6288,7 +6288,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-antique.pw.toml"
-hash = "d68f118f85e2ac03f70171fb476723ef6a8f472063bde7e46882fe9fcc9b45cc"
+hash = "8fb7d9a3a36f760e61e3d12c1d7aca06c4d1221c9721f326e78f7c8c361c1eaa"
 metafile = true
 
 [[files]]

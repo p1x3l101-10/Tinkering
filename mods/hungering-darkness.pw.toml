@@ -3,8 +3,8 @@ filename = "Hungering Darkness-1.12.2-1.4.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "145f8c70f4ea13e5839a6f7f69b7498674600bdb"
+hash-format = "sha256"
+hash = "ceefae34897174d716c68da912d6378004f7894731f7f4375940160ea224ca45"
 mode = "metadata:curseforge"
 
 [update]

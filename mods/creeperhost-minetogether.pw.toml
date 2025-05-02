@@ -3,8 +3,8 @@ filename = "MineTogether-1.12.2-2.4.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a144bf1583a8ee74819b34c06c03fb1d3d90d9d5"
+hash-format = "sha256"
+hash = "537455e60900f0d8e8c61b9519c4968c47f2dcb276cf6fffd4ee7ccf2322ef15"
 mode = "metadata:curseforge"
 
 [update]
