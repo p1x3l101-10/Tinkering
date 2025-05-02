@@ -6092,7 +6092,7 @@ metafile = true
 
 [[files]]
 file = "mods/options-enforcer.pw.toml"
-hash = "ebf52434a55f7cc773a228801bc48abf21a1596148de46cd692b768acbbe7b77"
+hash = "4c7f134e0a2a362020cb394fb256189a1f1896235d8661c35ea16373686cefcc"
 metafile = true
 
 [[files]]

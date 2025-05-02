@@ -1,6 +1,6 @@
 name = "Options Enforcer"
 filename = "OptionsEnforcer-1.12.2-1.4.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha256"
