@@ -6142,7 +6142,7 @@ metafile = true
 
 [[files]]
 file = "mods/pet-buddy-mod.pw.toml"
-hash = "29906aa9ea1f32e857eaaad0a352ae2b48f48bfbafa0bf5cc80ce63ab62779d7"
+hash = "7060e73db170f05e133469104a4668fdcd500f8ba7de32ca80feb61a7cfc1cfd"
 metafile = true
 
 [[files]]
@@ -6247,7 +6247,7 @@ metafile = true
 
 [[files]]
 file = "mods/sublib.pw.toml"
-hash = "d186417f44ce80a4208255df811ddbaf8b51c2768ebfa454f774e705be59912a"
+hash = "5aff8f068ef48cf649722958cee6134cd4977dd8cacecd93a9e0e07521ee1829"
 metafile = true
 
 [[files]]
