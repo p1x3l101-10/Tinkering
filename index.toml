@@ -5822,7 +5822,7 @@ metafile = true
 
 [[files]]
 file = "mods/global-gamerules.pw.toml"
-hash = "c7b364e1b492d0a828d04455d81268e48eae8a7973d4e327fe34e53e3d72a276"
+hash = "60cad69e152541227ce12e2237a2cf52dc71a61c30b196fac7d459668d1787b1"
 metafile = true
 
 [[files]]
@@ -6092,7 +6092,7 @@ metafile = true
 
 [[files]]
 file = "mods/options-enforcer.pw.toml"
-hash = "150f501799bb3f7bfb0c9e541d830bbcccc1b0d0a23252be73f0b81b5b4a4f9f"
+hash = "ebf52434a55f7cc773a228801bc48abf21a1596148de46cd692b768acbbe7b77"
 metafile = true
 
 [[files]]
@@ -6417,7 +6417,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/thaum-pack.pw.toml"
-hash = "ba3724b4b76eb364acd96985b11b89f301560ac65a475605fc302ebf1b760001"
+hash = "7a93a426df2a6ed64ffa597e477ba70caa7d29f205bc034df8eed2f4c3342dd1"
 metafile = true
 
 [[files]]

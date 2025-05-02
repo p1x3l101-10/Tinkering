@@ -3,8 +3,8 @@ filename = "Thaum_pack.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bb15062d49590be462806a2529629f3b6ff6ce4c"
+hash-format = "sha256"
+hash = "18b39bd954f733cc73c42962346b83f45b87c610256a059fbadaebfaa2a362e1"
 mode = "metadata:curseforge"
 
 [update]

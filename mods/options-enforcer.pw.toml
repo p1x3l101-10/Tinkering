@@ -3,8 +3,8 @@ filename = "OptionsEnforcer-1.12.2-1.4.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f7226db5f26148e27e33d3f4dbfd1dd4f113e86b"
+hash-format = "sha256"
+hash = "b1dc47e7b2a6a8c08c4a5fe9787af48f436a94abb65978644c10ddefdbd15603"
 mode = "metadata:curseforge"
 
 [update]
