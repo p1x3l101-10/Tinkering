@@ -1,0 +1,13 @@
+name = "SubLib"
+filename = "subcommonlib-sublib-1.12.2-1.2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b9152cdfac710be1e1b0af4aca9415d62df40ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2522690
+project-id = 251678

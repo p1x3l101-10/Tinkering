@@ -6141,6 +6141,11 @@ hash = "c4839377b87232891544ec2f48a9633e6c7cf5a80fc83cf4bae78c32dd0bc951"
 metafile = true
 
 [[files]]
+file = "mods/pet-buddy-mod.pw.toml"
+hash = "29906aa9ea1f32e857eaaad0a352ae2b48f48bfbafa0bf5cc80ce63ab62779d7"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "827848ef14a94fa57f3d5debafef8d9928a1a883278e388f80aab1e63137f4b4"
 metafile = true
@@ -6238,6 +6243,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "99e82c0db29d85e440d30f0d756999eac8cecd22daac0b59e9e4f652726712ee"
+metafile = true
+
+[[files]]
+file = "mods/sublib.pw.toml"
+hash = "d186417f44ce80a4208255df811ddbaf8b51c2768ebfa454f774e705be59912a"
 metafile = true
 
 [[files]]

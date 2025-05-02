@@ -1,0 +1,13 @@
+name = "Pet Buddy Mod"
+filename = "petbuddy-petbuddy-1.12.2-2.4.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "027fae27c24e7ac04b59a2b592335eddd2575f9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2599350
+project-id = 251660
