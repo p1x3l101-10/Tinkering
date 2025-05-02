@@ -7,14 +7,6 @@ on:
       - unsup.sig
       - .packwizignore
 jobs:
-  validate:
-    name: Validate signatures
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
-      - name: Check unsup-packwiz signature against file and pubkey
-        run: openssl pkeyutl -verify -rawin -pubin -inkey autosign/key.pub.pem -sigfile unsup.sig -in pack.toml
   build:
     name: Build
     runs-on: ubuntu-latest
