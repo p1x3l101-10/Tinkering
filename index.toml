@@ -5817,6 +5817,11 @@ hash = "6554cad9359d646b664821677758a3595e24d65bb39055ba5047d6bf8f250b7d"
 metafile = true
 
 [[files]]
+file = "mods/global-gamerules.pw.toml"
+hash = "c7b364e1b492d0a828d04455d81268e48eae8a7973d4e327fe34e53e3d72a276"
+metafile = true
+
+[[files]]
 file = "mods/grimoire-of-gaia-redux.pw.toml"
 hash = "4f2a884171b4df9e504dfa4e5858ddedac00389a08c5e0e0a7a281ecbdaf7915"
 metafile = true
