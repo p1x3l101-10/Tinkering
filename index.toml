@@ -4841,6 +4841,10 @@ file = "config/ftblib.cfg"
 hash = "e9c807b6a4ac7a3075018002ea0f5e822b3dd01e36e6590a20f2e590431f0c5b"
 
 [[files]]
+file = "config/globalgamerules.cfg"
+hash = "d6d10754500a4176e123db7e7dead7d5f4d9781b47984aa345dbab168b5e2f3d"
+
+[[files]]
 file = "config/grimoireofgaia.cfg"
 hash = "821168b439116c453a15fee7305515ac1f452582b3c1d5bee69cd8481a933185"
 
@@ -4854,7 +4858,7 @@ hash = "eff4c2594988239af664a5731ed8dbaea89285d478117e4c417d369d98c60c2c"
 
 [[files]]
 file = "config/hardcoredarkness.cfg"
-hash = "999b8164cec54008e6c3fcde199a4616010fcc9cd63653e783798d2c6c768b4a"
+hash = "9a9e5407cb39b033fe78ffa857facf479250e5010d5c7dc52cd30cb49c8ff44d"
 
 [[files]]
 file = "config/harvestcraft.cfg"
@@ -5182,7 +5186,7 @@ hash = "8b8793f1be1e542127ab09e614ebc045088422aa4c4a30104a25476e0c3a29a2"
 
 [[files]]
 file = "config/solcarrot.cfg"
-hash = "d552752a55d392092595e8c46852e1fc3958785ec596874ced0ed3aa8f91ae06"
+hash = "bb1bc52c47108351ce84c6adef3fc9ba3320f373036b4b1ae778c757e4c0f838"
 
 [[files]]
 file = "config/splash.properties"
