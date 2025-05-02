@@ -5118,7 +5118,7 @@ hash = "df2572c307d6e40b5a40573547592becae753fe3ea0d1e43c84ab5560404fdd8"
 
 [[files]]
 file = "config/optionsenforcer.cfg"
-hash = "b80a21dc97a7cd82f8a78d3b41a6b70373281e791a65020c19da44acfdf9eadf"
+hash = "9728b09cadb96eaae0602b04a264833a45feaa1834a38855d019d16d8ddb1349"
 
 [[files]]
 file = "config/overpoweredarmorbar.cfg"
