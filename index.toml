@@ -5117,6 +5117,10 @@ file = "config/opencomputers/settings.conf"
 hash = "df2572c307d6e40b5a40573547592becae753fe3ea0d1e43c84ab5560404fdd8"
 
 [[files]]
+file = "config/optionsenforcer.cfg"
+hash = "b80a21dc97a7cd82f8a78d3b41a6b70373281e791a65020c19da44acfdf9eadf"
+
+[[files]]
 file = "config/overpoweredarmorbar.cfg"
 hash = "fe7fd50f0be0bfe087010ec34546b70537c020673d21b961d92b905d91fb726a"
 
@@ -5147,10 +5151,6 @@ hash = "9d310ab378b07d153bf92e07139eeeeb4f75494f61cdd32cec674192da4aa0ce"
 [[files]]
 file = "config/returnoftheancients.cfg"
 hash = "a720ad18bc1cccc26aefad2e032c01ec5c4ebba3406d66193fca0fada8f4e11e"
-
-[[files]]
-file = "config/sarosdefaultoptions.cfg"
-hash = "a1c33490a0691b2903008c1851282f0f7155c330c46b21f181ffca73d55082f8"
 
 [[files]]
 file = "config/sereneseasons/biome_info.json"
@@ -6091,6 +6091,11 @@ hash = "7401b8223202739120a3ddebb2fc745c617d65683f5b5dd056f40fd42afabf88"
 metafile = true
 
 [[files]]
+file = "mods/options-enforcer.pw.toml"
+hash = "150f501799bb3f7bfb0c9e541d830bbcccc1b0d0a23252be73f0b81b5b4a4f9f"
+metafile = true
+
+[[files]]
 file = "mods/overloaded-armor-bar.pw.toml"
 hash = "7170c2064cf0fb1eda40bd68f2fd5674ec6a93316a8f4e79cd4a711a1fac0b96"
 metafile = true
@@ -6193,11 +6198,6 @@ metafile = true
 [[files]]
 file = "mods/robotic-parts-first-aid-compat.pw.toml"
 hash = "b3351a21898e5c86ae37a11e750a447ecb262fa38759818d423a1ab7b8f45ea5"
-metafile = true
-
-[[files]]
-file = "mods/saro-s-default-options.pw.toml"
-hash = "21ab43405f728bec820573d58c1960ce9a72746394f73a557a5240a77d42194b"
 metafile = true
 
 [[files]]
@@ -6406,10 +6406,6 @@ hash = "2f4a502df075686c1a61207046af3182d41ea1a5073209f941a4121e36c97e11"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "5c451981ffc5fed7b3f2fe735da91ab0cb7708bb488a3b57e8baf6d0fa013a57"
-
-[[files]]
 file = "resourcepacks/ar-pixelated.pw.toml"
 hash = "f7ffb4d3e8351f0e73234ca79727dae7fae9cd794f45f2ae2dd739244679f48d"
 metafile = true
@@ -6417,6 +6413,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/techgunsre.pw.toml"
 hash = "cb8a877208b6c8769736a70a21a4800ed6032005918118c054e0c840c1a2f4ea"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thaum-pack.pw.toml"
+hash = "ba3724b4b76eb364acd96985b11b89f301560ac65a475605fc302ebf1b760001"
 metafile = true
 
 [[files]]
