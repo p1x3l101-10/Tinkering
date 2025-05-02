@@ -6126,11 +6126,6 @@ hash = "6b1226fcc7ed4e7291c3c5322614a7cfbdad02f5728102591a3bdd985016c5d0"
 metafile = true
 
 [[files]]
-file = "mods/pams-spooky-tree.pw.toml"
-hash = "5faff2e8247579807a61fcb0c3dcbd7ed4e0c8ad1a670e5505eafe703156f47a"
-metafile = true
-
-[[files]]
 file = "mods/passive-searchbar.pw.toml"
 hash = "0826cf2543a02ad09eb2fb156cb6080b4499b1a1064e366c781e1093674c13b5"
 metafile = true
