@@ -5145,10 +5145,6 @@ file = "config/realfilingcabinet.cfg"
 hash = "a697255c38076da007b61147cba32d7c1dd31061cf34a08c1f30304fbf24f955"
 
 [[files]]
-file = "config/redbudtree.cfg"
-hash = "9d310ab378b07d153bf92e07139eeeeb4f75494f61cdd32cec674192da4aa0ce"
-
-[[files]]
 file = "config/returnoftheancients.cfg"
 hash = "a720ad18bc1cccc26aefad2e032c01ec5c4ebba3406d66193fca0fada8f4e11e"
 
@@ -5191,10 +5187,6 @@ hash = "05c1c92f0303d26147b8d9074f8e5e6728b833457d3d9e200d3bffd72473206e"
 [[files]]
 file = "config/splash.properties"
 hash = "e161dcbcf833831a5f44a79918ad23c3c14b4f68ae61656fd6e16ced3bd9ff77"
-
-[[files]]
-file = "config/spookytree.cfg"
-hash = "a510ef559a0b6dd59f02b2079c61c71ac8981013c98b545d158c6e2a8f54cc24"
 
 [[files]]
 file = "config/storagedrawers.cfg"
@@ -5738,11 +5730,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-trees-integrated-dynamics.pw.toml"
 hash = "f46f010e610100b0cd4a995cdd8a0db85083eebc355b16dd488ee63b6ac2d7ef"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-pams-trees.pw.toml"
-hash = "23bb7875b49b816d9c6c1fcc4f4f63a5a1228dc51aa962cdabd35d97200fd762"
 metafile = true
 
 [[files]]
