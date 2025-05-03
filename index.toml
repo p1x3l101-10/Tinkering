@@ -5262,7 +5262,7 @@ hash = "ddf534984efdfdd99e7b90419f9c725d6ac77e031da59e94a733fbbab0e9b277"
 
 [[files]]
 file = "config/tinkersurvival.cfg"
-hash = "4eea70f2f0c0434e0626c917306021bab53e20b8d6e17f919cacbb208eaffe58"
+hash = "782eb4bf12ce72e7613aead0c3f5fb4735d28793c7d826abf2172e787d6fabd9"
 
 [[files]]
 file = "config/tmechworks-blacklist.json"
