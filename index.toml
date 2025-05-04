@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "components/net.minecraft.json"
+hash = "f0ff557f7097726e5875f301e8bbcf8ee81324b6bca7954c6b7a07bce6150d5b"
+
+[[files]]
+file = "components/net.minecraftforge.json"
+hash = "8e9a052978aff3be868a4d97959592fc5627001e235c71a6373c319ce1af5246"
+
+[[files]]
+file = "components/org.lwjgl3.json"
+hash = "b037e99e96631d7fa2e928754b9b7a76b5cb2909d17b0c9aa6d5f67b4223c731"
+
+[[files]]
 file = "config/AE2Stuff/overrides/recipes.cfg"
 hash = "a3b47b7340c636682c3cf5b09bbeeb9b3b867639009ba4417495027173fbcec6"
 
@@ -6429,4 +6441,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "b8a3d6b8bc0f5a8f5afea0611e41b1027342e581ca8e98e18118b762c301dc06"
+hash = "4e698cacb4c6dcb732d04fcbb76b9a79f0c499053df1b6ad097ec0e5e73d072f"
