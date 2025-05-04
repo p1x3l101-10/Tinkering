@@ -17,7 +17,6 @@ LWJGL_VERSION="$(yq '.versions.lwjgl' ./pack.toml)"
 LWJGL3_VERSION="$(yq '.versions.lwjgl3' ./pack.toml)"
 # Might be ""
 FORGE_VERSION="$(yq '.versions.forge' ./pack.toml)"
-CLEANROOM_VERSION="$(yq '.versions.cleanroom' ./pack.toml)"
 FABRIC_VERSION="$(yq '.versions.fabric' ./pack.toml)"
 
 # Figure out what loader we are using
@@ -25,9 +24,6 @@ MODLOADER="vanilla"
 if [[ $FORGE_VERSION != "null" ]]; then
   MODLOADER="forge"
   export FORGE_VERSION
-elif [[ $CLEANROOM_VERSION != "null" ]]; then
-  MODLOADER="cleanroom"
-  export CLEANROOM_VERSION
 elif [[ $FABRIC_VERSION != "null" ]]; then
   MODLOADER="fabric"
   export FABRIC_VERSION
@@ -53,9 +49,6 @@ envsubst < ./minecraft.yml > $WORKDIR/minecraft.yml
 envsubst <  ./unsup.yml > $WORKDIR/unsup.yml
 if [[ $MODLOADER == "forge" ]]; then
   envsubst <  ./forge.yml > $WORKDIR/loader.yml
-  echo "" > $WORKDIR/extra.yml
-elif [[ $MODLOADER == "cleanroom" ]]; then
-  envsubst <  ./cleanroom.yml > $WORKDIR/loader.yml
   echo "" > $WORKDIR/extra.yml
 elif [[ $MODLOADER == "fabric" ]]; then
   echo "Not yet implimented for fabric loader!"
@@ -87,13 +80,6 @@ yq -o json ./processed.yml > mmc-pack.json
 mkdir patches
 mkdir minecraft
 popd || exit 1
-popd || exit 1
-pushd "$1/../../../components" || exit 1
-mkdir -p $WORKDIR/minecraft/components
-cp -r ./* $WORKDIR/minecraft/components
-for file in ./*; do
-  ln -s ../minecraft/components/$file $WORKDIR/patches/$file
-done
 popd || exit 1
 pushd "$1/patches" || exit 1
 envsubst < ./com.unascribed.unsup.yml | yq -o json e > $WORKDIR/patches/com.unascribed.unsup.json
