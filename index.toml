@@ -314,7 +314,7 @@ hash = "2b0fc33bb360bbe7afecc5989ce0c80924686afc77ef18bc82b48c4e22ab5db4"
 
 [[files]]
 file = "config/RTG/rtg.cfg"
-hash = "f0dd84e27bc4861d6b369e3fd895def4d52d083b6f04ed9252ee31405cb9d8c1"
+hash = "9fe924fb7b00cdd30945d4f6f5ee0b284883314649424395ba898cc993880ba6"
 
 [[files]]
 file = "config/RoughlyEnoughIDs.cfg"
