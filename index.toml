@@ -45,14 +45,6 @@ file = "config/AppliedEnergistics2/items.csv"
 hash = "994eaaebd7d092b45d85ab87016d9b3547d18a95b85d59b50504104391cb6415"
 
 [[files]]
-file = "config/BNBGamingCore.cfg"
-hash = "59d08e887f8e232f299f66bdfa0bebe011ffc57025347ec8e37642195aef91b4"
-
-[[files]]
-file = "config/Building Gadgets.cfg"
-hash = "23f1c16e597e9e85bf245c2d10dd1f047272447c3462fbfc3f57d399fc743d18"
-
-[[files]]
 file = "config/Elenai Dodge 2.cfg"
 hash = "cd2c0c636deb4d4ebed9da43b2590f3a08b39ae13b7656f2c3eb1a8c23c59c7b"
 
@@ -5618,11 +5610,6 @@ metafile = true
 [[files]]
 file = "mods/botw-mod.pw.toml"
 hash = "d22afca56536e618966354d594377f2e2b4ac98eee1a057aeb9450d22d412613"
-metafile = true
-
-[[files]]
-file = "mods/building-gadgets.pw.toml"
-hash = "9d0e538e8dd2bdf2c7c67bf8fba566bbae9e6cba268c46699b6d2866f22d72cf"
 metafile = true
 
 [[files]]
