@@ -5825,6 +5825,16 @@ hash = "6554cad9359d646b664821677758a3595e24d65bb39055ba5047d6bf8f250b7d"
 metafile = true
 
 [[files]]
+file = "mods/forgelin-continuous.pw.toml"
+hash = "870b06ce40143aa3b0e2c080222dbd88b07c9fdaf7622cada623051cd8ae287c"
+metafile = true
+
+[[files]]
+file = "mods/fugue.pw.toml"
+hash = "51a977219e45c0364325b8b9f7fb74731af0ae57402914b0dac26e5b13501f46"
+metafile = true
+
+[[files]]
 file = "mods/global-gamerules.pw.toml"
 hash = "60cad69e152541227ce12e2237a2cf52dc71a61c30b196fac7d459668d1787b1"
 metafile = true
@@ -5997,6 +6007,11 @@ metafile = true
 [[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "058d9855c85b9d1ac0101f107edcba0f61144d9215eaf0fd823f142ccf1cfd11"
+metafile = true
+
+[[files]]
+file = "mods/librarianlib-continuous.pw.toml"
+hash = "a7a894eded397aaa5733a182aa70a12d116cf691450b48cbfd1698afba261df1"
 metafile = true
 
 [[files]]
@@ -6207,6 +6222,11 @@ metafile = true
 [[files]]
 file = "mods/save-my-stronghold.pw.toml"
 hash = "cdcbce43983bff59233f781292af704d2df98e361c83dc3daf54890893963fea"
+metafile = true
+
+[[files]]
+file = "mods/scalar.pw.toml"
+hash = "4cba28013a5b23c480dd5f02842cc9cd0ed563d4c77fdc963df8d8cdba705f65"
 metafile = true
 
 [[files]]

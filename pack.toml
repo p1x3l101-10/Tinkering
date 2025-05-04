@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0e59e7ccc75a1ee338e1a2fb627e7d5fa2c6ea12bb05e9c9b12198a1fdd5e556"
+hash = "1d202d07f143bff6b808ce3cfeb63911ee00861c4cd847df22b24f38ff8934d5"
 
 [versions]
 cleanroom = "0.3.2-alpha"
