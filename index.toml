@@ -5994,7 +5994,7 @@ metafile = true
 
 [[files]]
 file = "mods/lunatriuscore.pw.toml"
-hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
+hash = "fd2475091d10055533c40d23961cd765a3691017dedc7e68acf03bf57f05e644"
 metafile = true
 
 [[files]]
@@ -6199,7 +6199,7 @@ metafile = true
 
 [[files]]
 file = "mods/schematica.pw.toml"
-hash = "a3aa2700b4d47293eba2287a0931959d13cda946c8a372f933faf747c51a5286"
+hash = "6a6e949395eace34dca3f04035c9430d2561cffd81ce4f5b72e37b5f490c323e"
 metafile = true
 
 [[files]]
