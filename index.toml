@@ -5617,6 +5617,11 @@ hash = "d22afca56536e618966354d594377f2e2b4ac98eee1a057aeb9450d22d412613"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "9d0e538e8dd2bdf2c7c67bf8fba566bbae9e6cba268c46699b6d2866f22d72cf"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "d070affedad8159a8e779e5257178dd0b8ad5cf6c2f2a3f1f37395d3f52f7181"
 metafile = true
@@ -5768,7 +5773,7 @@ metafile = true
 
 [[files]]
 file = "mods/engineered-golems.pw.toml"
-hash = "c4cd5fadeb4210f047549736911600273a292ecf56554df50ed0af94f0f127db"
+hash = "91288c7fa959ce571a3a55245f1c9e89d2407e1900fd2791fd8dba01173d33dc"
 metafile = true
 
 [[files]]
@@ -5778,7 +5783,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-arcanum.pw.toml"
-hash = "02235a5779cd2357569aa65358f41afbe9ae99a1232e4be684c86dfe2c7e4fa5"
+hash = "f21bc4f3726fedd5883cd549d6e9708c96e011289775f057f9df0fa3c54daa48"
 metafile = true
 
 [[files]]
