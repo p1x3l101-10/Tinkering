@@ -53,6 +53,10 @@ file = "config/Elenai Dodge 2.cfg"
 hash = "cd2c0c636deb4d4ebed9da43b2590f3a08b39ae13b7656f2c3eb1a8c23c59c7b"
 
 [[files]]
+file = "config/ExpandedArcanum.cfg"
+hash = "22f667a22ef67d2c4d1fec3bc00e2ed2c2eaa7817fd264e19d686e659f51577b"
+
+[[files]]
 file = "config/GoGRedux.cfg"
 hash = "552d846d8ce5e17b3c95e3f020016effd9f7087766e169fd8624bb259b5727f0"
 
