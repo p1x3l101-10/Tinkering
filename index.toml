@@ -5738,6 +5738,11 @@ hash = "09d26466be25ff213b64e5242008ca65fad1bfa82ca23d11fd961461a13b9cde"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-the-twilight-forest.pw.toml"
+hash = "f0ec4dbdfea80743b9e96adaf7d1ce29083904fc949e3a919c23001f9ce97660"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-tinkers-construct.pw.toml"
 hash = "fd731c3b72ba4721d5f83985d06ae8c2866586a80991891e3fa4aa8620e615d9"
 metafile = true
