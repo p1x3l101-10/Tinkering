@@ -4842,7 +4842,7 @@ hash = "e9c807b6a4ac7a3075018002ea0f5e822b3dd01e36e6590a20f2e590431f0c5b"
 
 [[files]]
 file = "config/globalgamerules.cfg"
-hash = "d6d10754500a4176e123db7e7dead7d5f4d9781b47984aa345dbab168b5e2f3d"
+hash = "cda024f2b03bb3fa0651f9d78dd3816658c9f4ef1c34cd7f8ba587aa58154aa4"
 
 [[files]]
 file = "config/grimoireofgaia.cfg"
