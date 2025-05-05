@@ -5428,11 +5428,6 @@ hash = "5e757936c17ae4e690b2f5138ef214b8930a2606f2a2c9486c919fdba528b23a"
 metafile = true
 
 [[files]]
-file = "mods/advancement-book.pw.toml"
-hash = "f94f3ed225a20ec8cffd84f0908e8244928c29dd4b45333228674c483d6a4d75"
-metafile = true
-
-[[files]]
 file = "mods/ae2-extended-life.pw.toml"
 hash = "3d81facb068d80b7c07491d7d090e359213f96af2b00f4d36b5f63de24ab6a1b"
 metafile = true
@@ -5608,16 +5603,6 @@ hash = "b87e420bc773691add9424b8a51694471ae47ca3e20616f7eb126dda8a87af70"
 metafile = true
 
 [[files]]
-file = "mods/botw-mod.pw.toml"
-hash = "d22afca56536e618966354d594377f2e2b4ac98eee1a057aeb9450d22d412613"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "d070affedad8159a8e779e5257178dd0b8ad5cf6c2f2a3f1f37395d3f52f7181"
-metafile = true
-
-[[files]]
 file = "mods/chameleon.pw.toml"
 hash = "c2e70ed47c81de37114a31dfac4cad60df3cc4065086de47bc998e51ae9508e1"
 metafile = true
@@ -5645,11 +5630,6 @@ metafile = true
 [[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "533b9cea0d0bfece9123d5ca5120d92121965398162acafc48fe1ef48a82ef09"
-metafile = true
-
-[[files]]
-file = "mods/constructs-armory.pw.toml"
-hash = "5dabc80940723793c4644317c90d5c4127eca24334b0988435df39bfa4dc2d3a"
 metafile = true
 
 [[files]]
@@ -5743,18 +5723,8 @@ hash = "f0ec4dbdfea80743b9e96adaf7d1ce29083904fc949e3a919c23001f9ce97660"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-tinkers-construct.pw.toml"
-hash = "fd731c3b72ba4721d5f83985d06ae8c2866586a80991891e3fa4aa8620e615d9"
-metafile = true
-
-[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "89b8dde059dc0fff8cc897211c56f5124a88fda1fc391ffb3063a712c56d6707"
-metafile = true
-
-[[files]]
-file = "mods/electrostatic-tinkers-toys.pw.toml"
-hash = "b3c9a4cc714caa9ebdbfac516ff22438f4e0b147dbe068bab526ca9e9c9af695"
 metafile = true
 
 [[files]]
@@ -6068,31 +6038,6 @@ hash = "71444d33a5dfd180da868fa2b3b1da34cf2ef083d998210d8350cc63001c311a"
 metafile = true
 
 [[files]]
-file = "mods/oc-sensors.pw.toml"
-hash = "e8bf9a5641c1a7177cb289dfd4351cd87ac2a837918662e1be55a8a84855785e"
-metafile = true
-
-[[files]]
-file = "mods/oc-xnet-driver.pw.toml"
-hash = "b66521b68870c691e80fb15787577e12f29cb7944b587693c9677da460f8664f"
-metafile = true
-
-[[files]]
-file = "mods/ocdriversplus.pw.toml"
-hash = "b06d2642a4e541bc969aa549606a92e8e40207406b1cea4cd3442e33b047001b"
-metafile = true
-
-[[files]]
-file = "mods/opencomputers-drivers-for-tinkers-construct.pw.toml"
-hash = "c2f9b511627d16013eed44c43c7385d1220b43258ba13edddcd7ba66eaa5871e"
-metafile = true
-
-[[files]]
-file = "mods/opencomputers.pw.toml"
-hash = "7401b8223202739120a3ddebb2fc745c617d65683f5b5dd056f40fd42afabf88"
-metafile = true
-
-[[files]]
 file = "mods/options-enforcer.pw.toml"
 hash = "4c7f134e0a2a362020cb394fb256189a1f1896235d8661c35ea16373686cefcc"
 metafile = true
@@ -6133,11 +6078,6 @@ hash = "c4839377b87232891544ec2f48a9633e6c7cf5a80fc83cf4bae78c32dd0bc951"
 metafile = true
 
 [[files]]
-file = "mods/pet-buddy-mod.pw.toml"
-hash = "7060e73db170f05e133469104a4668fdcd500f8ba7de32ca80feb61a7cfc1cfd"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "827848ef14a94fa57f3d5debafef8d9928a1a883278e388f80aab1e63137f4b4"
 metafile = true
@@ -6155,11 +6095,6 @@ metafile = true
 [[files]]
 file = "mods/rather-enough-immersive-multiblocks.pw.toml"
 hash = "45cc70ae86eb3db963eda3a770b40b3000ef2ee0daf276b15b5bb3423b412242"
-metafile = true
-
-[[files]]
-file = "mods/real-filing-cabinet.pw.toml"
-hash = "4feeebff9c1393648dd4aaffe248e0aa2acbc762b792dd6a3484838894cc2d9c"
 metafile = true
 
 [[files]]
@@ -6208,11 +6143,6 @@ hash = "6a6e949395eace34dca3f04035c9430d2561cffd81ce4f5b72e37b5f490c323e"
 metafile = true
 
 [[files]]
-file = "mods/seared-ladder-backport.pw.toml"
-hash = "d5b56c0fc09ce272e1d8f0bf1a09658eade33e0f382023cb1457bce72579fe1f"
-metafile = true
-
-[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "847f37a4171618677c3fdd657b3c191b98dfda1d341a1c6c5c365c5632a1fb94"
 metafile = true
@@ -6220,11 +6150,6 @@ metafile = true
 [[files]]
 file = "mods/shadowfacts-forgelin.pw.toml"
 hash = "361befd1dd83aaa1f20d8beef56414ce7f0d02f2e1b17599cbbad9316365e981"
-metafile = true
-
-[[files]]
-file = "mods/signpost.pw.toml"
-hash = "6e01e38a083a0923f567f2cd5f2505551986a560eaa261951a6cf7d27272862d"
 metafile = true
 
 [[files]]
@@ -6250,11 +6175,6 @@ metafile = true
 [[files]]
 file = "mods/surge.pw.toml"
 hash = "73832dc3fb4ce2bf74ae7e637e9b5e874ad109f0c6571e381e60c8f74d0f8bc3"
-metafile = true
-
-[[files]]
-file = "mods/techguns.pw.toml"
-hash = "ab6b0083166f2832dd706c5347b3da545f8d425ea3f9c4b8f0d9e15287f766e7"
 metafile = true
 
 [[files]]
@@ -6300,51 +6220,6 @@ metafile = true
 [[files]]
 file = "mods/time-in-a-bottled.pw.toml"
 hash = "d24e79c426f8167fd5e792ec83fdf08ba75ed14ecb17de871d1e1367ad9b25a2"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-antique.pw.toml"
-hash = "8fb7d9a3a36f760e61e3d12c1d7aca06c4d1221c9721f326e78f7c8c361c1eaa"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-complement.pw.toml"
-hash = "2fe1ff6b0fad41385ca9807a7cde190e717664a44c4d464f60d2d91a9fe3f462"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-disassembler.pw.toml"
-hash = "22061bcc1c648dda179677ae2c4a25e24b0edb234d6c20b9d89a276af630711b"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-jei.pw.toml"
-hash = "5c4dc723969a41e43e527b11a6f6be456e79e89d2b87d7ffae9aab116f55def0"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-mechworks-legacy.pw.toml"
-hash = "7fb15d6e329dd9954741f1d73eb33eab8bb10fe7d88636199daec8ca5fbf6cc2"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-oredict-cache.pw.toml"
-hash = "ffca0220bbd8b7e8b030d5748bf7752fb3daf1c28f6c7df42f4eed5822afe0b5"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-tool-leveling.pw.toml"
-hash = "e7630ce2a9a3e2f6df3a066f6184b86cc44784d674aa16080b175659e90c0e7f"
-metafile = true
-
-[[files]]
-file = "mods/tinkersextras.pw.toml"
-hash = "27a39c5398e88a765c838cc97ffb353d14bf45abf843834b3df5584d407460b5"
-metafile = true
-
-[[files]]
-file = "mods/tinkersurvival.pw.toml"
-hash = "80da1881ad4e1800761f13ab9ef21976943a66917123aa567d9cb5ddfafc1641"
 metafile = true
 
 [[files]]
@@ -6400,11 +6275,6 @@ metafile = true
 [[files]]
 file = "mods/wanionlib.pw.toml"
 hash = "c9c513d832a79adea881e9f915c2439c6c257a8c41a9bbf8342b8728edb152ff"
-metafile = true
-
-[[files]]
-file = "mods/ynet-an-xnet-fork.pw.toml"
-hash = "1763956d888beccb1b81e6ac7a17605acf06c74fe0855d7151958a3706ef8de3"
 metafile = true
 
 [[files]]
