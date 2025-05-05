@@ -5893,11 +5893,6 @@ hash = "0a823d4c0a0daa1047a498066d174c7a5e55e0c7b0749f962c2956067d87f56e"
 metafile = true
 
 [[files]]
-file = "mods/integrated-computers.pw.toml"
-hash = "9767d5fc0dd148b623d69bff3cf36bc19c60d91ff29b662d1c0c741f12fa5bb1"
-metafile = true
-
-[[files]]
 file = "mods/integrated-crafting.pw.toml"
 hash = "2b10b4cf7e48749a9ff67f5831a178944786c27fba8cadbe4255d475ef42bbc9"
 metafile = true
@@ -6000,11 +5995,6 @@ metafile = true
 [[files]]
 file = "mods/mixinbootstrap.pw.toml"
 hash = "f4650fa691b456a7e81cbfe04c108a50e9e56151a469bb0da5cba8541af2ee02"
-metafile = true
-
-[[files]]
-file = "mods/moar-tinkers.pw.toml"
-hash = "0c0c33c8d5beee19b94d48ffbcf2b5bb54643c1dea85064d40e3b2694f3c60de"
 metafile = true
 
 [[files]]
@@ -6190,11 +6180,6 @@ metafile = true
 [[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "bec7c1a87d50dcc626bddb295a5cf3eca01e26ce07bc4189ef6802e37947a7e6"
-metafile = true
-
-[[files]]
-file = "mods/thaumic-computers.pw.toml"
-hash = "b1fe12bdcfffffa76aa4e89e0237a266899db9827aac190e7f11c2aa72c35e19"
 metafile = true
 
 [[files]]
