@@ -5608,6 +5608,11 @@ hash = "7f7114b9d1ed26d4930dd9c437a153940d7dbc289d5b53c08f30eab0b13d0551"
 metafile = true
 
 [[files]]
+file = "mods/clipboard.pw.toml"
+hash = "ca0360012696657cd0e2859de7b27c0d22af2e9bed300f28e62299e473d653e9"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "5d2830cd2186a257a275a4ea1497a596207e13c84f77f707041a9fcb58565ab6"
 metafile = true
@@ -5714,7 +5719,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-trees-the-twilight-forest.pw.toml"
-hash = "f0ec4dbdfea80743b9e96adaf7d1ce29083904fc949e3a919c23001f9ce97660"
+hash = "e1ba3750d1ac75a9a52ca65c1669349e9c7baadca7bb6c9e5b8eb92dc98f6013"
 metafile = true
 
 [[files]]
@@ -6135,6 +6140,11 @@ metafile = true
 [[files]]
 file = "mods/shadowfacts-forgelin.pw.toml"
 hash = "361befd1dd83aaa1f20d8beef56414ce7f0d02f2e1b17599cbbad9316365e981"
+metafile = true
+
+[[files]]
+file = "mods/shadowmc.pw.toml"
+hash = "6daca9dcdd207215aabac554c551f9b724f712a4a9cf982324909fc1cf8222b5"
 metafile = true
 
 [[files]]

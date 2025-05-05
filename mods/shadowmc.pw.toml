@@ -1,0 +1,13 @@
+name = "ShadowMC"
+filename = "ShadowMC-1.12-3.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "7bd5920c9bd6846de468ea10693a83a436813f83b2ab340f665c21904840cc93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2441500
+project-id = 226780

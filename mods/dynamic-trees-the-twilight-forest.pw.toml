@@ -3,8 +3,8 @@ filename = "dynamictreesTheTwilightForest-1.12.2-1.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e7ff6b08eda6d1860cf4355fe80e6a27f5d974fb"
+hash-format = "sha256"
+hash = "2516a1ef2c3f708983c5c3769bc975af17b78d0568f332108f61903c6941de1c"
 mode = "metadata:curseforge"
 
 [update]
