@@ -5523,11 +5523,6 @@ hash = "88949496d9d429aef90bfc90bcc1097c06048757ec1ea0869a63ddc58069aad5"
 metafile = true
 
 [[files]]
-file = "mods/armory-expansion.pw.toml"
-hash = "1aa5b3b437a101c34e467621aa2f121a72251a52805cfdd67565f9e06c668a7e"
-metafile = true
-
-[[files]]
 file = "mods/astral-additions.pw.toml"
 hash = "4c6531a1eae5bca8bb266738b3e53451cd9733d9d1eabd62c5b47097d863b86e"
 metafile = true
