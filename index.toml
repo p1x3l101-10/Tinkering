@@ -5118,7 +5118,7 @@ hash = "df2572c307d6e40b5a40573547592becae753fe3ea0d1e43c84ab5560404fdd8"
 
 [[files]]
 file = "config/optionsenforcer.cfg"
-hash = "9728b09cadb96eaae0602b04a264833a45feaa1834a38855d019d16d8ddb1349"
+hash = "826ff3f776d5a843d4d281fb68bbacf3dc39f46c0767024530b68604bd3a0a43"
 
 [[files]]
 file = "config/overpoweredarmorbar.cfg"
@@ -6265,11 +6265,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/ar-pixelated.pw.toml"
 hash = "f7ffb4d3e8351f0e73234ca79727dae7fae9cd794f45f2ae2dd739244679f48d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/techgunsre.pw.toml"
-hash = "cb8a877208b6c8769736a70a21a4800ed6032005918118c054e0c840c1a2f4ea"
 metafile = true
 
 [[files]]
