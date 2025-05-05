@@ -6178,6 +6178,11 @@ hash = "201b61d503839fb23bf8dde9213827767305c91c3d70ba83cbc68242105fdfa4"
 metafile = true
 
 [[files]]
+file = "mods/thaumcraft-inventory-scanning.pw.toml"
+hash = "ee2bbb0c6e51ecc1e42dbdb7166962a5afecbd68c172807e5b922de99514bc76"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft-return-of-the-ancients.pw.toml"
 hash = "1b1c4cf4369f99267cbebf7279babb7dc969a9043400a30a37efe32bcc541843"
 metafile = true
@@ -6188,6 +6193,16 @@ hash = "bec7c1a87d50dcc626bddb295a5cf3eca01e26ce07bc4189ef6802e37947a7e6"
 metafile = true
 
 [[files]]
+file = "mods/thaumic-augmentation.pw.toml"
+hash = "bf58f8054a902c0e808eb42876c842d91deff3558ca85959de2fbf0a56789a03"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-brewing.pw.toml"
+hash = "a26cb3281431f45c9d66c11455ed408c42e423667eb05d5043b0a2777dc0689d"
+metafile = true
+
+[[files]]
 file = "mods/thaumic-jei.pw.toml"
 hash = "a379d08efb7c83fea686cd3961c576e96c06d9479dbe421cfb7ac4cfcd270a01"
 metafile = true
@@ -6195,6 +6210,11 @@ metafile = true
 [[files]]
 file = "mods/thaumic-terminal.pw.toml"
 hash = "20bd4e3a8b2b2a5f70ef49a8264fdfc43a20047422b13c5c4a730eb327a25bc7"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-tinkerer.pw.toml"
+hash = "2d24e6ea181c02508675eaff7876f59405c1f5c7eb4d4ca2ba98358c625f43f6"
 metafile = true
 
 [[files]]

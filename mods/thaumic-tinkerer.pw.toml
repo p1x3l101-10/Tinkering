@@ -1,0 +1,13 @@
+name = "Thaumic Tinkerer"
+filename = "thaumictinkerer-1.12.2-5.0-620a0c5.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "c0d7f101d48df20753aca7eb2df4a70cf26fc432036f56740547a162da06d628"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2957213
+project-id = 75598
