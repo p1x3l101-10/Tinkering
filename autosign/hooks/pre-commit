@@ -1,7 +1,8 @@
 #!/bin/sh
 
 # Run refresh regardless of what changed
-packwiz refresh > /dev/null
+packwiz refresh
+git add pack.toml index.toml
 
 # Files to monitor and sign
 FILE="pack.toml"
