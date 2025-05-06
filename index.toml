@@ -5838,6 +5838,16 @@ hash = "058d9855c85b9d1ac0101f107edcba0f61144d9215eaf0fd823f142ccf1cfd11"
 metafile = true
 
 [[files]]
+file = "mods/libnine.pw.toml"
+hash = "ab5af7f3214d606c5be82f779c0fd5ea477b0d97062191b978e9ba87a4dfd8db"
+metafile = true
+
+[[files]]
+file = "mods/librarianlib.pw.toml"
+hash = "8f5af287f949aa27f37e9c62b4ad76c08fd89b9475dbcf7d9f6008ea3b9ff2cd"
+metafile = true
+
+[[files]]
 file = "mods/llibrary.pw.toml"
 hash = "c0df10feb0433b75f36db3874862d7953f0765fa55a974cd319718cdcd281c22"
 metafile = true
@@ -5965,6 +5975,21 @@ metafile = true
 [[files]]
 file = "mods/psi.pw.toml"
 hash = "e9482159415909c47e1e24658e2882e7d64b9076094c89252676cc24e46630c0"
+metafile = true
+
+[[files]]
+file = "mods/psicaster.pw.toml"
+hash = "ed835fefd0996bca3656a84fdc12c2bd372509b7d8c725532cd45d4036c26866"
+metafile = true
+
+[[files]]
+file = "mods/psio.pw.toml"
+hash = "0225d16aee009d293af84624d9c688bae2ea8b675bc259d6dba1b18e2e1e9cbb"
+metafile = true
+
+[[files]]
+file = "mods/random-psideas.pw.toml"
+hash = "6207c5969ef967e0c67785a862b303caf919679de941e156abf67ef8fb5197c8"
 metafile = true
 
 [[files]]
@@ -6175,6 +6200,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-caves.pw.toml"
 hash = "2f4a502df075686c1a61207046af3182d41ea1a5073209f941a4121e36c97e11"
+metafile = true
+
+[[files]]
+file = "mods/zettai-psi.pw.toml"
+hash = "67afa215742e1f8044167cb9c941c969b0e85d4619b562c2ecfe9d44c8055b1f"
 metafile = true
 
 [[files]]

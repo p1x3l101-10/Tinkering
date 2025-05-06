@@ -1,0 +1,13 @@
+name = "LibrarianLib"
+filename = "librarianlib-1.12.2-4.22.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "fb4b1db99785f79cef6f9bb45de99312897dabc64904851ba31331742a39e22f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3041340
+project-id = 252910
