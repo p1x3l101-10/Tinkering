@@ -1,0 +1,15 @@
+name = "Tinkering"
+author = "P1x3l101"
+version = "2.0.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "29310ab7bd3c742c29cf2ada59805409196abc9c7d7b6cad389cd1ae72c85a54"
+
+[versions]
+forge = "14.23.5.2860"
+lwjgl = "2.9.4-nightly-20150209"
+minecraft = "1.12.2"
+unsup = "1.1-pre9"
