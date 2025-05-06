@@ -6223,6 +6223,11 @@ hash = "d24e79c426f8167fd5e792ec83fdf08ba75ed14ecb17de871d1e1367ad9b25a2"
 metafile = true
 
 [[files]]
+file = "mods/tis-3d.pw.toml"
+hash = "84939a01aa966a5545c2bec20411b198da78896a51bebfa0cde16d7853daa743"
+metafile = true
+
+[[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "aa3094b711dab4952f2bc14ef66b082eec8d5735871b8463d701a9beff25161b"
 metafile = true
