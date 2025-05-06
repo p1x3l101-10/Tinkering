@@ -6083,6 +6083,11 @@ hash = "03332ececcb145733c9781c118b3f719b6795c6571ce18b7418a7dd92eede782"
 metafile = true
 
 [[files]]
+file = "mods/psi.pw.toml"
+hash = "e9482159415909c47e1e24658e2882e7d64b9076094c89252676cc24e46630c0"
+metafile = true
+
+[[files]]
 file = "mods/rather-enough-immersive-multiblocks.pw.toml"
 hash = "45cc70ae86eb3db963eda3a770b40b3000ef2ee0daf276b15b5bb3423b412242"
 metafile = true
