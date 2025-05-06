@@ -45,6 +45,10 @@ file = "config/AppliedEnergistics2/items.csv"
 hash = "994eaaebd7d092b45d85ab87016d9b3547d18a95b85d59b50504104391cb6415"
 
 [[files]]
+file = "config/Building Gadgets.cfg"
+hash = "23f1c16e597e9e85bf245c2d10dd1f047272447c3462fbfc3f57d399fc743d18"
+
+[[files]]
 file = "config/Elenai Dodge 2.cfg"
 hash = "cd2c0c636deb4d4ebed9da43b2590f3a08b39ae13b7656f2c3eb1a8c23c59c7b"
 
@@ -331,6 +335,10 @@ hash = "f58a0fec4197f82f372ce65032c3d5af821b5e19a59d62388ab1dd3294b7312d"
 [[files]]
 file = "config/TouhouLittleMaid.cfg"
 hash = "fff46ae202e3bd9fcbf53ae03ed280cf5e0a06aade9ba9767a9d46e685d009ad"
+
+[[files]]
+file = "config/ZettaiPsi.cfg"
+hash = "978a8539439b3863dd73e0ece43b62c3acd969121da6c7cf615b4c82008f0642"
 
 [[files]]
 file = "config/adchimneys/Containers/bedrock.cfg"
@@ -4933,8 +4941,16 @@ file = "config/justenoughmagiculture.cfg"
 hash = "ae67b082def78b07dc4383820c8197efd148d2fbb626e6f70d4f3fbc97f6b8f6"
 
 [[files]]
+file = "config/librarianlib.cfg"
+hash = "abf3b2584b32860c8f53fd540932c61e9bebed89a6c05a977668d3d5d914e3e9"
+
+[[files]]
 file = "config/libvulpes.cfg"
 hash = "10aa77382240cbce5fcfb5b84c2cbb7dc1f2bdbc0fcd1d73b6973c4b5a2f076c"
+
+[[files]]
+file = "config/lunatriuscore.cfg"
+hash = "62b4288aef168d9d67efbf5432d0bb952542cfe49f7ba76683bbe0ea87f170c0"
 
 [[files]]
 file = "config/mcjtylib.cfg"
@@ -4959,6 +4975,10 @@ hash = "775e84e5fcc57c495eb3aec4abf820e88d4c5d343cb9922c2e7dc75418833329"
 [[files]]
 file = "config/normalasm.cfg"
 hash = "bed90db4efe990407f431191f432c8c532957c2e0d86a0f9e8dd1c375e9ce931"
+
+[[files]]
+file = "config/normalasm/methods-stable_39.csv"
+hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
 
 [[files]]
 file = "config/nuclearcraft.cfg"
@@ -5025,6 +5045,26 @@ file = "config/nutrition/nutrition.cfg"
 hash = "a00ff13b5ea4afa0c2a1b70a88c4c766348157c279c275da55993e0d83c799e5"
 
 [[files]]
+file = "config/opencomputers/default.recipes"
+hash = "83e92db8906351e470d13907bab0516febfdba6abf9de6f7abe3970cdc64302a"
+
+[[files]]
+file = "config/opencomputers/gregtech.recipes"
+hash = "2c791acd28f72d75de0747f6fa95c197cc3abd0938a1929933c3926974462995"
+
+[[files]]
+file = "config/opencomputers/hardmode.recipes"
+hash = "07e0e81eab77fbebefa84eb25078e672b6f847ba7a88cc5e205593975fa6886b"
+
+[[files]]
+file = "config/opencomputers/peaceful.recipes"
+hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
+
+[[files]]
+file = "config/opencomputers/user.recipes"
+hash = "50ea2cc418070e18c4a7919a18266db536c7ccca24af328c6076915293d95d84"
+
+[[files]]
 file = "config/optionsenforcer.cfg"
 hash = "826ff3f776d5a843d4d281fb68bbacf3dc39f46c0767024530b68604bd3a0a43"
 
@@ -5049,8 +5089,28 @@ file = "config/pollutantpump.cfg"
 hash = "5033763fe82bbbc95d5275a98777f07ca9c1f0b95278ec6c1778136175d56823"
 
 [[files]]
+file = "config/psi.cfg"
+hash = "0599cb18c2b41afe8d45e1d82482c64f32d4ab6649a421ec4d501614c9a75f13"
+
+[[files]]
+file = "config/psicaster.cfg"
+hash = "4e0fa74d35e84bdea5424e6c90d481e9c477c9493b8b679bf3bd96f4bfef8ed1"
+
+[[files]]
+file = "config/psio.cfg"
+hash = "99c2c275a7a2228cfb9d501756df595364c4469ea63de7b00d0f6c7f19ea6315"
+
+[[files]]
 file = "config/returnoftheancients.cfg"
 hash = "a720ad18bc1cccc26aefad2e032c01ec5c4ebba3406d66193fca0fada8f4e11e"
+
+[[files]]
+file = "config/rpsideas.cfg"
+hash = "26d116c6d3a6b58c99c66c4e01313ba6c14766e425b78efb19c1e51c51115aea"
+
+[[files]]
+file = "config/schematica.cfg"
+hash = "790cf64e250940281c44978251da3ecd46701f63a7d811f087fb2ef670e99061"
 
 [[files]]
 file = "config/sereneseasons/biome_info.json"
@@ -5063,6 +5123,10 @@ hash = "b04436101f2e63b82e7b5daa7c214320182b5c92670c8b163d21e78e3b4e30e1"
 [[files]]
 file = "config/sereneseasons/seasons.cfg"
 hash = "a571a0e4be09082156ecf61e615a892cd10d50fa87ef3811836f77204a3adc77"
+
+[[files]]
+file = "config/shadowfacts/ShadowMC.cfg"
+hash = "4aa1a5c4c780f36472353f1d6aaa470cacf05ca3cc1c8d2e9e85c68247f99ff4"
 
 [[files]]
 file = "config/signpost/signpost.cfg"
@@ -5113,6 +5177,10 @@ file = "config/tconstruct.cfg"
 hash = "1fae41446f96659a4892ebb4c86588d4860aec2b7395aae7754e24305212d856"
 
 [[files]]
+file = "config/tconstruct_oredictcache.dat"
+hash = "883f6933b44e8b348d9c3ff2cafa3f98e7c8d8aac43fdc1a9304aa7d616d3b5f"
+
+[[files]]
 file = "config/techguns.cfg"
 hash = "acbf275a5d0be0a57bcd6bc02f5a2f222fc0dbb6826fd1fe2fa61b79dd61b740"
 
@@ -5133,12 +5201,20 @@ file = "config/thaumcraft_world.cfg"
 hash = "ff9b0bdae29d41472ed55513617c3d78ba3940ec847bbc593695154e558d8a09"
 
 [[files]]
+file = "config/thaumicaugmentation.cfg"
+hash = "8cc3987a6aa38e0f04b0437621980a1b74b5c6023f4beb67439ec4143838b59b"
+
+[[files]]
 file = "config/thaumicjei.cfg"
 hash = "d1ed860463a05464d0d0a38200f66971caf81ce0225c88e700ec35a1f331c7a7"
 
 [[files]]
 file = "config/thaumicjei_itemstack_aspects.json"
 hash = "bda69fd792ca86c94e0c70b9f2e4d36e0b8789915917a954f5857d1914e9be01"
+
+[[files]]
+file = "config/thaumictinkerer.cfg"
+hash = "c527874c4eb28ce6974a3f9b15e0261b2c6643366450ea011b17efecb2c8e603"
 
 [[files]]
 file = "config/thebetweenlands/config.cfg"
@@ -5151,6 +5227,10 @@ hash = "92521fc3cbd964bdc9f584a991b89fddaa5754ed1cc96d6d42445338669c1305"
 [[files]]
 file = "config/timeinabottled.cfg"
 hash = "9f1aaa7ae666f39a53415c03727dc8a7aaf47db7e237a77c7e69a0a0f5d7f483"
+
+[[files]]
+file = "config/tinker_ore_dict_melting_cache.dat"
+hash = "785bf6654dccab5e80e9b5f83ef786ce9df65cb85dc2af181d28b3d80847b83f"
 
 [[files]]
 file = "config/toughasnails/armor_temp_modifiers.json"
