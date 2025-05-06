@@ -4442,7 +4442,7 @@ hash = "372a1cbaeb69513cdb4b99f956c37b113d7fd9c8abee844b54fd2ad9c69cb9fd"
 
 [[files]]
 file = "config/antiqueatlas/atlas_overlay.cfg"
-hash = "b930823cfb5a6245053f1086e263b1c88d458cf37c925e6d1d1ad44ab68e03a8"
+hash = "912214e1a6e37919735df77fb9bd2c786088588034969d2af8de455f9b975e88"
 
 [[files]]
 file = "config/antiqueatlas/biome_textures.json"
@@ -4471,62 +4471,6 @@ hash = "cdabb4c2720c1802a867448bc1af48e25086054c7fab5ca90e36a1b334901617"
 [[files]]
 file = "config/appleskin.cfg"
 hash = "3db18929798bc16d0af30df80c2e5753a9622c8232858806cbe500a8c5e25bea"
-
-[[files]]
-file = "config/armoryexpansion.cfg"
-hash = "b192d39ad9d0805d70c7e5e4eb8223f36956e085846dbe5412b2281a8bba4721"
-
-[[files]]
-file = "config/armoryexpansion/conarm/conarm-config.json"
-hash = "d34cd9be2379d00447eaf18e20b73df256cb422fccdf8d6a4e5ead58ebb1efdc"
-
-[[files]]
-file = "config/armoryexpansion/conarm/conarm-materials.json"
-hash = "d17126646a680c7fa57acce1722cc187b17077ede1afe432745a119eb026f732"
-
-[[files]]
-file = "config/armoryexpansion/conarm/conarm-traits.json"
-hash = "4c321e7401c3fec653680f0800fd1fe19f7ef1e857a89f15238e462dfd795146"
-
-[[files]]
-file = "config/armoryexpansion/custommaterials/custommaterials-alloys.json"
-hash = "15b5aabcf8d0954ac6cd252b9547a0652acaae8a62d16d3053a40746167698ea"
-
-[[files]]
-file = "config/armoryexpansion/custommaterials/custommaterials-config.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/armoryexpansion/custommaterials/custommaterials-materials.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/armoryexpansion/custommaterials/custommaterials-oreDictEntries.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/armoryexpansion/custommaterials/custommaterials-traits.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/armoryexpansion/iceandfire/iceandfire-config.json"
-hash = "d823d036d13d1eb689cf524eb5fb685ca49947c3dc75a3ca8b560a3e9e7f85c2"
-
-[[files]]
-file = "config/armoryexpansion/iceandfire/iceandfire-materials.json"
-hash = "bdada24fde28241e196766ca2224c270afa9bea699b429b771fc2b8966d478c0"
-
-[[files]]
-file = "config/armoryexpansion/iceandfire/iceandfire-oreDictEntries.json"
-hash = "01daae5f7ee98705e2f04e35e481f293096076eeac4a48a95fa796cb2af60fc5"
-
-[[files]]
-file = "config/armoryexpansion/iceandfire/iceandfire-traits.json"
-hash = "2b9910261ea165c8da255c251430918dbfc4f35ae8d45adbba79ab6c1f8009da"
-
-[[files]]
-file = "config/armoryexpansion/traits.txt"
-hash = "d7a70409d69919a6bcc85d6e9c4c9e1858f0c6b03b36ba0d23b3a6a7e603846a"
 
 [[files]]
 file = "config/astraladditions.cfg"
@@ -4595,10 +4539,6 @@ hash = "7a6ee211860e15bc7978fb52d70dd95aae47fd8e603a7bea5e544044b361c11c"
 [[files]]
 file = "config/botania.cfg"
 hash = "83b9e056a9f8109e23a347f8217156aa1bd72ec1d0d7974c0a4f91a3f75576f8"
-
-[[files]]
-file = "config/carryon.cfg"
-hash = "d952449dd76c7bd71fba2d18b5b89d77fccf0d3076b51c0985171793348f4bda"
 
 [[files]]
 file = "config/chunkanimator.cfg"
@@ -5033,10 +4973,6 @@ file = "config/normalasm.cfg"
 hash = "bed90db4efe990407f431191f432c8c532957c2e0d86a0f9e8dd1c375e9ce931"
 
 [[files]]
-file = "config/normalasm/methods-stable_39.csv"
-hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
-
-[[files]]
 file = "config/nuclearcraft.cfg"
 hash = "ff9d9fc93b982104f8943b7a49dcb4de3f5e37c194b9296234152c5709144eec"
 
@@ -5105,16 +5041,8 @@ file = "config/ocid.cfg"
 hash = "76b48d743d541ff372370df8def2fb3b1f2df634f078ae1b66bd905495d1db5d"
 
 [[files]]
-file = "config/ocsensors/settings.cfg"
-hash = "3e48e2991362060d786791f2cd43a2c382da2fec26fa1033e75a9461c7780909"
-
-[[files]]
 file = "config/ocxnetdriver.cfg"
 hash = "519a462e60dbce8b8e40735796fa362b447d21e63cb5673627e0482ef22e2e72"
-
-[[files]]
-file = "config/opencomputers/settings.conf"
-hash = "df2572c307d6e40b5a40573547592becae753fe3ea0d1e43c84ab5560404fdd8"
 
 [[files]]
 file = "config/optionsenforcer.cfg"
