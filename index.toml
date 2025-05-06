@@ -325,14 +325,6 @@ file = "config/TinkerModules.cfg"
 hash = "b8560ee6ba7c99297a489fd1f39217e47431238db471a5140af31a1d7718d2cc"
 
 [[files]]
-file = "config/TinkerToolLeveling.cfg"
-hash = "80376aa0a4846fc4252b474be9375b98eb58c40e34aef9e3729d31df0770b62b"
-
-[[files]]
-file = "config/TinkersExtras.cfg"
-hash = "0c0edb2aa93e121a94a66216219e6aed521ad578028cb4b585bb88ec250de657"
-
-[[files]]
 file = "config/ToughExpansion.cfg"
 hash = "f58a0fec4197f82f372ce65032c3d5af821b5e19a59d62388ab1dd3294b7312d"
 
@@ -4665,10 +4657,6 @@ file = "config/dynamictreestconstruct.cfg"
 hash = "9f60aa7fd0c75f1dc99149a86984b4a1d3086a4046ca1f32298240c1ade86249"
 
 [[files]]
-file = "config/electrostatic.cfg"
-hash = "94578536173cd2fdd20a3ec9f176784904855a6569b1055bdfb69b119473005d"
-
-[[files]]
 file = "config/extendedae.cfg"
 hash = "7f4633bb218e90ea9f3760465643810623ecb54ea5253bd170e47683f37d4b40"
 
@@ -5037,14 +5025,6 @@ file = "config/nutrition/nutrition.cfg"
 hash = "a00ff13b5ea4afa0c2a1b70a88c4c766348157c279c275da55993e0d83c799e5"
 
 [[files]]
-file = "config/ocid.cfg"
-hash = "76b48d743d541ff372370df8def2fb3b1f2df634f078ae1b66bd905495d1db5d"
-
-[[files]]
-file = "config/ocxnetdriver.cfg"
-hash = "519a462e60dbce8b8e40735796fa362b447d21e63cb5673627e0482ef22e2e72"
-
-[[files]]
 file = "config/optionsenforcer.cfg"
 hash = "826ff3f776d5a843d4d281fb68bbacf3dc39f46c0767024530b68604bd3a0a43"
 
@@ -5067,10 +5047,6 @@ hash = "77919b9509541ecf9882c91cd6b73b8e2c31b8b2f7157275c0ad6b8e25fe769b"
 [[files]]
 file = "config/pollutantpump.cfg"
 hash = "5033763fe82bbbc95d5275a98777f07ca9c1f0b95278ec6c1778136175d56823"
-
-[[files]]
-file = "config/realfilingcabinet.cfg"
-hash = "a697255c38076da007b61147cba32d7c1dd31061cf34a08c1f30304fbf24f955"
 
 [[files]]
 file = "config/returnoftheancients.cfg"
@@ -5175,26 +5151,6 @@ hash = "92521fc3cbd964bdc9f584a991b89fddaa5754ed1cc96d6d42445338669c1305"
 [[files]]
 file = "config/timeinabottled.cfg"
 hash = "9f1aaa7ae666f39a53415c03727dc8a7aaf47db7e237a77c7e69a0a0f5d7f483"
-
-[[files]]
-file = "config/tinkersoredictcache.cfg"
-hash = "ddf534984efdfdd99e7b90419f9c725d6ac77e031da59e94a733fbbab0e9b277"
-
-[[files]]
-file = "config/tinkersurvival.cfg"
-hash = "782eb4bf12ce72e7613aead0c3f5fb4735d28793c7d826abf2172e787d6fabd9"
-
-[[files]]
-file = "config/tmechworks-blacklist.json"
-hash = "5769196613ec0464e96fe9f357072bfc850dbd80d2f2e4f4a82b37aa100d2bbc"
-
-[[files]]
-file = "config/tmechworks.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/tmechworksModules.cfg"
-hash = "e52eefc3766d1c9c4937082c73a657c147eeefbaee93baceb2193ea2922a2d8d"
 
 [[files]]
 file = "config/toughasnails/armor_temp_modifiers.json"
@@ -5335,10 +5291,6 @@ hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
 [[files]]
 file = "config/waila/waila.cfg"
 hash = "c94b22c334ee044b4e72bbea2d80d4e72e1f0d731b60e8e64eaabc8053285b02"
-
-[[files]]
-file = "config/xnet/xnet.cfg"
-hash = "59833dcad1ddabc99854d51d88f2ce9822afee502034a87c52f1951a7d4d0e5c"
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
