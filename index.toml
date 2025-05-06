@@ -5090,7 +5090,7 @@ hash = "5033763fe82bbbc95d5275a98777f07ca9c1f0b95278ec6c1778136175d56823"
 
 [[files]]
 file = "config/psi.cfg"
-hash = "0599cb18c2b41afe8d45e1d82482c64f32d4ab6649a421ec4d501614c9a75f13"
+hash = "80adb7c36186c86e5dbbc534d27eb784f00b025fe0368a893a9a5d36d781c025"
 
 [[files]]
 file = "config/psicaster.cfg"
@@ -5098,7 +5098,7 @@ hash = "4e0fa74d35e84bdea5424e6c90d481e9c477c9493b8b679bf3bd96f4bfef8ed1"
 
 [[files]]
 file = "config/psio.cfg"
-hash = "99c2c275a7a2228cfb9d501756df595364c4469ea63de7b00d0f6c7f19ea6315"
+hash = "ceb04420b2b215ef06e5bc7bdd77040df60531c372c1b89339ccf15fce86d520"
 
 [[files]]
 file = "config/returnoftheancients.cfg"
