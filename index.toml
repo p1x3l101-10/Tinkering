@@ -5066,7 +5066,7 @@ hash = "50ea2cc418070e18c4a7919a18266db536c7ccca24af328c6076915293d95d84"
 
 [[files]]
 file = "config/optionsenforcer.cfg"
-hash = "389eb3c5a11e960cb045d7658cdf4f449bc1449c35f12fbb624e04f4de0b87f6"
+hash = "826ff3f776d5a843d4d281fb68bbacf3dc39f46c0767024530b68604bd3a0a43"
 
 [[files]]
 file = "config/overpoweredarmorbar.cfg"
@@ -5942,11 +5942,6 @@ hash = "fd2475091d10055533c40d23961cd765a3691017dedc7e68acf03bf57f05e644"
 metafile = true
 
 [[files]]
-file = "mods/magical-psi.pw.toml"
-hash = "734b8334fbb2a26fc73c3a7580151f273c2abe0fe738aa51c084947bf72b72a8"
-metafile = true
-
-[[files]]
 file = "mods/manavisualizer.pw.toml"
 hash = "28ba9f7b83743b72e6a210f7669bab07950bf3374dc7545fb2a4a674d6fd33d5"
 metafile = true
@@ -6304,11 +6299,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/ar-pixelated.pw.toml"
 hash = "f7ffb4d3e8351f0e73234ca79727dae7fae9cd794f45f2ae2dd739244679f48d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/magical-psideas.pw.toml"
-hash = "ebbdbac5720517899ba41ee36e75ab25c7ea3eabfd22a3e4f502446effa74f09"
 metafile = true
 
 [[files]]
