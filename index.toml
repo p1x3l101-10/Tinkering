@@ -5522,6 +5522,11 @@ hash = "67201d493e4ce0a3ddc48bd9c2959fe8723f11af722ba9021b95c2ca84dfa90b"
 metafile = true
 
 [[files]]
+file = "mods/avaritia-1-10.pw.toml"
+hash = "c70fc27776a4eebf4d57d6550074c5461b860988311da1e7ae2893c8e9aa9f76"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "58284abd2d7e185ac0c03a7fda11df8d84c9cc5b689a7a35fca7eb3283127418"
 metafile = true
@@ -5559,6 +5564,11 @@ metafile = true
 [[files]]
 file = "mods/botanic-additions.pw.toml"
 hash = "b87e420bc773691add9424b8a51694471ae47ca3e20616f7eb126dda8a87af70"
+metafile = true
+
+[[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "b8a59f839cf7fb028950cc8786a96dc4c82540187a7b7eebc78792a2b5ce1273"
 metafile = true
 
 [[files]]
@@ -5654,6 +5664,11 @@ metafile = true
 [[files]]
 file = "mods/distinct-damage-descriptions.pw.toml"
 hash = "e1db46d15eaede660ccabd4a57f7d614931067a9433cbeeb61872cff1d415f69"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "511896333a1873ef40dfd7dc4fa7f528819c68d16ce79e80d0b1312470c75bf4"
 metafile = true
 
 [[files]]

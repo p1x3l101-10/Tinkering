@@ -1,0 +1,13 @@
+name = "Avaritia 1.1x"
+filename = "Avaritia-1.12.2-3.3.0.37-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "e37b89bf89d5cb75d0605cf03863537b7e52a73e2ff6fb033161989c43d33876"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3143349
+project-id = 261348
