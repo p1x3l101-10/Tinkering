@@ -5066,7 +5066,7 @@ hash = "50ea2cc418070e18c4a7919a18266db536c7ccca24af328c6076915293d95d84"
 
 [[files]]
 file = "config/optionsenforcer.cfg"
-hash = "826ff3f776d5a843d4d281fb68bbacf3dc39f46c0767024530b68604bd3a0a43"
+hash = "389eb3c5a11e960cb045d7658cdf4f449bc1449c35f12fbb624e04f4de0b87f6"
 
 [[files]]
 file = "config/overpoweredarmorbar.cfg"
@@ -6304,6 +6304,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/ar-pixelated.pw.toml"
 hash = "f7ffb4d3e8351f0e73234ca79727dae7fae9cd794f45f2ae2dd739244679f48d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/magical-psideas.pw.toml"
+hash = "ebbdbac5720517899ba41ee36e75ab25c7ea3eabfd22a3e4f502446effa74f09"
 metafile = true
 
 [[files]]
