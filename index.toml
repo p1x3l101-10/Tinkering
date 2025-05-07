@@ -5090,7 +5090,7 @@ hash = "5033763fe82bbbc95d5275a98777f07ca9c1f0b95278ec6c1778136175d56823"
 
 [[files]]
 file = "config/psi.cfg"
-hash = "1586b2f4a13ca0a882b6b792055f977ee98fc068283060659b85381d857d2fa4"
+hash = "cc68b1554436fc0989483f9b6519595b0f11fd01fc09b93a24f55ba11d2d4d08"
 
 [[files]]
 file = "config/psicaster.cfg"
