@@ -6322,11 +6322,6 @@ hash = "baaaf600f3f9f9f50c123250d9a759b6297e0068a9736df4c264ec7be46f949d"
 metafile = true
 
 [[files]]
-file = "mods/nuclearcraft-overhauled.pw.toml"
-hash = "f557284d80281155e05adb597908c905f5c7612398bac0f73c241b7358707fe1"
-metafile = true
-
-[[files]]
 file = "mods/nutrition-unofficial-extended-life.pw.toml"
 hash = "71444d33a5dfd180da868fa2b3b1da34cf2ef083d998210d8350cc63001c311a"
 metafile = true
