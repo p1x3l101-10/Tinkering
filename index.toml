@@ -6061,6 +6061,16 @@ hash = "3a2d17a9bd75e98290b2eb449f124a8b9d7483c8117209c2a5a156b6a0aafde0"
 metafile = true
 
 [[files]]
+file = "mods/jaopca.pw.toml"
+hash = "3992e60fe058234420c930577b49f7198b8c5dc4528943bcfaa88ad97ab8bdcc"
+metafile = true
+
+[[files]]
+file = "mods/jaopcasingularities.pw.toml"
+hash = "97b76a1883118fc05a73a545e807b036e3a462db1a095e3baa17b64de70f84e4"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-calculation.pw.toml"
 hash = "cc03f427e4baf24752834f0017e6b7810a68918548af4617f2df73e8a3948626"
 metafile = true
@@ -6428,6 +6438,11 @@ metafile = true
 [[files]]
 file = "mods/wanionlib.pw.toml"
 hash = "c9c513d832a79adea881e9f915c2439c6c257a8c41a9bbf8342b8728edb152ff"
+metafile = true
+
+[[files]]
+file = "mods/wrapup.pw.toml"
+hash = "43ab58d9452c47716b9e1c3ec4753dc287821b2cdaa6cc0e047ec29cdf26877a"
 metafile = true
 
 [[files]]
