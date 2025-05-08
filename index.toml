@@ -6647,5 +6647,9 @@ hash = "cd0627924b191a018ea6bf2f01af41ca633b724211150d73112043d538aea6b0"
 metafile = true
 
 [[files]]
+file = "scripts/missingNeeded.zs"
+hash = "d464da58602dc085a82d77e750b2685e928f63a58448bcdecc9fe9774e5d1370"
+
+[[files]]
 file = "unsup.ini"
 hash = "86265598db5839163774462620b7062a7f197a8e9a17cfbef8e2c47330e4f759"
