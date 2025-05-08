@@ -5158,11 +5158,11 @@ hash = "71ec5962556cf223f4620c9fa344bc9351baffd14416f87e6bf9b988100ef81f"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
-hash = "e46fec2da4d1223152cd5d4efc7a738f02bb40248621f84f552dbabefd23cad5"
+hash = "6c43c47b97681a8102e70b6643cc46d8dbf64c3fb51faf4595090c02fc8aaec2"
 
 [[files]]
 file = "config/immersiveintelligence.cfg"
-hash = "cbb27bea285ae27e4ed1725c2108882bb581868d1dca1d8106f43056286c0372"
+hash = "8d824380a5de4ae8561f22cd4a21349058e946fde4bb08781b1a4dd0ef4f8b1a"
 
 [[files]]
 file = "config/immersivepetroleum.cfg"
