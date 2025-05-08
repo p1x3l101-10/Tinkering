@@ -6036,11 +6036,6 @@ hash = "0870b71ab79f958420776f871683e13888655096260dca4be5a41f3d3910da26"
 metafile = true
 
 [[files]]
-file = "mods/ice-and-fire-dragons.pw.toml"
-hash = "e016538da5368564408483ef3a20874b2734860f202d1aacdd39ddcd878726dd"
-metafile = true
-
-[[files]]
 file = "mods/immersive-cables.pw.toml"
 hash = "1f77d6988c9eb2164846030fcc18d02cd94163fb1c75551e907932b732b3c8b4"
 metafile = true
