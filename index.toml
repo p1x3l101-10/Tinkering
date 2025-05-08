@@ -4646,51 +4646,51 @@ hash = "d8e4f2e137f05aa98f22e78e7fdc2d4cbaa0c5103e8f6364316ea53c66c55e0f"
 
 [[files]]
 file = "config/advRocketry/Centrifuge.xml"
-hash = "a7b514eb86691e27ae056edb12f6cb8a1efee998de1cb31e3de69bf228bf7734"
+hash = "e20c5e558952accf9166cb04d72ba5864de9bb8362ba587ee09272f6e14c8bc3"
 
 [[files]]
 file = "config/advRocketry/ChemicalReactor.xml"
-hash = "3e5ab4f1d4a293d6405d1c18621bb52aa1f64c71f48ca762d835665a47203e92"
+hash = "a0c58cc075a589f6025073a93009cb8297bdb93712f571628e53aa8b55d6035b"
 
 [[files]]
 file = "config/advRocketry/Crystallizer.xml"
-hash = "8237ba90732053ef20881dc2e47adab156914d259d3af4de3f66efd829551811"
+hash = "4aff9a2dd463ac65a68adda4ea1c15c11020ec364f8e954b9341209e3735de1e"
 
 [[files]]
 file = "config/advRocketry/CuttingMachine.xml"
-hash = "5c96564904bdcf129498395ec16193a7f06b9865eddcd741bd03eddb245de1aa"
+hash = "3d8dec1ec7d7453a6a4aba59074e799fcecaec77f604502177b8cc0e82375497"
 
 [[files]]
 file = "config/advRocketry/ElectricArcFurnace.xml"
-hash = "a94ceb5f55ee7c31c354779d44cf114315c2f611ac58b8a4cda956b67640325a"
+hash = "b8a2cd8f3e212fa2a05d92f3939dbdc85b3baa83df282c603aca0fcf85f37194"
 
 [[files]]
 file = "config/advRocketry/Electrolyser.xml"
-hash = "59b49aef7613e439ffbc0e3bd0382417d395e6470a97ad59abe8c26432720fdf"
+hash = "8225663c6fbe8785d4706f6c052bb895ae180981c9d708ce0e3611583eacda03"
 
 [[files]]
 file = "config/advRocketry/Lathe.xml"
-hash = "7a6ad45f886a4acabeef53bfee13c3c27d33b9e5a6b0490f516d211b98cc5a95"
+hash = "c71d39bad81054645d615ac080e9ad339559d06733ffaecccdfc16869ad0df84"
 
 [[files]]
 file = "config/advRocketry/PrecisionAssembler.xml"
-hash = "5cc170083422235203acda5915b813019293923fd7e75752b70a898501b55390"
+hash = "650da2b0e2443c34a267f5eac2a57685e4301a9bec83907ce3faace902236d8a"
 
 [[files]]
 file = "config/advRocketry/PrecisionLaserEtcher.xml"
-hash = "f8e04353937af2da3aa67830e5b9b62c2a8d66b6d685cf7e39fe1464d4a62c02"
+hash = "c6de6f948df8e7db3609d8af28d91fdcaffc52633bc10d891307b2ec62b56012"
 
 [[files]]
 file = "config/advRocketry/RollingMachine.xml"
-hash = "24a984cd401b347bc68b23e2d428fee38dd5c5ed8e096b841cd6bc6db9e28de6"
+hash = "614cd6610150aa188b61a28ea93e1d19fd11a34e6bdf2903ea1f021abf4e3ae3"
 
 [[files]]
 file = "config/advRocketry/SmallPlatePress.xml"
-hash = "1f6dbcf7857f2481c5fdab362596705da5cc0d0d07eb8ee2d85bfae1c0f241f0"
+hash = "f71e1823a016f78fc86168a31fc1f75349546255bc6b0c9ba798b97766fa8de9"
 
 [[files]]
 file = "config/advRocketry/advancedRocketry.cfg"
-hash = "4c9d63b8b26ec32c8b66212de0b489e2a2046addd0bf54734e304c8a0d5677a1"
+hash = "5d8eeedd2670afbbbd27401e745c269b5ba022e9d31cf9be50643cac2fdfefe4"
 
 [[files]]
 file = "config/advRocketry/asteroidConfig.xml"
