@@ -5812,26 +5812,6 @@ hash = "88949496d9d429aef90bfc90bcc1097c06048757ec1ea0869a63ddc58069aad5"
 metafile = true
 
 [[files]]
-file = "mods/astral-additions.pw.toml"
-hash = "4c6531a1eae5bca8bb266738b3e53451cd9733d9d1eabd62c5b47097d863b86e"
-metafile = true
-
-[[files]]
-file = "mods/astral-sorcery-anti-anti-fake-player-asaafp.pw.toml"
-hash = "ab88b98719aefaedbe5628531461ce1164e9ccd97d251b357a45fe2cbea89184"
-metafile = true
-
-[[files]]
-file = "mods/astral-sorcery.pw.toml"
-hash = "51d6e1e9facd2347214fcdfbbd5b4ff13752fcc91db80e5ce7e9c6f18e6cf8ef"
-metafile = true
-
-[[files]]
-file = "mods/astrological-sorcery.pw.toml"
-hash = "de22c6bed2cabdc1ad7f3b733ef4fc6e9256cf0e747a6a3bbf6b0168e47cd2a9"
-metafile = true
-
-[[files]]
 file = "mods/atlas-extras.pw.toml"
 hash = "83aace4feeb3b83436369e9209b968af55edcdf61a8d28859d5c0225c3991fdb"
 metafile = true
@@ -6007,11 +5987,6 @@ hash = "4d93b0eebe708a30c083782715a19ca213cb320607dfd9d237f77b06b143d936"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-integrated-dynamics.pw.toml"
-hash = "f46f010e610100b0cd4a995cdd8a0db85083eebc355b16dd488ee63b6ac2d7ef"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-trees-the-betweenlands.pw.toml"
 hash = "09d26466be25ff213b64e5242008ca65fad1bfa82ca23d11fd961461a13b9cde"
 metafile = true
@@ -6089,16 +6064,6 @@ metafile = true
 [[files]]
 file = "mods/global-gamerules.pw.toml"
 hash = "60cad69e152541227ce12e2237a2cf52dc71a61c30b196fac7d459668d1787b1"
-metafile = true
-
-[[files]]
-file = "mods/grimoire-of-gaia-redux.pw.toml"
-hash = "4f2a884171b4df9e504dfa4e5858ddedac00389a08c5e0e0a7a281ecbdaf7915"
-metafile = true
-
-[[files]]
-file = "mods/grimoire-of-gaia.pw.toml"
-hash = "42a05303ab91bc2150d42af054e2b533adf46d47a6663b59f898a9148a4af87c"
 metafile = true
 
 [[files]]
@@ -6184,36 +6149,6 @@ metafile = true
 [[files]]
 file = "mods/instantunify.pw.toml"
 hash = "0a823d4c0a0daa1047a498066d174c7a5e55e0c7b0749f962c2956067d87f56e"
-metafile = true
-
-[[files]]
-file = "mods/integrated-crafting.pw.toml"
-hash = "2b10b4cf7e48749a9ff67f5831a178944786c27fba8cadbe4255d475ef42bbc9"
-metafile = true
-
-[[files]]
-file = "mods/integrated-derivative.pw.toml"
-hash = "b75192b7cf86734c13ae6ccb674034305609d19fb626bb6ed83b68890221b534"
-metafile = true
-
-[[files]]
-file = "mods/integrated-dynamics.pw.toml"
-hash = "31878de41c3a4f6e8214f277742b1e473854e4f59d958d1a02c5643cc4e08dfc"
-metafile = true
-
-[[files]]
-file = "mods/integrated-nbt.pw.toml"
-hash = "ad93f91cf850185f3636802e16abd74f643c315e68d4bf3c78b8be6bf557e971"
-metafile = true
-
-[[files]]
-file = "mods/integrated-terminals.pw.toml"
-hash = "8fce5963ecca0a6b3dc8d151be3f443b852744c3f70d7ffc6d3362c13de67e40"
-metafile = true
-
-[[files]]
-file = "mods/integrated-tunnels.pw.toml"
-hash = "15d54c4ba355bba8bd9f67ee3811c235411bccdf898db97af3819b317978c7f4"
 metafile = true
 
 [[files]]
@@ -6322,11 +6257,6 @@ hash = "baaaf600f3f9f9f50c123250d9a759b6297e0068a9736df4c264ec7be46f949d"
 metafile = true
 
 [[files]]
-file = "mods/nuclearcraft-overhauled.pw.toml"
-hash = "f557284d80281155e05adb597908c905f5c7612398bac0f73c241b7358707fe1"
-metafile = true
-
-[[files]]
 file = "mods/nutrition-unofficial-extended-life.pw.toml"
 hash = "71444d33a5dfd180da868fa2b3b1da34cf2ef083d998210d8350cc63001c311a"
 metafile = true
@@ -6384,26 +6314,6 @@ metafile = true
 [[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
 hash = "03332ececcb145733c9781c118b3f719b6795c6571ce18b7418a7dd92eede782"
-metafile = true
-
-[[files]]
-file = "mods/psi.pw.toml"
-hash = "e9482159415909c47e1e24658e2882e7d64b9076094c89252676cc24e46630c0"
-metafile = true
-
-[[files]]
-file = "mods/psicaster.pw.toml"
-hash = "ed835fefd0996bca3656a84fdc12c2bd372509b7d8c725532cd45d4036c26866"
-metafile = true
-
-[[files]]
-file = "mods/psio.pw.toml"
-hash = "0225d16aee009d293af84624d9c688bae2ea8b675bc259d6dba1b18e2e1e9cbb"
-metafile = true
-
-[[files]]
-file = "mods/random-psideas.pw.toml"
-hash = "6207c5969ef967e0c67785a862b303caf919679de941e156abf67ef8fb5197c8"
 metafile = true
 
 [[files]]
@@ -6619,11 +6529,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-caves.pw.toml"
 hash = "2f4a502df075686c1a61207046af3182d41ea1a5073209f941a4121e36c97e11"
-metafile = true
-
-[[files]]
-file = "mods/zettai-psi.pw.toml"
-hash = "67afa215742e1f8044167cb9c941c969b0e85d4619b562c2ecfe9d44c8055b1f"
 metafile = true
 
 [[files]]

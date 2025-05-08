@@ -1,12 +1,12 @@
 name = "Tinkering"
 author = "P1x3l101"
-version = "2.0.6"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c6c863dbe37da173744ee67ab1dbadfefedf20ff6266f1965011c8219c638b02"
+hash = "fa5ee2519ee12de3c4f177e33925be30b9c31786f1a72b2b12f182ee66e9c336"
 
 [versions]
 forge = "14.23.5.2860"
