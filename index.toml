@@ -57,10 +57,6 @@ file = "config/ExpandedArcanum.cfg"
 hash = "22f667a22ef67d2c4d1fec3bc00e2ed2c2eaa7817fd264e19d686e659f51577b"
 
 [[files]]
-file = "config/GoGRedux.cfg"
-hash = "552d846d8ce5e17b3c95e3f020016effd9f7087766e169fd8624bb259b5727f0"
-
-[[files]]
 file = "config/JustEnoughCalculation/main.cfg"
 hash = "9512e12d279050139653aeb6a429eb13745086691b156af47f73bd1d4bbbe98d"
 
@@ -321,10 +317,6 @@ file = "config/RoughlyEnoughIDs.cfg"
 hash = "066c7aa4315b4e96e0dc7ca21b0a629603e7ff7d77d279437f523624443cd063"
 
 [[files]]
-file = "config/TComplementModules.cfg"
-hash = "287f1d3897d028d3d501017b791eceefdbda7f6f433e868412225f4318d89172"
-
-[[files]]
 file = "config/TinkerModules.cfg"
 hash = "b8560ee6ba7c99297a489fd1f39217e47431238db471a5140af31a1d7718d2cc"
 
@@ -335,10 +327,6 @@ hash = "f58a0fec4197f82f372ce65032c3d5af821b5e19a59d62388ab1dd3294b7312d"
 [[files]]
 file = "config/TouhouLittleMaid.cfg"
 hash = "fff46ae202e3bd9fcbf53ae03ed280cf5e0a06aade9ba9767a9d46e685d009ad"
-
-[[files]]
-file = "config/ZettaiPsi.cfg"
-hash = "978a8539439b3863dd73e0ece43b62c3acd969121da6c7cf615b4c82008f0642"
 
 [[files]]
 file = "config/adchimneys/Containers/bedrock.cfg"
@@ -4893,10 +4881,6 @@ file = "config/compactmachines3/settings.cfg"
 hash = "306cfbe7cf598fec42c8b7b306931e4df10c9972a0dabece9d930b51b87e57a5"
 
 [[files]]
-file = "config/conarm.cfg"
-hash = "36c7c7ce4cbe1cb47e341bc08dc22b2deeeb4d5d20eff522bebd3c1ad0c53432"
-
-[[files]]
 file = "config/cookingforblockheads.cfg"
 hash = "6e7b68927efcb3596c143cbc232c90216212a5f224118b560009d3f086576ef1"
 
@@ -5105,10 +5089,6 @@ file = "config/globalgamerules.cfg"
 hash = "cda024f2b03bb3fa0651f9d78dd3816658c9f4ef1c34cd7f8ba587aa58154aa4"
 
 [[files]]
-file = "config/grimoireofgaia.cfg"
-hash = "3feda8dd2d7c57d3cc9223cd254d1cda586ae020c7831f6871d15de2fc47bf54"
-
-[[files]]
 file = "config/hammercore.cfg"
 hash = "f7e42c229c1301c6e1830b14de07a84175f582f749289102473eec307dee1200"
 
@@ -5173,60 +5153,12 @@ file = "config/immersiveposts.cfg"
 hash = "d2217f258947cf45f5bce395eacf4738395c6a8dd20da5d802a0ef1aba8a9185"
 
 [[files]]
-file = "config/immersiverailroading.cfg"
-hash = "c91d5e62dc531e85664c61b0b6f65bd0b8db453f536dc1ebfd88bbf52ef2829a"
-
-[[files]]
-file = "config/immersiverailroading_graphics.cfg"
-hash = "ffbac27d185c96ef56db5202cc0f773439dde120bd9ab2aaac5ba0cf1c6c15c6"
-
-[[files]]
-file = "config/immersiverailroading_permissions.cfg"
-hash = "5f8644271ccc99183610089aa0a89af8fd05a01ceb40ab72042dcc444a9c54c1"
-
-[[files]]
-file = "config/immersiverailroading_sound.cfg"
-hash = "9f501d9f611c172640b53b0c4cce52271b2ee501eaab021e0026f5fa859798a4"
-
-[[files]]
 file = "config/infernalmobs.cfg"
 hash = "63b415bbaa1249eae0a2a1bf6b37e824c4b7408157ece1dc2e1094315b10b31d"
 
 [[files]]
 file = "config/instantunify.cfg"
 hash = "0e6bbe95083afe4e5279d9a39ca165bb3b23fbedfb757e5226b962409e51a971"
-
-[[files]]
-file = "config/integratedcrafting.cfg"
-hash = "dbbdb9cf375454eb446d8f7825b67310c0daf8e17620181c10cbd40f28b31649"
-
-[[files]]
-file = "config/integratedderivative.cfg"
-hash = "ab4a8caa46f0fc859d4bd848230404593447eaa541857867edbe8745e49bf269"
-
-[[files]]
-file = "config/integrateddynamics.cfg"
-hash = "905fdabfdc990ff6675e07443c8698b580299ce261066c8cad716cad4cb32abe"
-
-[[files]]
-file = "config/integrateddynamicscompat.cfg"
-hash = "ed3457134e9df1a23435a936f52b01bc28dcf391cecddaa4b9f850f740eb8e25"
-
-[[files]]
-file = "config/integratedterminals.cfg"
-hash = "19156f0509611220ea19db2d75b4f86007cafdffa4f87ed1930462324161651f"
-
-[[files]]
-file = "config/integratedterminalscompat.cfg"
-hash = "195cf4909ea49209965020fc3aafaf56e8cd0f405f65a17f244724030e5f962f"
-
-[[files]]
-file = "config/integratedtunnels.cfg"
-hash = "9400745b0fb6722b777d40068df75fac53ef0f74ac7db3d978f147d6e5e36bd2"
-
-[[files]]
-file = "config/integratedtunnelscompat.cfg"
-hash = "636cd335206d397b6d5e189f19a6eea6e136e00212362f726d78a8f5e3829aec"
 
 [[files]]
 file = "config/jade.cfg"
@@ -5409,18 +5341,6 @@ file = "config/pollutantpump.cfg"
 hash = "5033763fe82bbbc95d5275a98777f07ca9c1f0b95278ec6c1778136175d56823"
 
 [[files]]
-file = "config/psi.cfg"
-hash = "cc68b1554436fc0989483f9b6519595b0f11fd01fc09b93a24f55ba11d2d4d08"
-
-[[files]]
-file = "config/psicaster.cfg"
-hash = "4e0fa74d35e84bdea5424e6c90d481e9c477c9493b8b679bf3bd96f4bfef8ed1"
-
-[[files]]
-file = "config/psio.cfg"
-hash = "6caa5a980ffc08d6d05571899ea4f7400114cc535fa229e999a2d62821d65aa6"
-
-[[files]]
 file = "config/returnoftheancients.cfg"
 hash = "a720ad18bc1cccc26aefad2e032c01ec5c4ebba3406d66193fca0fada8f4e11e"
 
@@ -5487,22 +5407,6 @@ hash = "25f8fe4e5c159a1760eff8ae2deb0edbe42cfa62d77fc60a46381806fcffd7ed"
 [[files]]
 file = "config/tc6aspects4jei.cfg"
 hash = "e39c6edb317cedc03560433c851d288a8364b10d2ffa763ea6f794e85cf433f3"
-
-[[files]]
-file = "config/tcomplement.cfg"
-hash = "5ead27a176c47ffab4dd59528e6b65c30e729dce72ab3718b4df19f28be63613"
-
-[[files]]
-file = "config/tconstruct.cfg"
-hash = "1fae41446f96659a4892ebb4c86588d4860aec2b7395aae7754e24305212d856"
-
-[[files]]
-file = "config/tconstruct_oredictcache.dat"
-hash = "883f6933b44e8b348d9c3ff2cafa3f98e7c8d8aac43fdc1a9304aa7d616d3b5f"
-
-[[files]]
-file = "config/techguns.cfg"
-hash = "acbf275a5d0be0a57bcd6bc02f5a2f222fc0dbb6826fd1fe2fa61b79dd61b740"
 
 [[files]]
 file = "config/thaumcomp.cfg"
