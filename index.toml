@@ -4589,10 +4589,6 @@ file = "config/cyclopscore.cfg"
 hash = "3d8212d15557dfe7e2e1b2b6bacb0af1d9c95de83a684a04b1a62f099fa00997"
 
 [[files]]
-file = "config/darknesslib.cfg"
-hash = "d6e7e0f7ed17f08d3553295fccad6937586656c4e54d6a94ae1c33e2c95ca0c7"
-
-[[files]]
 file = "config/desertcraft.cfg"
 hash = "d0dd897fe9dd166af88056c3b9239473a1b51a4dfa18872989aa0fe0a9fc48c3"
 
@@ -4794,7 +4790,7 @@ hash = "eff4c2594988239af664a5731ed8dbaea89285d478117e4c417d369d98c60c2c"
 
 [[files]]
 file = "config/hardcoredarkness.cfg"
-hash = "9a9e5407cb39b033fe78ffa857facf479250e5010d5c7dc52cd30cb49c8ff44d"
+hash = "cc773f3e217faf2cb430069979f17b3b93125f8e6d4184d6f9150ded5e27d1c4"
 
 [[files]]
 file = "config/harvestcraft.cfg"
@@ -4803,10 +4799,6 @@ hash = "35cc24a02046e91f0a5cadb420a028a0e87fc94f3162499e3a36b5ef91dd23f7"
 [[files]]
 file = "config/harvestcraft_fruittree.cfg"
 hash = "75127dba13a38bab9ded2aa8d45b974bd79dd3f51d550713b3f21dba43ef1c01"
-
-[[files]]
-file = "config/hungeringdarkness.cfg"
-hash = "45d866804ee66b2c0a82b75c6ffebc2c2ceb324c883df95e0c99376413d9cb13"
 
 [[files]]
 file = "config/hungeroverhaul/HungerOverhaul.cfg"
@@ -5652,11 +5644,6 @@ hash = "1f40cf5a5dabe92a5a92363f1ebc689c828979383f8fb821e0a975d91fef5c71"
 metafile = true
 
 [[files]]
-file = "mods/darknesslib.pw.toml"
-hash = "1ddf7515c5c62cea8e501e6369033172e72fe8c6f97b83b8d1fcd84aaaa0d5a3"
-metafile = true
-
-[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "72578056cb4fe74ed1761ee0ecd5f2a167b4bc0ff00cd301609aef69ab11d19e"
 metafile = true
@@ -5804,11 +5791,6 @@ metafile = true
 [[files]]
 file = "mods/hunger-overhaul.pw.toml"
 hash = "b15db4ed6004759c5d0c007c39bd27a2fab8e740046ef9b9241450d0a83ef5ba"
-metafile = true
-
-[[files]]
-file = "mods/hungering-darkness.pw.toml"
-hash = "29001ff52003c33eb16832d7c71bd2f1ab71d67e1212218c02ca30a198e08478"
 metafile = true
 
 [[files]]
