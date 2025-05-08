@@ -1613,6 +1613,330 @@ file = "config/adchimneys/smoker.cfg"
 hash = "fdbcb87abfd07bc754b7c101db80c1997b3e46f07be84d4e12f6cf34d0dca845"
 
 [[files]]
+file = "config/adfinders/Finders/gems.cfg"
+hash = "c56d4348cf8fe9900f8f2355bda98fa0c6db3f4a39e52ed1c3f3e590bbaacef9"
+
+[[files]]
+file = "config/adfinders/Finders/metals.cfg"
+hash = "9a4fb4355a8805371fa8116fdd62a242cdd873940bf38ba06b94df641be6a14d"
+
+[[files]]
+file = "config/adfinders/Finders/minerals.cfg"
+hash = "a930f81c62115975c5e7e43fb3faf048d433a3814704a3c2cb038a52e0d9c1df"
+
+[[files]]
+file = "config/adfinders/Targets/abyssalcraft.cfg"
+hash = "0e4ba30c2127efaaf309aa8180dc9c6b97235f2f70588be541dddd255d0e7e60"
+
+[[files]]
+file = "config/adfinders/Targets/actuallyadditions.cfg"
+hash = "b728b29f9a8a16d0356ebe26b4ae5eb7830572253eb4ebcbf95551494045d645"
+
+[[files]]
+file = "config/adfinders/Targets/adinferos.cfg"
+hash = "0c6e8909bacd94eff45522501aedc0690086167d3a9e7212e4c050266349213b"
+
+[[files]]
+file = "config/adfinders/Targets/adover.cfg"
+hash = "5e80a46882ed170806dedba532ecb9c540edda378dc5d77be524c8a25fe2982d"
+
+[[files]]
+file = "config/adfinders/Targets/aether.cfg"
+hash = "1dfc452de56f7c84843b42dafd4b6c38a29f6adc43697547e2b66ebc0758cc5e"
+
+[[files]]
+file = "config/adfinders/Targets/aether_legacy.cfg"
+hash = "e787b911c2d47cf73bc00c0c44af87053a8511d21aee46e38f4b80e148096e0a"
+
+[[files]]
+file = "config/adfinders/Targets/appliedenergistics2.cfg"
+hash = "4bab9e1e3553c8efb8e3e344b6c260fa10feeec636e4354e42753b87569258c6"
+
+[[files]]
+file = "config/adfinders/Targets/arsmagica2.cfg"
+hash = "a795473f5a869cc4b3a9faa70f3738af3fd1bb288e9c6e366710eb94f38bc913"
+
+[[files]]
+file = "config/adfinders/Targets/astralsorcery.cfg"
+hash = "6ad1996a5e22ba47a21049f753255885f15900131787fb19b1e391165ba45714"
+
+[[files]]
+file = "config/adfinders/Targets/atum.cfg"
+hash = "5e35a65acd6a1e5f6625351c220191d63caedbf8fa2474b4ed8d9d4cd59090a1"
+
+[[files]]
+file = "config/adfinders/Targets/awesome.cfg"
+hash = "a2b7d9cacd16b721ac5288f72c55e5faaf31ed4326169c6d8622eef081b76a93"
+
+[[files]]
+file = "config/adfinders/Targets/basemetals.cfg"
+hash = "47387e66e4c80e1c123663599bd05dfa0fe1f5c3eb713031e977df2f44debf66"
+
+[[files]]
+file = "config/adfinders/Targets/baseminerals.cfg"
+hash = "9da59af20aca112feb38f3d9c5ae19a3a53ac3529c345f3c0c920466f529a29f"
+
+[[files]]
+file = "config/adfinders/Targets/betterwithaddons.cfg"
+hash = "be20c949a3d45e82961179489b776f863f6e24642f373d46476995e5047d9471"
+
+[[files]]
+file = "config/adfinders/Targets/bigreactors.cfg"
+hash = "c3ff4f849d74700e9980e0f34fe02bde387c509c8397f236c17fd11b1a4de4e7"
+
+[[files]]
+file = "config/adfinders/Targets/biomesoplenty.cfg"
+hash = "cc95a9061eb4d9be1796d3657b75d37d036aa0dda9aebd23881ffcfc87330784"
+
+[[files]]
+file = "config/adfinders/Targets/clockworkphase2.cfg"
+hash = "04e0ee0f45242f72bf288d346305af40fcdc2b6eb1d201ff20efe46d11e1d700"
+
+[[files]]
+file = "config/adfinders/Targets/deepresonance.cfg"
+hash = "0b9b7990e8fadfb6d53c54288fee06e73d326c0d1bb64ce694dec75819c0043c"
+
+[[files]]
+file = "config/adfinders/Targets/defiledlands.cfg"
+hash = "23f0d3146f03f86c5c5df37515bbd9318036f6d74d80450b7127ca4d2eccbe57"
+
+[[files]]
+file = "config/adfinders/Targets/draconicevolution.cfg"
+hash = "535f22951c0c14ae36b6c06598a1ecdb6ce1ce56bbf5c52fb4f9b8d4453114f6"
+
+[[files]]
+file = "config/adfinders/Targets/ea.cfg"
+hash = "adaa696141834dc74e9dbf29cf85120751c0bb8c15e0fafe5505eaccbdf00a92"
+
+[[files]]
+file = "config/adfinders/Targets/embers.cfg"
+hash = "84b3caa7907fa1f55d8541851c8a1e2c942fd956553a0adf6c1678a32a760c68"
+
+[[files]]
+file = "config/adfinders/Targets/essentialcraft.cfg"
+hash = "5f3981ff85f5d612304c62db42bbc2bd47fd4108b0cd8ea3de50e37f1e22f41d"
+
+[[files]]
+file = "config/adfinders/Targets/evilcraft.cfg"
+hash = "ef837444f48e41976ebe46d3a83ba27a04f95934b52459f81c6d7f2a9be38826"
+
+[[files]]
+file = "config/adfinders/Targets/extragems.cfg"
+hash = "66b2d54a88c14104aeeee072b1675d6fcdf6ebfac2052883ad34a8802b9a51fd"
+
+[[files]]
+file = "config/adfinders/Targets/forestry.cfg"
+hash = "09285b6108aba94dae290b2a9b0a464166f9df1aa6238e0f2152a3d68b616810"
+
+[[files]]
+file = "config/adfinders/Targets/fp.cfg"
+hash = "f67ddb98ae0a522cc9054630edb5456b45558ca9825bfa2489630ac2cb999fff"
+
+[[files]]
+file = "config/adfinders/Targets/funores.cfg"
+hash = "240d510f366f49aa8299c81c1a0efdcaf75514f4d37383f8cce49edf4dc9b6a6"
+
+[[files]]
+file = "config/adfinders/Targets/galacticraftcore.cfg"
+hash = "a05fc094bc0a87264196671b659d32f39b575e256e668433624620eb61c38b23"
+
+[[files]]
+file = "config/adfinders/Targets/galacticraftplanets.cfg"
+hash = "fe1b83063b997ecefbf53b8e0a3301d6bbfc6cc81fa9020c5bc06e84546efd10"
+
+[[files]]
+file = "config/adfinders/Targets/gemsplusplus.cfg"
+hash = "2f375c3d9018501d780c43e3db3b0af7dca66de39973bc6210149a17d524032e"
+
+[[files]]
+file = "config/adfinders/Targets/geoactivity.cfg"
+hash = "66cdf00949abff6fdb09e255f55176f87a3fcf181602cf2f8b129461b0decbcd"
+
+[[files]]
+file = "config/adfinders/Targets/geolosys.cfg"
+hash = "3e5b2b9e11c1043f7ccd49771b1765739622eddb70bc0474f820ed348cdcbeb2"
+
+[[files]]
+file = "config/adfinders/Targets/gregtech.cfg"
+hash = "9fbef4efe28ce851dec0da25cf59e6601e42a3c03290b6056ef84a42e7034723"
+
+[[files]]
+file = "config/adfinders/Targets/ic2.cfg"
+hash = "523de065176added7252fba537e8f5d8c0a82e039157e2bfa88bfd7dbc79245b"
+
+[[files]]
+file = "config/adfinders/Targets/iceandfire.cfg"
+hash = "b35bf3b117149ba31c5f25f34818d614b85f40c013fa94ac3cf4a5b130c3eee0"
+
+[[files]]
+file = "config/adfinders/Targets/immersiveengineering.cfg"
+hash = "755d89e879a4c3fc3e486729ff3cb599ef6c4177790241683532a8bcb6c38d60"
+
+[[files]]
+file = "config/adfinders/Targets/lightningcraft.cfg"
+hash = "becb9f8a982dcffb59efee808093ce6ddd4c5697e93b37beae9d7c5ca49654a5"
+
+[[files]]
+file = "config/adfinders/Targets/lot.cfg"
+hash = "97abc9c9036fab3bf44d544cd3a8c79a041236e3bf4f3596e8cdbbbb71491a9e"
+
+[[files]]
+file = "config/adfinders/Targets/lucraftcore.cfg"
+hash = "00f04f42223d79b13a13406f928d0fb4b1247478007aa405d668a5aa284659a1"
+
+[[files]]
+file = "config/adfinders/Targets/magneticraft.cfg"
+hash = "003b045da852369119ff6b99f6433e0e64944a9a5a152ece2504dbcbb18ba493"
+
+[[files]]
+file = "config/adfinders/Targets/mekanism.cfg"
+hash = "774fac1ee84a17a3c0573b273fe372d4fe4c78ed28c36d35440d2fb5d73b0758"
+
+[[files]]
+file = "config/adfinders/Targets/metallurgy.cfg"
+hash = "de53cfd0517afbe2d15d308ec8201b13a0b29a09d7171c09471d39d954edb216"
+
+[[files]]
+file = "config/adfinders/Targets/minecraft.cfg"
+hash = "3d638471fa29a39f693615479349736d7223daebd82b48f9a03189b4a7aeff35"
+
+[[files]]
+file = "config/adfinders/Targets/mist.cfg"
+hash = "701a30784682b22c039cec49d9add455cfb6b1961ea6e596bdb7b27af72007fd"
+
+[[files]]
+file = "config/adfinders/Targets/mysticalagriculture.cfg"
+hash = "0b00d9fdbcf0385e3f23f170bb88309107784ca9aa8a02dd1e2876fdda569e0a"
+
+[[files]]
+file = "config/adfinders/Targets/mysticalworld.cfg"
+hash = "083e5ba684797eccd046241a44acbeedbbce62e67eae01101d0dc8add207ea30"
+
+[[files]]
+file = "config/adfinders/Targets/netherendingores.cfg"
+hash = "551b10bbadbb3f00ce1b840ce416ea8f91e72ef5408bc4d46e189f153af247ae"
+
+[[files]]
+file = "config/adfinders/Targets/nex.cfg"
+hash = "a73b35e347d16da7ade24a92011de31a700bf74465182c8e309f3300cc7b693d"
+
+[[files]]
+file = "config/adfinders/Targets/nuclearcraft.cfg"
+hash = "c6af97b59d0c7e83b02ee807d01758245fe5a3fe20e05996b38dd8e5d21f863c"
+
+[[files]]
+file = "config/adfinders/Targets/osv.cfg"
+hash = "96feb31e3f9fa8753d9e7ee40819512807911df30565ead8b2c69ffe060cb8f1"
+
+[[files]]
+file = "config/adfinders/Targets/pixelmon.cfg"
+hash = "e9125c80b213b6676493ab54f3beec07481d8003a0b91fbbfd6b79e4c4cdc11a"
+
+[[files]]
+file = "config/adfinders/Targets/practicallogistics2.cfg"
+hash = "7e0accd3098b22c505b9f02fc08f7fbba804701dbd85869d001c478a1a4144ee"
+
+[[files]]
+file = "config/adfinders/Targets/projectred-exploration.cfg"
+hash = "e9ff6558a559d2de259f760fb8d43b34c11be04d207505d0518fe8fece62df3c"
+
+[[files]]
+file = "config/adfinders/Targets/quantumflux.cfg"
+hash = "3539e5d514a8838e9ee6de81facf759f38bbee794ab8f30f39b8f98ee62ed129"
+
+[[files]]
+file = "config/adfinders/Targets/quark.cfg"
+hash = "c2425ff190b0360f618e1942445a34dc5c3728aded7d5dacaf3afe1c9ae0e8b2"
+
+[[files]]
+file = "config/adfinders/Targets/railcraft.cfg"
+hash = "975d12a4631cede15afdc7c043d1a0af939ff51dc68f50b69ab1aec891921e40"
+
+[[files]]
+file = "config/adfinders/Targets/realworld.cfg"
+hash = "13360bd735d0e079de714bb342c998de56478bfc090f8d3b2806f1cc61ae90fc"
+
+[[files]]
+file = "config/adfinders/Targets/rftools.cfg"
+hash = "6f5de93363314caf59c99f427f4f537dc2fb5ea814ec41db50ce67eb40cacd08"
+
+[[files]]
+file = "config/adfinders/Targets/saltmod.cfg"
+hash = "7c5a1291ca5a7793ab31c4b2db9ccee0755e932aa30988b6c82ede42b28f9fa6"
+
+[[files]]
+file = "config/adfinders/Targets/sem.cfg"
+hash = "b443a9cb8d5b978acd5a1d8be398e55ae7df96985bd5d45a2d42b91f220523e2"
+
+[[files]]
+file = "config/adfinders/Targets/silentgems.cfg"
+hash = "6677bfac6c0578719ffaa56f3a879f3652fe5bd9c59f5405254ae6e3c663845b"
+
+[[files]]
+file = "config/adfinders/Targets/simpleoregen.cfg"
+hash = "e6d6057b25a5a7b0d9972d9a94af0fac53fd54e354629e2250a1be5583a5d2d2"
+
+[[files]]
+file = "config/adfinders/Targets/simpleores.cfg"
+hash = "75b0143dff29fa032c098394275a15e5894012f6d7c15a022f8a6d0b126d8e2e"
+
+[[files]]
+file = "config/adfinders/Targets/spectrite.cfg"
+hash = "7f87daf329f39bfda117f92c34fc47dbc72c466c98ad72281505e8fafe74bef4"
+
+[[files]]
+file = "config/adfinders/Targets/substratum.cfg"
+hash = "81bf5b429aeaf3d64f7751ac1e3f6f09ddbbd31986419a1238b71f4537b95807"
+
+[[files]]
+file = "config/adfinders/Targets/taiga.cfg"
+hash = "24ae4848691bd60fd456915b815cb8bde95dcdeeb1508f0b5ef8d22ee068d2ea"
+
+[[files]]
+file = "config/adfinders/Targets/tconstruct.cfg"
+hash = "a79532171ac5818e5f47db84126f21f0b948f25437644db1ff2bdcfdb9a6a477"
+
+[[files]]
+file = "config/adfinders/Targets/techreborn.cfg"
+hash = "73f3a7ddaf16c435de3f08ad10369d44a555b17c3735a0651d4d0097c0be3cc5"
+
+[[files]]
+file = "config/adfinders/Targets/terraqueous.cfg"
+hash = "e9ff1e7590a84d2a59caf935b30e5ddc9b49203d5e9d21c2eb2cd9e2a6d5490d"
+
+[[files]]
+file = "config/adfinders/Targets/tfc.cfg"
+hash = "a9792b934bad5b974e91a5da4ce983731951bebd6aa18c5a28f40948b62fa20d"
+
+[[files]]
+file = "config/adfinders/Targets/thaumcraft.cfg"
+hash = "843aae57029c61a2575d4b81df101725f4b519129ccc34d4b80dcc683b6075e5"
+
+[[files]]
+file = "config/adfinders/Targets/thebetweenlands.cfg"
+hash = "34f2a5cea703170d7827b4e2f563d52183d6645498f5a5b986756f4c0a46253f"
+
+[[files]]
+file = "config/adfinders/Targets/thermalfoundation.cfg"
+hash = "2857b411391481861d8918a885647b44b74a5c91e9a1df28dcf0818d29688367"
+
+[[files]]
+file = "config/adfinders/Targets/umm3185118519.cfg"
+hash = "0c693f18e4dd222d82c464f1b15389995b678b3af52854856eedd9b56773f2e2"
+
+[[files]]
+file = "config/adfinders/Targets/undergroundbiomes.cfg"
+hash = "fe5aa61732f1238a7a0a7227c535c32660127ee77b7a08390540d88d0878db09"
+
+[[files]]
+file = "config/adfinders/Targets/waterpower.cfg"
+hash = "85684d65a8d82077c2723a2faa2e25bfdd48c7de2d571d9df85b40807d275645"
+
+[[files]]
+file = "config/adfinders/adfinders.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/adlods/Deposits/aluminum.cfg"
 hash = "e7094d07a38e39909a695d9f2fbd54bae55ed93d4628b85ab1882d8c1976af1a"
 
@@ -1639,6 +1963,10 @@ hash = "38dfc05f43385e2dcc3d5bdfcb7c871bd467498b0fd6c811fbd32518f826c87c"
 [[files]]
 file = "config/adlods/Deposits/emerald.cfg"
 hash = "775e7ada531d20fd7d783034d755d391e0d5ef550d217c7bd36c1ea5c5529273"
+
+[[files]]
+file = "config/adlods/Deposits/gas_pocket.cfg"
+hash = "436711a4eeb76692002398e070dd064ece796e960e945299a5b55044dfc8f14c"
 
 [[files]]
 file = "config/adlods/Deposits/gold.cfg"
