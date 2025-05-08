@@ -1,0 +1,13 @@
+name = "Immersive Radial Menu"
+filename = "ImmersiveRadialMenu-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bfc7860e3bc87d1378e2de480176e0eab63623c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2809083
+project-id = 347832

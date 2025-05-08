@@ -5786,6 +5786,11 @@ hash = "c2e70ed47c81de37114a31dfac4cad60df3cc4065086de47bc998e51ae9508e1"
 metafile = true
 
 [[files]]
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
 file = "mods/chunk-animator.pw.toml"
 hash = "7f7114b9d1ed26d4930dd9c437a153940d7dbc289d5b53c08f30eab0b13d0551"
 metafile = true
@@ -5803,6 +5808,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "9dd04a72e14a6682f7b0084a7d13c51b3650432805ce0906e05a10d7014a6034"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "84bc0fd3c0936b57882354af57f54a7f9465f1d703262451b13371c320c3ef8c"
 metafile = true
 
 [[files]]
@@ -5921,6 +5931,21 @@ hash = "91288c7fa959ce571a3a55245f1c9e89d2407e1900fd2791fd8dba01173d33dc"
 metafile = true
 
 [[files]]
+file = "mods/engineers-decor.pw.toml"
+hash = "e269b797f696ea4a422384260a9ace0318e921b2ab3755310e7e60414ac7cf18"
+metafile = true
+
+[[files]]
+file = "mods/engineers-doors.pw.toml"
+hash = "08b5f8fc94a262879e96d04d848344be148fed9fa724853caab2e7abe391f759"
+metafile = true
+
+[[files]]
+file = "mods/engineers-tools.pw.toml"
+hash = "b5d34a581179e2c436ed7eeb8bb93fb597b1186e368b769566adf4103454413c"
+metafile = true
+
+[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "1dcd3a1624de4070c7cd48e72035b97d473864cb22dccd526fbc148d51c080e8"
 metafile = true
@@ -5938,6 +5963,11 @@ metafile = true
 [[files]]
 file = "mods/fantastic-lib.pw.toml"
 hash = "99f7c11aa136acc88f2c8400c01548db1c95b92e850c1648ac9654d797fa5930"
+metafile = true
+
+[[files]]
+file = "mods/farseek.pw.toml"
+hash = "fd631044375322659b95bfd6db3af47370e88f88ecadd54442ea3972109c5fd2"
 metafile = true
 
 [[files]]
@@ -6031,8 +6061,18 @@ hash = "3372635be0f180276d73433438cebcef10e5bccd5c5ba65f485ff334d299555c"
 metafile = true
 
 [[files]]
+file = "mods/immersive-magneticraft.pw.toml"
+hash = "cc30e4105eef998619e1d6fec288bd92bfcad335afe81790c0271a18d1aa73b2"
+metafile = true
+
+[[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "bdd2a0650580bc356b64b7f994b7a284e2e5f974c71277abf746d29935806211"
+metafile = true
+
+[[files]]
+file = "mods/immersive-radial-menu.pw.toml"
+hash = "736a3d8ffe982acc20d9e1c759bc679d5bf24551c5f7795c19b2577e466dd0b0"
 metafile = true
 
 [[files]]
@@ -6053,11 +6093,6 @@ metafile = true
 [[files]]
 file = "mods/instantunify.pw.toml"
 hash = "0a823d4c0a0daa1047a498066d174c7a5e55e0c7b0749f962c2956067d87f56e"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
-hash = "3a2d17a9bd75e98290b2eb449f124a8b9d7483c8117209c2a5a156b6a0aafde0"
 metafile = true
 
 [[files]]
@@ -6137,7 +6172,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
-hash = "e89ab3481449eab2437332c6b21ded6e8c40968f290dbb9bdf0f7bd2cc19c0ee"
+hash = "c6894c7391b8f50ce5d6792fe1b1a9e361b98198c5453b2b3bcb383ff16a0378"
 metafile = true
 
 [[files]]
@@ -6148,6 +6183,11 @@ metafile = true
 [[files]]
 file = "mods/mixinbootstrap.pw.toml"
 hash = "f4650fa691b456a7e81cbfe04c108a50e9e56151a469bb0da5cba8541af2ee02"
+metafile = true
+
+[[files]]
+file = "mods/modelloader.pw.toml"
+hash = "bf46002ff2d9b657ecd80baa538f01a8067958d9155f190cc409d6237da98d22"
 metafile = true
 
 [[files]]
@@ -6308,6 +6348,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "99e82c0db29d85e440d30f0d756999eac8cecd22daac0b59e9e4f652726712ee"
+metafile = true
+
+[[files]]
+file = "mods/streams.pw.toml"
+hash = "5705217fda4b2725d78d6dcefe5779dbcc5e457e0c09136e566e162702cee753"
 metafile = true
 
 [[files]]
