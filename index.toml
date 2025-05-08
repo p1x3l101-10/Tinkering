@@ -5379,6 +5379,11 @@ hash = "a32139b31d6ad05ef3d608a3e248b6e00db7db12b6d068b7602e77f0aa6a1649"
 metafile = true
 
 [[files]]
+file = "mods/advanced-finders.pw.toml"
+hash = "d81962b4fb314058b6ccdc6df9b0049b2cc4fec0a66918b87b5af4bb37618150"
+metafile = true
+
+[[files]]
 file = "mods/advanced-rocketry-2.pw.toml"
 hash = "5e757936c17ae4e690b2f5138ef214b8930a2606f2a2c9486c919fdba528b23a"
 metafile = true
@@ -6300,7 +6305,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/silent-portals.pw.toml"
-hash = "accb07c05c0625a5d3c3aace66d067ca06ddea68f413f6268743d06d8242efa8"
+hash = "e93367dcf84c9e1b9ac6ee03cc22eb4fbcf85f4712d21d08d58116f299c15df6"
 metafile = true
 
 [[files]]
