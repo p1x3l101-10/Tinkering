@@ -6299,6 +6299,11 @@ hash = "f7ffb4d3e8351f0e73234ca79727dae7fae9cd794f45f2ae2dd739244679f48d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/silent-portals.pw.toml"
+hash = "accb07c05c0625a5d3c3aace66d067ca06ddea68f413f6268743d06d8242efa8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/thaum-pack.pw.toml"
 hash = "7a93a426df2a6ed64ffa597e477ba70caa7d29f205bc034df8eed2f4c3342dd1"
 metafile = true

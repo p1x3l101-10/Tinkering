@@ -1,0 +1,13 @@
+name = "Silent Portals"
+filename = "Silent Portals v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DfFblSfP/versions/uljO1Cgb/Silent%20Portals%20v1.0.zip"
+hash-format = "sha512"
+hash = "e82f9565398e022cbf9d4359988601aa7d2d3e98a38026074dca242abcfd40fd636af798be79e25f67c053e3efe75cae73ab1133b905bc317972ff3b539e3929"
+
+[update]
+[update.modrinth]
+mod-id = "DfFblSfP"
+version = "uljO1Cgb"
