@@ -1,0 +1,13 @@
+name = "BetterNether Continuation"
+filename = "BetterNetherRotN-1.12.2-0.2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "8a9143219eee4529e50f74d85bcb033a16dabfb255ce2a56a14dd851656abf34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5035082
+project-id = 878052

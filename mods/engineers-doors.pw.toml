@@ -3,8 +3,8 @@ filename = "engineers_doors-1.12.2-0.9.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "32875f093e05f49af649a1209e4f5662cfa811ae"
+hash-format = "sha256"
+hash = "64843925d4d45d992ae23fe9595823c257c1e998d2d0606b0abc8c15bf690108"
 mode = "metadata:curseforge"
 
 [update]

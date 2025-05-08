@@ -3,8 +3,8 @@ filename = "Farseek-1.12-2.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "73664ec7575085d4a18010a9bce636b43ea40b60"
+hash-format = "sha256"
+hash = "28016063a5bce9f229305692795b1e64702985abc026d480e45d9663a96ea80c"
 mode = "metadata:curseforge"
 
 [update]

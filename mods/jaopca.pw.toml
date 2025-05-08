@@ -3,8 +3,8 @@ filename = "JAOPCA-1.12.2-2.3.12.33.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2ba06ee3db39e34a65872465ac8a8a1be4b70784"
+hash-format = "sha256"
+hash = "82bc272a40539cd1c346b80b658a9dd871b1b1cd8d83da985ca4578583f8494e"
 mode = "metadata:curseforge"
 
 [update]

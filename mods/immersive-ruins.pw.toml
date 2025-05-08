@@ -1,0 +1,13 @@
+name = "Immersive Ruins"
+filename = "ImmersiveRuins-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "4d0f2a0a837ca86836b9c67e75f8fa45f85b7d07e35e7ec97da8c0424bead58e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3037590
+project-id = 403431

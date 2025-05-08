@@ -3,8 +3,8 @@ filename = "JAOPCASingularities-1.12.2-3.0.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ba696c8b7a5f8f017ade92c8642545e73f91e1f0"
+hash-format = "sha256"
+hash = "b4e3d9f94f9313bbbb1347a9c18e96d8a537ac997cba43e163863f4d470c9220"
 mode = "metadata:curseforge"
 
 [update]

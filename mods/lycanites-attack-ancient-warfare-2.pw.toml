@@ -1,0 +1,13 @@
+name = "Lycanites Attack (Ancient Warfare 2)"
+filename = "lycanitesattackaw2-0.0.1-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "4319ed50253debe2a36f1e03ddb8c33a575334a7b8dbebad8b47ed484473ad0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5647189
+project-id = 1087623

@@ -3,8 +3,8 @@ filename = "modelloader-1.1.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8f77152980cafb1be5a4204f5773daef74de8627"
+hash-format = "sha256"
+hash = "6a5150bb4d1d116638e4e601fb0af6bbae30c175a4f0d8d1a2c16c0807f8dcdf"
 mode = "metadata:curseforge"
 
 [update]

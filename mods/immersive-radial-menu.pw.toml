@@ -3,8 +3,8 @@ filename = "ImmersiveRadialMenu-1.12.2-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1bfc7860e3bc87d1378e2de480176e0eab63623c"
+hash-format = "sha256"
+hash = "48968f436d0a7681ee4122b6a804839d656f50062f267f8b7cfcd2b7f61a082c"
 mode = "metadata:curseforge"
 
 [update]

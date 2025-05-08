@@ -1,0 +1,13 @@
+name = "Lost Magic"
+filename = "lostmagic-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "61135bfec286961aeefe77a644e09ab8b15d7b25b0ceb39fa61303107bddef0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4374607
+project-id = 337000

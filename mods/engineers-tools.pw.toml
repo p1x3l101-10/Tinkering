@@ -3,8 +3,8 @@ filename = "engineerstools-1.12.2-1.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ae721ece7e91627c1378266b9e25949e75a7745e"
+hash-format = "sha256"
+hash = "136c346a8c129ebf78c5a4c3bf093984ca60fa1844444ce93e03247cbf7dbe6e"
 mode = "metadata:curseforge"
 
 [update]
